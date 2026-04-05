@@ -1,0 +1,273 @@
+════════════════════════════════════════════════════════════════════════════════
+DRAGONBANE ADVENTURES — CHAPTER 4: JOURNEYS
+(Random Encounter Tables for the Misty Vale)
+════════════════════════════════════════════════════════════════════════════════
+
+Between adventures, the player characters will travel all over the Misty Vale.
+They might return to Outskirt to lick their wounds, or head straight to the next
+adventure. Use the travel rules in chapter 8 of the Rulebook.
+
+The map of the Misty Vale is not exact, so you may have to estimate distances and
+how long the journey will take.
+
+ADVENTURE SITES: The adventure sites in this book are marked on the GM map.
+With the help of rumors and the adventure cards, players should be able to locate
+the sites on the large map. Do not make them difficult to find.
+
+RANDOM ENCOUNTERS: Once per shift, or whenever it seems appropriate, roll on the
+relevant table for the region being traversed. You can also select a suitable
+encounter instead of rolling randomly.
+
+
+════════════════════════════════════════════════════════════════════════════════
+TABLE 1: RANDOM ENCOUNTERS AROUND OUTSKIRT (D12)
+════════════════════════════════════════════════════════════════════════════════
+
+1–6  Nothing Happens. The journey through grain fields and rolling hills is
+     uneventful.
+
+7    Merchant. The characters encounter a good-natured halfling merchant named
+     Theobald. On his donkey-drawn cart he has most Common items listed in chapter 6
+     of the Rulebook, and even a few Uncommon ones. He can also share a rumor about
+     an adventure site and would like to hear news from the characters.
+
+8    Farmers. Farmer Oda and her grown son Medvin are on their way to Outskirt to
+     sell their wares and would like to share camp with the characters. However,
+     Medvin has recently been recruited to the Sathmog cult by Leanara and asks lots
+     of questions about the characters' plans. He reports everything they say to
+     Leanara. They can run into Medvin a second time, for example during the
+     confrontation at the crypt of Um-Durman.
+
+9    Bandits. A band of unwashed thugs jumps out at a bend in the road, weapons
+     drawn. The leader is a rat-like man with a greasy smile: "Hand over your
+     valuables, or your lives and adventures end right here." The bandits outnumber
+     the characters by one and have stats as typical bandits on page 105 in the
+     Rulebook. They flee if half of them are defeated.
+
+10   Adventurers. Three banged-up adventurers on their way home from the same
+     adventure site the characters are headed to — a human thief, a wolfkin warrior,
+     and a mallard wizard, all with stats as typical adventurers on page 105 in the
+     Rulebook. They have taken a brutal beating and warn the characters to turn back.
+     They can provide details about the site if they get something in return.
+
+11   Dead Cultists. Three dead humans are hanging from a tree by the roadside, all
+     wearing black robes. A closer look reveals sword wounds on their bodies. They
+     bear the mark of Sathmog on their forearms — the characters notice this if they
+     actively look or succeed with a SPOT HIDDEN roll. These poor souls are Sathmog
+     cultists slain by the Eledain knight Tylos as a warning.
+
+12   Ruin. A short distance from the road is a ruin from the age of the dragon
+     empire. Only wall segments remain of what was once an impressive fortress.
+     Reliefs on the walls show a figure in a horned dragon helmet. If the characters
+     spend one shift investigating the ruin, they find the entrance to a secret
+     cellar. Down there is a chest — draw two treasure cards to see what it contains.
+
+
+════════════════════════════════════════════════════════════════════════════════
+TABLE 2: RANDOM ENCOUNTERS IN THE MAGNA WOODS (D12)
+════════════════════════════════════════════════════════════════════════════════
+
+1–6  Nothing Happens. The walk across gnarled roots and peculiar mushrooms is
+     uneventful.
+
+7    Flying Creature. A dreadful noise is heard from above and the characters are
+     struck by a bizarre sight: a cow is flying backwards over the treetops with
+     anguished moos. On its back sits a horned creature pulling the poor animal's
+     tail while screeching triumphantly. With a successful MYTHS & LEGENDS roll,
+     the characters recall stories of demonic beings traveling between worlds on
+     bewitched cattle. The creature is a lesser servant demon who has seeped into
+     the world through the Temple of the Purple Flame.
+
+8    Ancient Milestone. A low obelisk of weathered granite can be seen through the
+     trees, partially covered in moss and undergrowth, but with a pointy crown —
+     possibly horned — carved into the stone at the top. Characters who examine it
+     and succeed with a SPOT HIDDEN roll find a secret compartment that holds a
+     beautiful gold ring with a stylized crown. The ring contains a MAGIC SEAL with
+     the LIGHT magic trick, triggered by the phrase "Eledain, lord of the world,
+     give us light!"
+
+9    Harpies. The characters hear voices shrieking "Giiive meee", "Nooo, giiiive
+     meeee", "Noooo, I waaant the liiittle oneees." Suddenly three harpies (page 92
+     in the Rulebook) swoop down and attack them, primarily targeting the character
+     who carries the most metal. If two harpies are defeated, the last one escapes
+     but may come back later with more of its kind.
+
+10   A Cry For Help. The characters hear high-pitched cries for help echoing through
+     the tree trunks. Following the sounds, they find a group of robed figures armed
+     with scimitars, carrying a squealing goblin chained to a thick log. The figures
+     are Sathmog cultists on their way to the Temple of the Purple Flame, where they
+     intend to throw the poor goblin into the demon portal to see how the demonic
+     world affects living matter. They are as many as the player characters and have
+     stats as per page 105 of the Rulebook.
+
+11   Haunted Glade. The characters wander into a haunted glade and are surrounded
+     by an unnatural darkness. Suddenly a shimmering blue woman with empty eye sockets
+     materializes. The ghost (page 87 in the Rulebook) attacks without mercy but can
+     be appeased with a successful PERSUASION roll. In that case the ghost says it
+     "fell by a murderer's blade" a long time ago, but that its remains lie scattered
+     in this glade. A successful SPOT HIDDEN roll finds the bones. Burying its remains
+     brings peace to the ghost, and you can reward the characters by having it recount
+     a legend about the Misty Vale.
+
+12   Undead Guard Patrol. The path is blocked by skeletons — as many as the
+     characters — in antiquated armor. The crumbling ruin of a small watchtower can
+     be seen through the trees. If the characters draw closer, the captain shouts at
+     them in an archaic dialect. A successful LANGUAGES roll interprets the words as
+     "toll" and "death to the rebels." If the characters pay a toll of one gold coin,
+     or convince the skeletons that they too hate "the rebels" (PERSUASION roll), they
+     are allowed to pass. Otherwise, they must fight. All skeletons have stats as
+     warriors on page 96 in the Rulebook but are equipped with short spears and
+     chainmail.
+
+
+════════════════════════════════════════════════════════════════════════════════
+TABLE 3: RANDOM ENCOUNTERS IN THE IRON FOREST (D12)
+════════════════════════════════════════════════════════════════════════════════
+
+1–6  Nothing Happens. The walk under the dark foliage takes place without incident.
+
+7    Troll Lair. A foul stench suddenly hits the characters, and they see the
+     entrance to an underground lair behind some large boulders. Tracks of clawed
+     feet lead down into the dark. The lair is full of bone fragments from animals
+     and humanoids alike. If the characters search the lair for a stretch of time
+     and succeed with a SPOT HIDDEN roll, they may draw two treasure cards. After
+     one stretch, the troll (page 97 in the Rulebook) shows up in a rage.
+
+8    Goblin Trap. A group of sly goblins have set a trap in the middle of the path.
+     The character must make a SPOT HIDDEN roll. Anyone who fails crashes down into
+     a four-meter-deep pitfall and takes damage from the fall. Then the goblins
+     attack — they are twice as many as the player characters and have stats as
+     Scouts on page 90 in the Core Rulebook. The goblins can be bribed into
+     aborting the attack with D12 gold coins and a successful PERSUASION roll.
+     The goblins serve orc chieftain Maladûk, which they will admit if asked. They
+     can even reveal that Maladûk is currently at Bothild's Lode.
+
+9    The Dragon Knight. The characters hear the sound of rapid hoofbeats
+     approaching. Those who succeed with an AWARENESS roll can hide if they want;
+     the others are stopped by an armored knight. His name is Tylos, and he is a
+     member of the Keepers of the Immaculate Flame (their mark is on his armor).
+     Tylos asks where the characters are headed. No matter what they say, they must
+     roll PERSUASION for Tylos to believe them — he suspects them of being Sathmog
+     cultists on their way to Fort Malus to free a comrade imprisoned there. If the
+     roll fails, Tylos attacks unless they say they are working with Alfilia
+     Shadowleaf. If they manage to calm him down, Tylos orders them to follow him
+     to Fort Malus for "an important quest." If the characters refuse, they must
+     PERSUADE him again or be attacked. Tylos has the same stats as Isadelia (see
+     Fort Malus adventure) and rides a combat-trained horse.
+
+10   Prowling Manticore. A hungry manticore stalks the characters through the
+     trees. Let each character roll AWARENESS with a bane. If everyone fails, the
+     manticore's attack counts as surprising, which gives it initiative cards #1
+     and #2 in the first round. It runs off after losing half its HP.
+
+11   Hunting Elves. The two elven hunters Aldonil and Orifin lie in ambush (stats
+     as hunters on page 105 in the Rulebook). Let the players roll for AWARENESS
+     with a bane. Those who fail are caught by surprise — the elves suddenly appear
+     by the trail with bows drawn. They seek their friend Iliel, who has been
+     abducted by a mounted knight (see encounter #9 and Fort Malus). They suspect
+     the characters are involved but can be placated with a PERSUASION roll. If the
+     characters help the elves in some concrete way, they will be rewarded with a
+     mastercrafted elven weapon each next time they meet. If Iliel has already been
+     freed, she is here with the elves and the characters are invited to make camp
+     with all three.
+
+12   Chanting Cultists. The characters hear chanting from a gloomy glade. Moving
+     closer, they see hooded figures — as many as the characters — with burning
+     torches. Characters who succeed with a LANGUAGES roll hear the words "Sathmog,
+     our three-tongued master." The cultists have stats as per page 105 of the
+     Rulebook. If the ritual is interrupted, they attack and fight to the death.
+     If allowed to continue for a stretch, the cultists vanish into black smoke and
+     a demon (stats as per page 85 in the Rulebook) materializes and attacks.
+
+
+════════════════════════════════════════════════════════════════════════════════
+TABLE 4: RANDOM ENCOUNTERS IN THE HAUNTED MARSHES (D12)
+════════════════════════════════════════════════════════════════════════════════
+
+1–6  Nothing Happens. The player characters slosh tirelessly through the stinking
+     swamp.
+
+7    Leeches. A flooded section of the path is riddled with leeches. Anyone wading
+     through the water must roll BUSHCRAFT or take D3 damage and suffer a condition
+     of their choice. Armor has no effect.
+
+8    Hunting Trap. A rusty bear trap is hidden under a bunch of old leaves. Let all
+     characters make an AWARENESS roll in the order in which they walk. The first
+     person to fail triggers the trap and suffers D6 piercing damage.
+
+9    Giant Spider. A ravenous giant spider (page 89 in the Rulebook) has spun its
+     web across the path. All characters must make an AWARENESS roll — those who
+     fail are trapped in the spider's web and the spider attacks next round. Trapped
+     characters must roll STR with a bane to break free.
+
+10   Restless Spirits. Luminous shapes of orcs in broken armor are floating across
+     the swamp. The characters must make a roll against WIL to resist fear. These
+     are the spirits of orcs killed in battle around the Tower of Sighs.
+
+11   The Herbologist. The characters encounter an old herbologist named Elmina who
+     lives in a hut in the swamp. She can point them toward the Tower of Sighs and
+     warn them of a giant and a band of brigands who dwell there. For a few gold
+     coins, Elmina can also offer her services as a healer, or even teach them her
+     skills. Elmina has HEALING 16, ANIMISM 15, and knows the spells: Cook Food,
+     Clean, Banish, Heal Wound, Ensnaring Roots, and Animal Whisperer.
+
+12   Ghost Lights. The swamp vegetation grows higher and denser. In the darkness
+     under the trees, ghost lights illuminate the ground. Each character must make
+     a WIL roll not to be lured into the swamp. Those who fail soon get stuck in the
+     mud and must make an EVADE roll with a bane not to sink and start drowning.
+     Another character can save the victim with a successful ACROBATICS roll, but on
+     failure they start sinking as well.
+
+
+════════════════════════════════════════════════════════════════════════════════
+TABLE 5: RANDOM ENCOUNTERS AT THE FOOT OF THE MOUNTAINS (D12)
+════════════════════════════════════════════════════════════════════════════════
+
+1–6  Nothing Happens. The wind howls across the barren mountain slopes, and the
+     arduous march proceeds without delay.
+
+7    The Silhouette of Death. The characters are struck by anxiety and suddenly
+     feel small, harmless, and vulnerable. Moments later the world darkens as a
+     huge shadow glides across the sky. All characters who look up must roll WIL
+     to resist fear. With a successful BEAST LORE roll, the winged shadow — which
+     has spiky growths and an extended snout — is identified as a dragon.
+
+8    Nervous Orcs. The characters are surrounded by threatening orcs who show up
+     without warning from every direction. They outnumber the characters by two and
+     have the stats and gear of warriors on page 95 in the Rulebook. The scowling
+     orcs are extremely suspicious, but only want to know what the characters are
+     doing in the area. The orcs serve Maladûk and suspect the intruders of being
+     Sathmog cultists on the hunt for their chieftain. The risk of combat is high,
+     but it can be avoided with a successful PERSUASION roll.
+
+9    Angry Giant. A raging giant (page 88 in the Rulebook) comes charging at the
+     characters, roaring furiously as it swings its enormous wooden club. It reaches
+     them in two rounds. A successful BEAST LORE roll reveals that giants are
+     extremely territorial creatures. The giant aborts its attack if the characters
+     hurry away, which takes a successful EVADE roll and wastes their movement this
+     shift. Alternatively, a character can make a SNEAKING roll to hide or PERSUADE
+     the giant that they are no threat to his cave. Give the characters several
+     chances to avoid combat.
+
+10   Mistress of the Winds. The gales of a great storm howl between the mountain
+     peaks. Suddenly the characters see a hooded figure on a cliff, gesturing with
+     her arms and reaching for the sky. This is Sephyra, an elementalist mage trying
+     to conquer the western wind. Sephyra knows the mountains well and is familiar
+     with the stories of the dwarf queen Bothild. If the characters gain her trust
+     (PERSUASION roll), she can show them the way to Bothild's Lode, or even teach
+     them what she knows. She has skill level 15 in ELEMENTALISM and knows the
+     spells: Frost, Gust of Wind, and Whirlwind.
+
+11   The Dragon Egg. Beneath a protruding rock is a human-sized stone with red
+     streaks. Taking a closer look, the characters realize the strange thing is an
+     egg — clearly laid by some giant beast. A character who succeeds with a BEAST
+     LORE roll identifies it as a dragon egg, and also remembers hearing that dragon
+     eggs have poisonous shells. Anyone who touches it is afflicted by a lethal
+     poison with potency 7.
+
+12   Death From Above. A hungry griffon (page 91 in the Rulebook) spots the
+     characters from its nest at the top of a huge tree and attacks with a
+     blood-curdling shriek. Let each character roll AWARENESS with a bane. If
+     everyone fails, the griffon's attack is surprising and the beast gets initiative
+     cards #1 and #2 in the first round. The griffon will flee after losing half
+     its HP.

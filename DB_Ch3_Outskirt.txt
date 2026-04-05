@@ -1,0 +1,684 @@
+════════════════════════════════════════════════════════════════════════════════
+DRAGONBANE ADVENTURES — CHAPTER 3: OUTSKIRT
+(Hub Village — Full Location Key and NPCs)
+════════════════════════════════════════════════════════════════════════════════
+
+The village of Outskirt has developed around a crumbling temple ruin from the golden
+age of the dragon emperors. Most buildings are simple log cabins or rough timber
+houses, constructed in the last decade by adventurers, settlers, and fortune hunters.
+Outskirt is a place far away from honor and probity, filled with dreams and
+adventure, where every rumor and kind smile may lead you to glory, wealth, and
+everlasting fame — or to a sudden and excruciating death.
+
+
+────────────────────────────────────────────────────────────────────────────────
+ARRIVAL
+────────────────────────────────────────────────────────────────────────────────
+
+After the opening scene, the player characters will probably head directly to
+Outskirt. It takes roughly a day's march to get there.
+
+The vegetation thickens into dense forest as the characters descend toward the
+Misty Vale. They can simply follow the remains of the same old path winding its way
+through the mountains and down into the forest — no BUSHCRAFT roll needed.
+
+Here and there are weathered milestones protruding from the terrain, some decorated
+with stylized archaic crowns. A few kilometers from Outskirt the forest thins out
+and opens into cultivated fields.
+
+READ ALOUD: APPROACH TO OUTSKIRT
+
+"The wagon tracks give way to a paved road that cuts through the high grain fields.
+Countless smells invade your senses: manure, smoke, and rotting vegetables, but also
+freshly baked bread and grilled meat.
+
+The road leads to a settlement surrounded by a palisade, with lots of small houses
+with smoking chimneys visible beyond its sharpened logs.
+
+The village gate is closed and flanked by two low but sturdy towers of stone with
+crenellations and pointed wooden roofs. Drawing closer, you hear the stern voice of a
+man barking at you from one of the towers:
+
+'Halt, strangers! State your names and business or turn back to the forest — this is
+a place of peace and decency.'"
+
+The man in the tower is Hardy (location #2a). He wants to know their names and why
+they have come to Outskirt. If they answer and assure him they come in peace, the
+gate creaks open. If they ask questions, Hardy firmly refers them to Vagnhild at
+the Three Stags inn.
+
+
+────────────────────────────────────────────────────────────────────────────────
+THE SITUATION (GM Overview)
+────────────────────────────────────────────────────────────────────────────────
+
+Outskirt is the hub for the adventures that make up The Secret of the Dragon
+Emperor. It is where the player characters can upgrade gear, purchase weapons, hone
+skills, and recover between excursions. It is also where you plant clues which the
+players must find to progress the story.
+
+When the characters arrive, it is important that they quickly learn about the legend
+of the dragon emperor's statuette and the sword Um-Durman, so they are drawn into
+the adventure. Having gained clues in the opening scene, they will likely ask around
+the village. Good information sources:
+  - Leanara/Annabella: Secret Sathmog cultist at the Three Stags (see below).
+  - Alfilia Shadowleaf: Eledain knight at the Three Stags (see below).
+  - Dranath: Mystic at the chapel/temple area (location #9).
+
+THE DRAGON TEMPLE
+
+Outskirt is built around an ancient temple where the dragon emperor Eledain and his
+descendants are buried. Little of the building remains today, but in a crypt beneath
+the ruined walls rests Um-Durman. Opening the entrance requires the fully assembled
+statuette of Eledain, which must be placed in a certain niche. See location #8.
+
+THE DEMON CULTIST — LEANARA
+
+In Outskirt they will meet Leanara, the Sathmog-worshiping demon cultist mentioned
+by Master Weatherman in the opening scene. She has received two orders from Azrahel
+Koth: to monitor the temple ruin and keep an eye on adventurers visiting Outskirt.
+
+Leanara can usually be found at the Three Stags inn (location #4) where she works
+as a maid under the name of Annabella. She communicates with Azrahel Koth through
+messages delivered to the Isle of Mist by demonic bats. She has a handful of lesser
+cultists at her command, led by the bitter mallard warrior Quasimund.
+
+Leanara's plan: Let the player characters find the statuette pieces and the entrance
+to Um-Durman, then take the sword from them and bring it to Azrahel Koth. She does
+not reveal her connection to Sathmog, but tries to trick the player characters by
+feeding them important information mixed with lies and half-truths.
+
+LEANARA'S PITCH (when she approaches the player characters):
+
+After telling the Legend of Um-Durman (see Chapter 1), she continues:
+"I'm part of a sacred organization called the Truth Society, which strives to bring
+ancient artifacts and lost knowledge back to humankind. You strike me as capable
+adventurers. Would you help me find the lost statuette pieces and open the crypt of
+Eledain? Our order is not rich, but we can offer you 50 gold coins per piece — and
+the honor of fighting for a good cause.
+
+But beware — an order of dragon-worshiping knights is also looking for Um-Durman.
+They seek to reestablish the old draconic empire and enslave everyone living in the
+Misty Vale."
+
+If the player characters expose and neutralize Leanara before finding Um-Durman,
+Quasimund instead arranges the ambush in the temple area (see location #10).
+
+
+────────────────────────────────────────────────────────────────────────────────
+RANDOM EVENTS IN OUTSKIRT (D6)
+────────────────────────────────────────────────────────────────────────────────
+
+Roll when the characters arrive after an excursion, or whenever you want to liven
+things up. Several events are connected to Leanara and her cultists.
+
+1  Demonic Bat. A large bat comes flying from the temple area. With a successful
+   AWARENESS roll, a player character notices that something is attached to its
+   leg. The creature is one of Leanara's vampire bats on its way to Azrahel Koth
+   with a secret message. The characters cannot stop it at this time.
+
+2  Quasimund's Scum. "Oh, lookie here! What fiiine visitors have come to Outskirt!
+   I hope you didn't forget to pay the toll?" The characters are surrounded by
+   unsavory types led by the mallard Quasimund. They stink of mead and are as many
+   as the player characters plus 1. The thugs give up if more than half of them
+   are wounded or if given money for mead. They are really testing the characters'
+   combat capabilities on orders from Leanara.
+
+3  Troll in the Barn. Pandemonium spreads through the village and a voice shouts
+   "Troll in old man Mifaldor's barn!" The next moment the troll is right in front
+   of the player characters. It is a huge creature sniffing the air with its
+   enormous nostrils. The characters are plunged into combat unless they act
+   quickly, but the troll can be placated with a successful PERSUASION roll.
+   For stats, see page 97 in the Core Rulebook.
+
+4  Flour Thieves. Agitated shouting is heard from the mill, and soon the miller
+   Baryton Chubbycheeks comes huffing and puffing toward the characters. Several
+   sacks of his finest flour are missing and he will pay "whatever it takes" to
+   get them back. Baryton suspects Quasimund and his goons, but with a successful
+   BUSHCRAFT roll, the characters can find tracks leading to the Iron Forest where
+   some goblins are feasting on the flour. For goblin stats, see page 90 in the
+   Core Rulebook.
+
+5  Dead Messenger. There is a nasty bat carcass on the ground in front of the
+   characters, pierced by a crossbow bolt with a small scroll tied to its foot.
+   The message is written in obscure runes but can be deciphered with a successful
+   LANGUAGES roll: "Newcomers in Outskirt. Purpose unclear. Keeping an eye on
+   them." It ends: "All might to Sathmog, our three-tongued liberator." The bat
+   was shot down by Guard Captain Hardy.
+
+6  Cowardly Murderers. The characters hear excited cries and clashing swords from
+   a dark alley. They find Alfilia Shadowleaf lying on the ground. Three shadows
+   are fleeing — they are part of Quasimund's Scum and will fight to the death if
+   stopped. If questioned, they proudly admit they serve Sathmog. Alfilia is
+   fatally wounded and beyond saving. She manages to gasp: "They are servants of
+   Sathmog… all of them… Annabella too…" After a final prayer to Eledain,
+   she exhales: "Hail Eledain, master of the immaculate flame!"
+
+
+────────────────────────────────────────────────────────────────────────────────
+RUMORS IN OUTSKIRT (D12)
+────────────────────────────────────────────────────────────────────────────────
+
+Use these to point characters toward adventure sites where statuette pieces can
+be found. Many NPCs in Outskirt can relay these rumors.
+
+1   Riddermound. "This side of the Iron Forest there's an unholy place with huge
+    stones rising into the sky. Riddermound it's called, named after a dark knight
+    who was chained by the gods when the world was young. They say he was buried
+    alive in that mound, along with his family, his servants, and all his riches."
+
+2   The Orc Clans. "A human lifetime ago it was the orcs who ran things in the
+    Misty Vale. No one knows why they left, but rumor has it that a chieftain named
+    Maladûk is gathering the clans to reclaim the valley."
+
+3   Bothild's Lode. "The dwarves of the Kummer Mountains are decent and honest
+    folk. It was worse in the old days — during the reign of Bothild the Vile and
+    Greedy — when they dug too deep in their miserable mines and unleashed nameless
+    horrors on the world. But then again, what treasures they found! Apparently,
+    it's all still down there in Bothild's Lode, in the far southwest."
+
+4   Temple of the Purple Flame. "The Magna Woods is a diseased forest, and we all
+    know where the malady is coming from — the Temple of the Purple Flame, a
+    crumbling remnant of an evil age, where forbidden knowledge and demonic residue
+    rest among untold treasures under the overgrown rocks."
+
+5   Tower of Sighs. "There's a disgusting bog about a day's march east of here.
+    It's crawling with bloodsucking leeches and insects, and is a hideout for
+    bandits. But there are vast riches out there in the sludge, buried in the ruins
+    of an ancient watchtower. People around here call it the Tower of Sighs."
+
+6   Oracle Cave. "Did you hear about young Roric? The boy was taken from his farm
+    outside Outskirt. The tracks lead to the Iron Forest. People say he was brought
+    to the Oracle Cave. The Oracle is ancient and knows all there is to know about
+    the Misty Vale, and she's said to be sitting on immense wealth. But now and then
+    she demands a human sacrifice. I reckon we'll never see Roric again."
+
+7   Troll's Spire. "When the moon is full you can see a tower glittering like a
+    silver spire in the western parts of the valley. A magical tower, no doubt, for
+    none has yet found the way there. Some say it's home to an age-old alchemist
+    who long ago incurred the wrath of the dragon emperor. She hid from Eledain in
+    her tower, where she concocted an elixir that gave her everlasting life."
+
+8   Dead Eyes Cave. "A monstrous beast has crawled down from the mountains and
+    attacked Blind Hildi's farm southeast of Outskirt. There are whispers about a
+    cave full of torn-out eyes, but also great treasures and powerful weapons from
+    ill-fated adventurers who met their fate in the Dead Eyes Cave."
+
+9   Road's End Inn. "There is something strange about Road's End Inn by the edge
+    of the Haunted Marshes. Several guests there have disappeared without a trace,
+    among them a small child, and most recently the shepherd Antelia. Her family
+    is worried sick."
+
+10  The Village of the Day Before. "Seven centuries ago, this valley was home to
+    Kato the Curious, a sorcerer who served Emperor Eledain but betrayed his liege.
+    Kato's tower and the nearby village of Blackridge, in the far northeast, perished
+    in dragon fire when his treachery was discovered. Now he's said to haunt the
+    ruins of his tower, which supposedly holds all kinds of treasures. But no one who
+    tried to loot the ruins has ever returned."
+
+11  Fort Malus. "Fort Malus was constructed by House Stoneoak near the end of
+    Emperor Eledain's reign, to protect the family's most prized possession — the
+    Malus Aureus, a tree that bore golden fruit, apples of actual gold! The ruins of
+    Fort Malus still stand in the far northwest, probably with thousands of golden
+    apples lying at the roots of the old tree."
+
+12  The Isle of Mist. "The island in Mirror Lake at the northern end of the valley
+    is a place of death, avoided by all that live and breathe. Stories tell of ancient
+    magic — and a crypt brimming with gold and wondrous artifacts. But the island is
+    wreathed in demonic fog that sucks the life out of anything that comes near."
+
+
+────────────────────────────────────────────────────────────────────────────────
+LOCATIONS
+────────────────────────────────────────────────────────────────────────────────
+
+OUTSKIRT MAP KEY:
+  #1  Palisade
+  #2a South Gate
+  #2b North Gate
+  #3  The Village Square
+  #4  The Three Stags (inn)
+  #5  Master Ulvar's (shop)
+  #6  Smithy
+  #7  The Mill
+  #8  The Temple Area
+  #9  Dranath's Hut
+  #10 The Crypt of Um-Durman (underground, beneath #8)
+
+OUTSKIRT VILLAGE — ASCII MAP
+(North is up. The palisade encircles the entire village.)
+
+                          [2b] NORTH GATE
+                         /               \
+            ............/.................\............
+            .          |                 |           .
+            .     [7] Mill         [6] Smithy        .
+            .          |                 |           .
+            .     [8] Temple Area -------+           .
+            .     [9] Dranath's Hut (adj. to #8)     .
+            .          |                             .
+            .     [3] Village Square                 .
+            .    /     |     \                       .
+            . [5]Shop [4]Inn [6]Smithy  (see above)  .
+            .          |                             .
+            ............\............................ .
+                         \                           .
+                          [2a] SOUTH GATE --> road south
+
+CLEANER SCHEMATIC (adjacency diagram):
+
+        [2b North Gate]
+               |
+         (north road)
+               |
+    [7 Mill]--[8 Temple/9 Dranath]
+               |
+        [3 Village Square]
+        /      |       \
+   [5 Shop] [4 Inn]  [6 Smithy]
+               |
+        [2a South Gate]
+               |
+         (road south — leads to Drakmar Pass)
+
+NOTES:
+  - #1 Palisade encircles the entire village
+  - #10 Crypt of Um-Durman is underground beneath the temple (#8)
+  - #8 Temple is on a hill in the centre-north of the village
+  - #9 Dranath's Hut is adjacent to the temple area, with a garden
+  - The Three Stags (#4) faces the village square (#3)
+  - The smithy (#6) and shop (#5) also face the square
+
+────────────────────────────────────────────────────────────────────────────────
+
+1. PALISADE
+
+A crude palisade of sharpened logs winds its way around the settlement. Not very
+high — maybe one and a half men tall. Several large gaps can be seen between the
+logs.
+
+  - Guards: Patrolled around the clock by three villagers plus the guard captain
+    at the South Gate. One villager always mans a tower at the North Gate while
+    the others walk the palisade.
+  - Random Events #1 and #5 can occur here.
+
+
+ARMED VILLAGERS (generic stats)
+  Movement: 10   Damage Bonus: —   HP: 11   Armor: Leather (1)
+  Skills: Evade 8, Awareness 8
+  Typical Weapon: Short spear (skill level 10, damage D10)
+
+────────────────────────────────────────────────────────────────────────────────
+
+2A. SOUTH GATE
+
+A low, double-gated entrance flanked by two round towers of stone. A paved road
+leads south.
+
+  - Captain Hardy resides in one tower; the other is used as a briefing room and
+    gathering place for the guard patrols.
+  - Random Events #1 and #5 can occur here.
+
+
+HARDY — Guard Captain
+  A battle-hardened war veteran in his 40s, with shoulder-length hair and a broken
+  nose. The strong, silent type, but with a sentimental side that comes out after
+  a few mugs of mead at the inn. Sometimes heads out into the wilds to drive off
+  goblins, bandits, and other troublemakers, often accompanied by Jory.
+
+  Mov.: 12   Damage Bonus STR: +D4   HP: 16   WP: 14
+  Armor: Studded leather and open helmet (3)
+  Skills: Awareness 14, Brawling 14, Evade 12, Healing 8
+  Abilities: Defensive, Veteran
+  Weapons: Broadsword (skill level 14, damage 2D6), heavy crossbow (skill level 12,
+           damage 2D8), large shield
+
+────────────────────────────────────────────────────────────────────────────────
+
+2B. NORTH GATE
+
+A low gateway flanked by two round towers of stone with pointed wooden roofs. A
+well-trodden path leads out through the gate and snakes off through the terrain.
+
+  - Lookout: Always a villager standing guard in one tower, always equipped with
+    a large horn. Three short horn blasts followed by one long blare = danger.
+    During emergencies, guard increases to four — two in each tower.
+  - Random Events #1 and #5 can occur here.
+
+────────────────────────────────────────────────────────────────────────────────
+
+3. THE VILLAGE SQUARE
+
+The inn, the smithy, and the shop all face an open space where a weathered statue
+rises from the earth — a strange relic from a bygone era, depicting a warrior in
+antiquated armor.
+
+  - The Dragon Emperor: Both arms have fallen off, but one can still make out a
+    helmet with a horn-like crown. With a successful MYTHS & LEGENDS roll, the
+    characters recognize the statue as the dragon emperor Eledain, and notice great
+    similarities between the statue and the four-piece statuette on Weatherman's map.
+  - Random Events: All random events on page 16 can occur here.
+
+────────────────────────────────────────────────────────────────────────────────
+
+4. THE THREE STAGS (Inn)
+
+An impressive two-story building with a massive thatched roof and half-timbered
+walls. Outside the door hangs a red sign: "The Three Stags — Beer, bed, and food
+at heavenly prices." Cheery voices spill out, along with the smell of roasted boar.
+
+  - Common Room: From early morning to well after midnight there are D12+1 villagers
+    and visitors sitting in the common room — eating, drinking, gossiping, and
+    warming their joints by the great fireplace. Delicious meat stews and homemade
+    beer or mead are served at normal inn prices.
+  - Lodging: Upstairs there are ten beds divided between two double rooms and a
+    dormitory. Prices as per the Core Rulebook.
+  - Investigations: An excellent place to seek information about the Misty Vale.
+    Clues the characters may have missed elsewhere can be placed here as rumors
+    or a merry song.
+
+KEY NPCs HERE:
+
+VAGNHILD — Innkeeper (informal village leader)
+  An authoritative but jovial woman in her 40s. Keeps her graying hair in bulky
+  braids and wears a thick leather apron. Used to be a mercenary and always carries
+  a warhammer on her belt. Acts as informal village leader; coordinates the guards
+  along the palisade.
+
+  She welcomes the characters and gives each a tankard of mead on the house. Offers
+  to answer questions about the area and can relay rumors about adventure sites.
+  Also tells them: large bats have lately been seen flying over the rooftops (Hardy
+  has tried to shoot them down); a mystic named Dranath has settled in the temple
+  area and is a skillful healer.
+
+  Mov.: 8   Damage Bonus STR: +D4   HP: 12   Armor: Leather (1)
+  Skills: Evade 8, Healing 10, Persuasion 14
+  Weapons: Light warhammer (skill level 12, damage 2D6)
+
+LEANARA / ANNABELLA — Sathmog Cultist (VILLAIN)
+  Leanara has served Sathmog ever since her family was killed by fanatical Eledain
+  knights. She is a haggard woman of indeterminate age, but with kind eyes and
+  deep dimples. She will gladly lay down her life to thwart the servants of Eledain.
+
+  Works at the Three Stags as a perky, seemingly trustworthy maid named Annabella.
+  Will not wait long to contact the player characters. See GM Overview above for
+  her pitch and plans.
+
+  Bats: Characters who search the inn and succeed with a SPOT HIDDEN roll will
+  find a cage with D3 sleeping bats hanging outside a window on the second floor.
+  If they hide and keep an eye on the window, within one shift they will see Leanara
+  fetch one of the bats. With a successful SNEAKING roll, they can follow her to the
+  temple area, where she releases the bat after attaching a small piece of paper to
+  its leg.
+
+  Mov.: 14   Damage Bonus AGL: +D4   HP: 14   WP: 15   Armor: —
+  Skills: Brawling 12, Evade 14, Persuasion 12, Sneaking 16
+  Abilities: Backstabbing, Fast Footwork, Lightning Fast, Weasel
+  Weapons: Dagger (skill level 16, damage D8 + lethal poison potency 14)
+
+QUASIMUND — Leanara's Enforcer (Mallard)
+  A failed fortune hunter who regularly frequents the Three Stags. Bitter and violent,
+  which tends to come out when he drinks too much mead. Has sold his soul to Sathmog
+  for a few pieces of silver and half a keg of mead.
+
+  Mov.: 10   Damage Bonus STR: +D4   HP: 14   WP: 12   Armor: Leather (1)
+  Skills: Brawling 14, Evade 14, Sneaking 12
+  Abilities: Defensive, Veteran, Weasel
+  Weapons: Scimitar (skill level 16, damage 2D6), light crossbow (skill level 15,
+           damage 2D6)
+
+QUASIMUND'S SCUM (generic thugs)
+  Drunken wrecks of settlers and adventurers who lost everything in pursuit of
+  riches. Like Quasimund, they have sold their souls to Sathmog and attack as a
+  group, at least equal in number to the player characters.
+
+  Movement: 10   Damage Bonus: —   HP: 12   Armor: —
+  Skills: Evade 10, Sneaking 8
+  Weapons: Short sword (skill level 14, damage D10), sling (skill level 12, damage D8)
+
+ALFILIA SHADOWLEAF — Keeper of the Immaculate Flame
+  Sent by the Keepers of the Immaculate Flame. Looking for the keys to Um-Durman,
+  while trying to prevent the sword from ending up in Azrahel Koth's hands.
+  Grumpy and quiet, throws suspicious glances at Quasimund and his thugs.
+
+  If the characters gain her trust — showing a statuette piece and succeeding with
+  a PERSUASION roll — she can tell them the legend of Um-Durman and provide clues:
+  - Sathmog has reawakened Azrahel Koth to find Um-Durman.
+  - Azrahel Koth is probably in his crypt beneath Mirror Lake. Seems to be bound
+    to that place, but has many spies and servants in the Misty Vale.
+  - On the mist-shrouded island in Mirror Lake is the entrance to Azrahel Koth's
+    unholy resting place. The island is inaccessible — the mist is demonic and sucks
+    the life out of anything that comes near.
+  - She suspects it would take powerful anti-demonic magic to break through —
+    such as the sword Um-Durman.
+  - She is convinced Azrahel Koth has several spies in Outskirt. She has seen
+    demonic bats flying over the rooftops and thinks they are being used for secret
+    communication between the crypt under the Isle of Mist and someone in Outskirt.
+
+  Mov.: 10   Damage Bonus STR: +D4   HP: 15   WP: 14
+  Armor: Plate (6)
+  Skills: Brawling 14, Evade 12
+  Abilities: Defensive, Veteran
+  Weapons: Morningstar (skill level 16, damage 2D6), small shield
+
+DEMONIC BATS (Leanara's swarm)
+  Through Azrahel Koth, Leanara commands a swarm of demonically controlled vampiric
+  bats. Some are kept in a cage, but most are scattered around Outskirt. The swarm
+  arrives two rounds after being telepathically summoned by Leanara. For stats,
+  see page 99 in the Rulebook.
+
+────────────────────────────────────────────────────────────────────────────────
+
+5. MASTER ULVAR'S (Shop)
+
+An oblong, windowless log building. On the roof there are goats feeding on unkempt
+grass. Above the entrance hangs a grained wooden sign saying "Master Ulvar's" in
+curling letters.
+
+  - The shop is run by the proud Master Ulvar with assistance from his indolent and
+    disinterested son Jory.
+  - Gear: Does not sell weapons, shields, or armor, but most Common items listed in
+    chapter 6 of the Rulebook can be purchased here.
+
+MASTER ULVAR — Shopkeeper
+  A tall, red-faced man in his 50s with an impressive drooping mustache. Hands the
+  size of hams and a booming voice that makes his mustache quiver.
+
+  Mov.: 8   Damage Bonus STR: +D4   HP: 15   Armor: —
+  Skills: Brawling 12, Sneaking 8
+  Weapons: Long spear (skill level 12, damage 2D8)
+
+JORY — Ulvar's Son
+  Jory has little interest in shopkeeping and would rather be a warrior like Hardy —
+  according to persistent rumors, Jory's real father. The mother is unknown, but
+  there is talk of a half-orcish woman who left for the mountains some years ago.
+
+  Mov.: 12   Damage Bonus STR: +D4   HP: 14   Armor: Leather (1)
+  Skills: Evade 12, Sneaking 9
+  Weapons: Broadsword (skill level 12, damage 2D6), short bow (skill level 10, damage D10)
+
+────────────────────────────────────────────────────────────────────────────────
+
+6. SMITHY
+
+A large log building with an open front. The glow of a hearth can be glimpsed
+through the smoke, and from the hooks in the ceiling hang all kinds of weapons and
+armor pieces. Heavy hammer blows and a melodic, dwarven rumble pour out into the
+village square.
+
+  - The smithy is run by Okald and Badinor, dwarven twins from the Kummer Mountains
+    who settled in Outskirt after a difficult inheritance dispute.
+  - Weapons: All Common and Uncommon weapons, shields, and armor listed in chapter 6
+    of the Rulebook can be purchased here. Rare items can be ordered and be ready in
+    a week. The twins can also repair damaged weapons and armor, usually for half the
+    original purchase price.
+
+OKALD — Extroverted Twin (handles customers)
+  A heavily tattooed dwarf woman with a thick braided beard and a formidable
+  underbite. Happy and friendly, likes to tell stories of her wild years in the
+  mountains.
+
+  Mov.: 8   Damage Bonus STR: +D4   HP: 16   Armor: Leather (1)
+  Skills: Crafting 12, Evade 6, Persuasion 10
+  Weapons: Handaxe (skill level 15, damage 2D6)
+
+  ERRATA: Okald has skill level 12 in CRAFTING (corrected from original printing).
+
+BADINOR — Surly Twin (works in the smithy)
+  Surly and taciturn, feels more comfortable around rocks than living creatures.
+  Speaks to minerals in their own language. Nevertheless, a skillful blacksmith
+  with the respect of everyone in the village.
+
+  Mov.: 6   Damage Bonus STR: +D4   HP: 14   WP: 15   Armor: Leather (1)
+  Skills: Crafting 15, Evade 6
+  Abilities: Master Blacksmith
+  Weapons: Battleaxe (skill level 13, damage 2D8), light crossbow (skill level 12,
+           damage 2D6)
+
+  ERRATA: Badinor has skill level 15 in CRAFTING (corrected from original printing).
+
+────────────────────────────────────────────────────────────────────────────────
+
+7. THE MILL
+
+At the edge of the village is a small windmill whose sails rotate slowly in the
+wind. The mill is connected to a log house where piglets, chickens, and carefree
+toddlers run around in the fenced yard. An almost irresistible scent of freshly
+baked bread surrounds the idyllic place.
+
+  - Mr. and Mrs. Chubbycheeks: Spouses Semolina and Baryton Chubbycheeks run the
+    village mill. They are halflings and live in the adjoining cottage with their
+    nine children and countless pets.
+  - Field Rations: The spouses also run a humble bakery where the characters can buy
+    freshly baked bread for only 3 silver coins per daily ration.
+
+SEMOLINA CHUBBYCHEEKS
+  An unusually muscular halfling with thick upper arms and a flour-stained apron.
+  She keeps the mill wheels turning and produces the flour needed to keep the
+  villagers' hunger at bay.
+
+  Movement: 8   Damage Bonus: —   HP: 12   Armor: Leather (1)
+  Skills: Evade 12, Healing 9, Sneaking 13
+  Weapons: Wooden club (skill level 8, damage D8)
+
+BARYTON CHUBBYCHEEKS
+  A plump but elegant halfling with handsome curls and a winning smile. Responsible
+  for stock-keeping, sales, and baking the bread. Always stressed, worrying that
+  their resources might not be enough to feed their numerous offspring.
+
+  Movement: 8   Damage Bonus: —   HP: 10   Armor: —
+  Skills: Evade 14, Persuasion 15, Sneaking 14
+  Weapons: Dagger (skill level 12, damage D8)
+
+────────────────────────────────────────────────────────────────────────────────
+
+8. THE TEMPLE AREA
+
+A hill in the middle of the village with weathered pillars and the remains of a
+circular wall. At the crest stands a magnificent but crumbled temple. A peaceful
+place that exudes a sense of bygone glory and ancient mystery.
+
+  - The Temple: The circular main building is in disrepair, but the ceiling is
+    covered with a huge symbol. A successful MYTHS & LEGENDS roll reveals it is a
+    stylized crown of the same kind as those on the milestones in the Misty Vale.
+
+  - Entrance to the Crypt: There is a small niche hewn into one of the wall segments
+    around the temple. The characters can find it if they look in exactly the right
+    place or succeed with a SPOT HIDDEN roll. Carved into the niche are archaic runes
+    which can be read with a successful LANGUAGES roll: "Eledain — Emperor of the
+    World — Master of Dragons — Keeper of Um-Durman." At the bottom of the niche is
+    a depression. Placing the fully assembled statuette in this depression opens the
+    entrance to the hidden chapel (location #10). When that happens, the ground in
+    front of the niche collapses with a loud crash and reveals a rough-hewn stairway
+    of stone leading down into the dark. A player character standing by the niche
+    must succeed with an EVADE roll or fall four meters and take damage.
+
+  - Nocturnal Visits: If the characters visit the temple during nighttime, they will
+    see Leanara on the first night. She sneaks into the temple area and releases one
+    of her bats, which flutters off with an unpleasant squeak. She then spends about
+    an hour searching the area before returning to the Three Stags.
+
+  - Random Events: All random events from the Outskirt table can occur here.
+
+────────────────────────────────────────────────────────────────────────────────
+
+9. DRANATH'S HUT
+
+A simple dwelling with a grass roof and walls of stacked granite. A connecting
+garden is surrounded by a low fence. Herbal-smelling smoke billows out of an
+opening in the roof.
+
+DRANATH — Mystic
+  Dranath is wrinkled as a shriveled prune and does not have a single hair on his
+  body. He wears a sack-like garment and goes barefoot regardless of the weather.
+  Despite his asceticism, Dranath can be tempted with sweets, and a mug of mead
+  is usually enough to loosen his tongue.
+
+  Movement: 8   Damage Bonus: —   HP: 12   WP: 16   Armor: —
+  Skills: Animism 16, Healing 15, Languages 13, Myths & Legends 15
+  Spells: Sense Magic, Dispel, Protector, Magic Shield, Banish, Ensnaring Roots,
+          Lightning Flash, Treat Wound, Heal Wound, Lightning Bolt, Purge
+  Weapons: Staff (skill level 12, damage D8)
+
+  - Healing Magic: Dranath can treat the characters' injuries with HEAL WOUND at
+    the price of 5 gold coins per power level.
+
+  - Teacher: For a fee of 3 gold coins per shift, Dranath can teach the characters
+    his skills and spells.
+
+  - Clues (if the characters ask the right questions and succeed with a PERSUASION
+    roll, or offer him mead or sweets):
+      > The legend of Um-Durman.
+      > A thousand years ago the Misty Vale was ruled by a warlock named Azrahel
+        Koth who served the demon prince Sathmog. Azrahel Koth resided in an unholy
+        fortress on the mist-shrouded island in Mirror Lake. His remains are said to
+        rest in a labyrinthine burial chamber beneath the island.
+      > Azrahel Koth was defeated by the hero Eledain with the help of ancient
+        dragons. Eledain then declared himself emperor. The temple ruin in Outskirt
+        originates from that empire.
+      > A mysterious woman is sneaking around the temple area at night, seemingly
+        looking for something. Dranath has heard her speak in an ancient language to
+        another creature, which responded with a squeak and flew off.
+
+────────────────────────────────────────────────────────────────────────────────
+
+10. THE CRYPT OF UM-DURMAN
+
+A tomb-like shrine with empty torch holders on the walls. The darkness is dense,
+but on a stone altar in the middle of the room you can see a jeweled greatsword, a
+golden goblet, and an open book. Water from a fountain in the wall pours down into
+a small font. Menacing statues of knights in horned great helms are placed in the
+corners.
+
+  - Darkness: Pitch black — adventurers will need a light source.
+
+  - Magical Trap: Touching the sword without first reciting the prayer from Eledain's
+    prayer book AND taking a sip of water from Eledain's goblet triggers a LIGHTNING
+    BOLT at power level 1. Another LIGHTNING BOLT is triggered for each round of
+    continued contact until the trap's CHARGE of 20 WP is depleted (each LIGHTNING
+    BOLT uses 4 WP as it is indoors).
+
+  - Eledain's Prayer Book: The hefty tome is open at a page with ancient but clear
+    letters. Reading them requires a successful LANGUAGES roll: "Hail, Emperor of the
+    World — Lord of Light — Punisher of Impurity — Eledain Forever, in the Depths of
+    Our Pure Hearts."
+
+  - Eledain's Goblet: A golden goblet decorated with a stylized crown of the kind
+    seen elsewhere in the Misty Vale.
+
+  - Um-Durman: The sword on the altar is the much-sought blade Um-Durman — a
+    mastercrafted weapon with beautiful ornaments and a jeweled hilt. Um-Durman is a
+    greatsword with STR requirement 13, durability 18, and a special version of
+    ENCHANT WEAPON with PERMANENCE — whenever the sword hits a dragon or demon, the
+    attack automatically counts as a dragon roll.
+
+  - Leanara's Betrayal: If the characters acted on behalf of Leanara — or shared
+    information from their investigations with her — she arranges an ambush outside
+    the entrance and attacks the moment they emerge from the chapel. She sends a
+    swarm of her demonic bats at the group, while Quasimund charges in with his thugs.
+    Leanara herself throws at the player character carrying Um-Durman, poisoned
+    knife in hand.
+
+  - HEROIC ABILITY: If the player characters retrieve Um-Durman and defeat the
+    cultists, each of them is rewarded with a heroic ability of their choice after
+    the end of the session.

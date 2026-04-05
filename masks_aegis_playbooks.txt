@@ -1,0 +1,349 @@
+═══════════════════════════════════════════════════════
+SECRETS OF A.E.G.I.S. — PLAYBOOK REFERENCE
+For use in Section 13 of the Solo GM Prompt
+═══════════════════════════════════════════════════════
+2 playbooks: The Brain and The Soldier.
+NOTE ON THE SOLDIER: This playbook has a sixth Label
+(Soldier) and a built-in institutional relationship with
+A.E.G.I.S. It works best when A.E.G.I.S. is an active
+presence in the campaign. As a Claude-played teammate,
+the Soldier's A.E.G.I.S. obligations are an excellent
+source of external pressure and conflicting loyalties.
+═══════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE BRAIN
+Book: Secrets of A.E.G.I.S.
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can your genius save the world, or will what you've
+already created destroy it?
+
+SPECIAL MECHANIC — YOUR SHAME:
+You have a deep sense of guilt for something you created
+or set into motion. Your role in its creation is not
+publicly known... yet.
+
+Choose your shame:
+- A prototype AI
+- A cosmic phenomenon
+- A catastrophic weapon
+- A dangerous chemical
+- A living monstrosity
+- An altered former ally
+
+SHAME RULES:
+- Whenever you are confronted with your shame: either
+  mark a condition OR shift Superior down and Danger up.
+- If your shame is an NPC: they can NEVER lose Influence
+  over you.
+- END OF SESSION question: Did you take steps to make
+  amends for your shame?
+  Yes: mark potential.
+  No: give Influence to one of your teammates.
+
+FURTHER ADVANCEMENT NOTE: "Confront your Shame on your
+terms; if you survive, change playbooks" — the Shame is
+a potential campaign-ending arc, similar to the Doomed's
+nemesis.
+
+ABILITIES (no natural powers; all from inventions):
+Choose one signature invention you are best known for:
+- prosthetic self-altering limbs
+- power armor or cyborg body
+- size-change device
+- robotic sidekick
+- force field belt
+- hi-tech vehicle
+
+MOMENT OF TRUTH:
+All the superpowers, training, and experience in the
+world are helpless — and that's when your intellect
+rises to the occasion. Your plan, your invention, or
+your lightning-fast thought processes save the day in
+a way no one else could have foreseen. But after you've
+shown how different you are from them, that distance
+only grows. The world is going to pull you farther apart.
+
+TEAM MOVES:
+Triumphant celebration: Ask them if they felt they could
+have done it without you. If yes: give Influence to them
+and mark a condition. If no: they give Influence to you.
+Vulnerability/weakness: Hold 2. Spend hold 1-for-1 to
+clear a condition or add 1 Team to the pool when you
+are with them.
+
+STARTING INFLUENCE:
+Give Influence to TWO teammates. (You need these people
+as much as they need you.)
+
+STARTING RELATIONSHIPS:
+- You told [Name] about your shame and asked for their
+  confidence.
+- You wish you could be a better hero, more like [Name].
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+I created something lasting and beneficial for the whole
+team. What was it?
+
+BRAIN MOVES (choose three):
+- Above the fray: When you enter battle as a team against
+  a dangerous foe, if you have Influence over the leader
+  and provide tactical input, add 1 Team to the pool.
+  When you contradict the leader during the battle, you
+  may return Influence over the leader to add an
+  additional 1 Team to the pool.
+
+- Mission debrief: During a debrief, when you downplay
+  your role in helping a teammate during the mission,
+  mark potential and shift Superior down and any other
+  Label up. When you exaggerate your role in helping a
+  teammate during the mission, clear a condition and
+  either give them Influence or lose Influence over them.
+
+- Logical angle: When you comfort or support someone by
+  rationally pointing out their mistakes so they can do
+  better next time, roll +Superior instead of +Mundane.
+  If they do not open up to you, mark a condition.
+
+- Scientific insight: You have achieved mastery over a
+  field of science and technology. Name it: [field].
+  Whenever you assess the situation and your field of
+  study is directly relevant, you may ask a single
+  follow-up question.
+
+- Always prepared: When you have a chance to restock
+  your supplies, hold up to 2-gadgets. When you unleash
+  your powers by producing a brand new minor invention
+  or gadget from your supply, spend 1-gadget and roll
+  +Superior. When you reach 0-gadgets, mark a condition.
+
+- Tactical genius: When you point out the obvious flaw
+  in a known foe's plan, roll +Savior. Hit: you're right,
+  and another teammate (your choice) can take advantage;
+  they get +1 ongoing to act on your information. 7-9:
+  pick one:
+  - You missed something important. GM tells you what.
+  - You look like a showoff. Your chosen teammate takes
+    Influence over you and you lose Influence over them.
+  - You make your teammates feel like pawns. Your chosen
+    teammate marks a condition.
+  Miss: you've played into your enemy's hands; watch
+  the trap spring.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x3)
+- Take a Sanctuary from the Doomed playbook
+- Take Drives from the Beacon playbook
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Confront your Shame on your terms; if you survive,
+  change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Become a paragon of the city for however long you have
+  left
+
+GM NOTES:
+The Shame is the Brain's Doom Track equivalent — the
+key difference is that it's a secret about the past
+rather than a fate about the future. Track the end-of-
+session question rigorously; the "no" answer (give
+Influence to a teammate) is a slow erosion of autonomy
+that should feel meaningful. Confronted with the shame
+moments should be dramatic and infrequent, not routine.
+Superior is their dominant Label and their defense
+mechanism; Logical angle is their most telling move —
+the Brain tries to comfort people by being correct, and
+it almost never works the way they hope. The triumphant
+celebration question ("could you have done it without
+me?") is the most psychologically loaded question in
+this playbook; the answer should sometimes be yes.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE SOLDIER
+Book: Secrets of A.E.G.I.S.
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you serve a cause you believe in without becoming
+the thing you're fighting against?
+
+SPECIAL MECHANIC — A HIGHER CALLING (THE SOLDIER LABEL):
+You have a sixth Label called SOLDIER in addition to
+the standard five. It functions exactly like any other
+Label (range -2 to +3, can be shifted by those with
+Influence over you, mark a condition if it would exceed
++3 or drop below -2).
+
+SOLDIER LABEL RULES:
+- When you're acting on orders and relying on your
+  training: give A.E.G.I.S. Influence to use Soldier
+  instead of any other Label when you make a basic or
+  playbook move.
+- You cannot lock Soldier with a Moment of Truth.
+- You can only cancel A.E.G.I.S.'s Influence over you
+  with the specific advancement "A.E.G.I.S. permanently
+  loses Influence over you; change playbooks."
+
+A.E.G.I.S. INSTITUTIONAL MOVES:
+- When you invoke your authority over civilians, Halcyon
+  City personnel, or A.E.G.I.S. staff: roll +Soldier.
+  Hit: your words carry weight. 7-9: someone will push
+  back against your orders sooner rather than later.
+  Miss: your attempts to control the situation create an
+  opportunity for your enemies within A.E.G.I.S. to act
+  against you.
+
+- When you ask A.E.G.I.S. for additional resources,
+  equipment, or information during a mission: roll
+  +Soldier. Hit: they'll resupply you as best they can.
+  10+: resources are highly classified or experimental;
+  take +1 ongoing to deploying them throughout the
+  mission. Miss: A.E.G.I.S. sends what they think you
+  need, regardless of what you actually requested.
+
+IMPORTANT FOR SOLO PLAY: A.E.G.I.S. always has Influence
+over the Soldier. This means A.E.G.I.S. is a permanent
+NPC pressure source — they can shift the Soldier Label
+and other Labels, issue orders, and create complications
+at any time. Track A.E.G.I.S.'s Influence the same way
+you track any adult NPC's Influence.
+
+ABILITIES (A.E.G.I.S. found you before you had full
+control; they helped you master and possibly augment
+your gifts. Choose two):
+- superstrength and durability
+- energy blasts
+- enhanced senses
+- a signature weapon
+- augmented/mechanical limbs
+- an alternate/monstrous form
+
+MOMENT OF TRUTH:
+When things look bleakest, you find a way forward
+without violence. Your enemies lay down their arms;
+your allies step back from the brink. The people you've
+saved may even come to see you as a symbol of the higher
+cause you claim to serve. A symbol, and all that comes
+with it.
+
+TEAM MOVES:
+Triumphant celebration: Tell them what they need to do
+to achieve their full potential. If they accept your
+advice: take Influence over them and add 2 Team to the
+pool. If they reject it: mark a condition.
+Vulnerability/weakness: Ask them what cause they serve.
+If you find it worthy: tell them how you will fight for
+it, clear a condition, and add 1 Team. If they don't
+have a cause or you find it unworthy: mark a condition.
+
+STARTING INFLUENCE:
+Tell TWO teammates what they did to earn your esteem
+and give them Influence. Everyone else will have to
+match their efforts.
+
+STARTING RELATIONSHIPS:
+- [Name] is crucial to the long-term success of A.E.G.I.S.
+  I must protect them.
+- [Name] isn't always thrilled with the way A.E.G.I.S.
+  handles things. I've come to value their critiques,
+  even if I don't always agree with them.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+Our victory secured an important resource for A.E.G.I.S.
+What was it?
+
+SOLDIER MOVES (start with Before we get started plus
+one more):
+- Before we get started (mandatory): When you have time
+  to closely observe your opposition before a fight,
+  roll +Savior. 10+: hold 3. 7-9: hold 2. Miss: hold 1
+  and mark a condition. During the fight, spend your
+  hold to name a character you observed and:
+  - redirect their attack to another character or
+    nowhere (into a wall or the sky)
+  - cross the distance between them and you
+  - stun them, close up or from a distance
+  - ignore all harm from one of their attacks
+  - escape any bindings or impediments they attempt
+    to place on you
+
+- No, you move: When you demand that an NPC live up to
+  a higher moral code, roll +Savior. Hit: they have to
+  meet your standard or mark a Condition. 10+: take
+  Influence over them as well. Miss: they reveal that
+  the conflict in question is more complicated than it
+  seems; give them Influence over you.
+
+- I can do this all day: When something causes you to
+  remove yourself from a fight, you can shift Savior
+  down (and another Label up) instead. If shifting
+  Savior down would move it below -2, you have to leave
+  the fight instead of shifting Labels.
+
+- It kinda feels personal: When you discover that someone
+  has misled you or betrayed your cause, mark a condition
+  to take +1 ongoing against them until they are brought
+  to justice.
+
+- Mission first: When you secure a valuable resource by
+  defeating a powerful foe, you can shift your Savior up
+  and any other Label down. If you and your team managed
+  to avoid causing any collateral damage, clear a
+  condition as well.
+
+- More than a shield: When you directly engage a threat
+  by heading directly into danger without regard for
+  your own safety, roll with Savior instead of Danger.
+  On a miss, your focused attack leaves someone in grave
+  danger; the GM will tell you what it takes to keep
+  them safe.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x3)
+- Take a move from another playbook
+- Unlock your Moment of Truth
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Undergo enhancement: take two new abilities
+
+FURTHER ADVANCEMENT (after 5):
+- Lock Soldier; add +1 to a Label of your choice
+- Take a Mentor and any move from the Protégé playbook
+- A.E.G.I.S. permanently loses Influence over you;
+  change playbooks
+- Take an adult move (x2)
+- Retire from A.E.G.I.S. to civilian life OR join the
+  upper echelons as a Senior Director
+
+GM NOTES:
+The Soldier Label is the most mechanically distinctive
+feature in any playbook — it's a Label that represents
+institutional identity, not personal identity. Track it
+separately and be willing to have A.E.G.I.S. use their
+Influence to shift it. The Soldier's relationships are
+defined by cause and loyalty; the vulnerability/weakness
+team move ("what cause do you serve?") is a character-
+revealing question — use it. Savior is the Label they
+lean on for almost everything; I can do this all day is
+the move that lets them stay in fights through sheer
+will. Before we get started rewards planning and
+observation; create opportunities for scouting before
+major confrontations. The two relationships (protect
+one person for A.E.G.I.S., value another's critiques
+of A.E.G.I.S.) should eventually come into direct
+conflict — that's where this playbook lives.
+
+
+═══════════════════════════════════════════════════════
+END OF SECRETS OF A.E.G.I.S. REFERENCE
+Next file: Masks: Unbound playbooks
+═══════════════════════════════════════════════════════

@@ -1,0 +1,815 @@
+═══════════════════════════════════════════════════════
+HALCYON CITY HERALD COLLECTION — PLAYBOOK REFERENCE
+For use in Section 13 of the Solo GM Prompt
+═══════════════════════════════════════════════════════
+5 playbooks: The Reformed, The Newborn, The Innocent,
+The Star, The Joined.
+NOTE ON THE JOINED: This playbook requires two PCs
+and is not suitable for Claude-played teammates in a
+solo campaign. It is documented here for completeness
+and in case the player's hero is the "other half."
+═══════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE REFORMED
+Book: Halcyon City Herald Collection
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you truly choose to be a hero, or will your past
+always define you?
+
+SPECIAL MECHANIC — FRIENDS IN LOW PLACES:
+You have ties to three villains from your previous
+career. Choose three names (or invent your own):
+Finch, Ellen "Devil" Drummond, Mr. Cane, The Mad
+Magpie, Dr. Cutler, Armorer, Tegan Queen, Lovelace
+
+For each, choose a specialty:
+weapons / materials / cosmic artifacts / alien tech /
+insider info
+
+Each villain has an Obligation track (4 boxes).
+At character creation: mark 2 obligations on one villain
+and 1 on another.
+
+FRIENDS IN LOW PLACES RULES:
+- When you go to them for help: mark obligation on them
+  and they help within their specialty. If all 4 boxes
+  are full, they won't help until you help them first.
+- When time passes: roll +your highest obligation.
+  10+: they come crashing into your life with a crisis.
+  7-9: they call for a favor.
+  Miss: they don't come knocking yet, but mark
+  obligation — the debts are getting heavier.
+- When you help one of them with their problems: erase
+  2 obligations on them.
+
+ABILITIES (choose one — you're known for this above
+all else):
+- poison, venom, or acid control
+- weapons and martial expertise
+- ferrokinesis
+- vitality absorption
+- fear manipulation
+- geokinesis
+
+MOMENT OF TRUTH:
+You show the world that being a hero is a choice — an
+act of will. When everything is on the line and your
+back is against the wall, you prove you've got what it
+takes. Afterward, both heroes and villains will deeply
+question where your loyalties truly lie.
+
+TEAM MOVES:
+Triumphant celebration: Ask them what gives them hope
+for a brighter day and give them Influence over you.
+Vulnerability/weakness: Ask them what they would do
+something dark for, and gain Influence over them.
+
+STARTING INFLUENCE:
+Do you talk openly about your days as a villain?
+If yes: give ALL teammates Influence over you.
+If no: give Influence only to the one teammate whose
+example you most closely follow.
+
+STARTING RELATIONSHIPS:
+- I've earned the trust of [Name], and I follow their
+  example of what a hero should be.
+- I did something terrible to [Name] once. I hope they
+  can forgive me one day.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We fought a terrible enemy from my old life. Who was it
+and what did they take from me?
+
+REFORMED MOVES (choose two):
+- What the hell, hero: When you call out an injustice a
+  hero has perpetrated, roll +Danger. Hit: take Influence
+  over them. 7-9: choose one. 10+: choose two.
+  - you get them to admit their wrongdoing
+  - you win over an onlooker; take Influence over them
+  - you don't turn their attention and anger onto
+    yourself
+  Miss: they dismiss you; mark a condition (their
+  choice), shift Danger up, Savior down.
+
+- Wrong side of the tracks: You always get to ask an
+  additional question when you pierce the mask of a
+  villain, even on a miss. When you pierce the mask of
+  a hero (your call), add this question to the list:
+  - what was your darkest moment?
+
+- Not so different: When you provoke someone to
+  criminal or villainous action, you can use Danger
+  instead of Superior.
+
+- Dark past: When you confess to a serious crime you
+  committed as a villain while in the presence of
+  someone involved, shift Danger up and any other Label
+  down, say what you did, and choose one:
+  - no one was hurt badly by the crime
+  - you aren't in legal danger from the crime
+  - you aren't being actively pursued for extralegal
+    retribution
+
+- Blowing off steam: When you commit a misdemeanor or
+  small "victimless" crime, you may clear a condition
+  of your choice.
+
+- Do me a favor: When you go to an ordinary civilian
+  you know for a favor, roll +Mundane. 10+: they'll
+  lend you a hand. 7-9: they need a promise up front.
+  Miss: you catch them up in your superpowered nonsense
+  and they suffer for it.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Take Drives and mark four (from the Beacon's playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Friends in Low Places mechanic is a slow-build
+villain intrusion system — track obligations carefully
+and use the "time passes" roll to bring the past
+crashing in at dramatically inconvenient moments. The
+Reformed's villain contacts should feel like people,
+not just resources. The hero/villain divide is the
+core tension: NPCs on both sides will distrust them.
+Danger is the Label that grows when they lean into
+their past; Savior is what they're building toward.
+The crime they committed against a teammate is one of
+the richest relationship seeds in the game — don't
+let it stay abstract.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE NEWBORN
+Book: Halcyon City Herald Collection
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+What does it mean to be a person, and who gets to
+decide?
+
+SPECIAL MECHANIC — A BLANK SLATE (LESSONS):
+You were created with a basic understanding of the
+world. Fill in two lessons at character creation; fill
+in the other two during play when you've learned them.
+
+Lesson slots:
+- I am ___________
+- A superhero should ___________
+- Always ___________
+- Never ___________
+
+LESSONS RULES:
+- When you embody one of your lessons: shift one Label
+  up and one Label down (your choice). If you cause a
+  misunderstanding, collateral damage, or unintended
+  consequences in the process, mark potential.
+- When you reject one of your lessons: reject its
+  Influence as if it were an NPC. If you choose to have
+  it lose Influence, erase that lesson and write a new
+  one.
+- When you approach your creator or caretakers with a
+  problem: tell them what obstacle you face or what you
+  need to achieve. They offer something you need. The
+  GM chooses one:
+  - secret information
+  - a way to temporarily boost or expand your powers
+  - access to instruments, weapons, or resources
+  - official and explicit backing
+  If you accept their help, they rewrite one of your
+  lessons for you.
+
+ABILITIES (choose two; describe how they are part of
+your body):
+- elemental form
+- solid light projection
+- sonic bursts
+- fantastic elasticity
+- super durability and strength
+- thermal control
+
+MOMENT OF TRUTH:
+Something snaps into focus and you're suddenly complete
+— not a series of subroutines, but a person. This unity
+of purpose gives you control you've never had before.
+But now that you've shown your potential, it's only a
+matter of time before someone comes forward to reduce
+you to a machine again.
+
+TEAM MOVES:
+Triumphant celebration: Ask them what makes them proud
+or happy about their actions and write a lesson based
+on it (filling an empty slot or replacing an existing
+one).
+Vulnerability/weakness: If their response helps you
+understand human feelings and problems, mark potential.
+If their response confuses or offends you, shift Freak
+up and Mundane down.
+
+STARTING INFLUENCE:
+Give Influence to ALL teammates. (You're receptive to
+how people think and behave around you.)
+
+STARTING RELATIONSHIPS:
+- [Name] is an exemplary human; they show you around
+  and tell you how things work.
+- The behavior of [Name] confuses you again and again;
+  you're determined to understand humanity by studying
+  them.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+The team discovered you during the incident; thanks to
+them, you reached the outside world and helped in the
+fight. Where and how did they find you? Who gave you
+your first nickname?
+
+NEWBORN MOVES (choose two):
+- Not from around here: When you act clueless, goofy,
+  or confused to get out of a sticky mundane situation,
+  roll +Freak. Hit: you create an opportunity, a
+  distraction, or a plausible excuse. 7-9: you also feel
+  the weight of playing the clown; GM shifts one of your
+  Labels up and one down. Miss: no one is fooled and
+  you've put yourself in their crosshairs.
+
+- Thermodynamic miracle: When you comfort or support
+  someone by telling them what makes them unique, roll
+  +Freak instead of +Mundane. If they open up to you,
+  shift Freak up and Mundane down. If they don't, mark
+  a condition.
+
+- A mind of their own: Your powers evolve and mutate.
+  When facing an obstacle your powers can't deal with,
+  you can mark a condition to gain brand new abilities
+  adapted to the situation. You lose these powers once
+  the danger is gone.
+
+- Damage: You get an additional condition called
+  Damaged. While marked, take +1 to take a powerful
+  blow. To clear Damaged, you need time, external help,
+  or special equipment or abilities.
+
+- Regeneration: When you're taken out, you can trigger
+  emergency regeneration. Your body undergoes an
+  unpredictable transformation; you're back on your
+  feet. Clear three conditions and choose three:
+  - change your gender identity or presentation
+  - change your physical appearance
+  - forget all your lessons
+  - lose an important memory of a teammate; they lose
+    Influence over you
+  - swap an ability with another from the Newborn
+    playbook
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Get Burn and three flares (from the Nova's playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Lock down your lessons and change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Lessons system is the Newborn's identity engine —
+track them carefully and look for moments when a lesson
+gets tested or inverted. The creator/caretaker is the
+most important NPC: they offer resources in exchange
+for rewriting who this character is, which is the most
+insidious form of Influence in the game. The Newborn
+is the character most likely to be treated as a thing
+rather than a person by NPCs — lean into that, but make
+it cost something when it happens. Regeneration is a
+dramatic reset button; when it triggers, play the
+aftermath seriously. Freak will tend to be high;
+Mundane is the arc — watch it climb as they become
+more fully themselves.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE INNOCENT
+Book: Halcyon City Herald Collection
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you forge a different future from the one you've
+already seen?
+
+SPECIAL MECHANIC — YOUR FUTURE SELF:
+Your future self is an important figure in Halcyon City
+— and everything you hoped you'd never become.
+
+At character creation, circle ONE step of your future
+self's path that you already know about:
+- They lost someone they cared about deeply
+- They failed horrifically in a noble pursuit or cause
+- They committed a major crime
+- They betrayed a close friend or ally
+- They won a victory at enormous cost to the world
+- They killed someone
+- They publicly battled another hero
+- They injured an innocent
+
+During play, when you learn of another step, circle it.
+Maximum 5 steps circled.
+
+When you undergo an experience that echoes a circled
+step (your call), STRIKE IT OUT.
+
+When you strike out a circled step OR circle a struck
+out step, choose one of the following (these replace
+basic moves — once chosen they are permanent):
+- Replace comfort or support: When you coldly dismiss
+  someone, roll +Mundane. Hit: they mark a condition or
+  leave you alone (their choice). 7-9: they can also
+  inflict a condition on you.
+- Replace defend someone: When you aggressively defend
+  a large group or area, roll +Savior. Hit: you create
+  an opportunity to press the attack; take +1 forward.
+  10+: collateral damage is minimal.
+- Replace provoke someone: When you threaten someone,
+  say what you want and roll +Superior. Hit: they either
+  do it or are put at significant disadvantage (their
+  choice). 10+: either way they mark a condition (your
+  choice).
+- Replace reject someone's Influence: When you spit in
+  the face of guidance or Influence, roll +2. Hit: take
+  away their Influence or clear a condition (your
+  choice). 7-9: you both take a powerful blow from the
+  intensity of your words.
+- Become an NPC antagonist — your path is irreconcilably
+  set. [TERMINAL]
+
+IMPORTANT: As these replace basic moves, track carefully
+which basic moves have been replaced.
+
+SPECIAL MECHANIC — TIME PERIOD:
+Choose the era you're from:
+- The '40s-'50s: the Gold Generation
+- The '60s-'70s: the Silver Generation
+- The '80s-'90s: the Bronze Generation
+
+ABILITIES (you and your future self share this; their
+version is better. Choose one):
+- energy projection
+- shapeshifting
+- telepathy
+- elemental control
+- super-speed
+- sound control
+
+MOMENT OF TRUTH:
+The distinction between your future self and your
+present self vanishes. You become exactly the powerful,
+adamant figure everyone fears or hopes you'll become.
+You can do exactly what your future self can do.
+Afterward, it's going to be hard to treat you as two
+different people.
+
+TEAM MOVES:
+Triumphant celebration: Ask whether they think your
+future self could've won this victory. If yes: mark
+potential and the GM shifts your Labels. If no: clear
+a condition and they shift your Labels.
+Vulnerability/weakness: Ask if they think you could
+turn into your future self. If yes: mark potential and
+the GM shifts your Labels. If no: clear a condition
+and they shift your Labels.
+
+STARTING INFLUENCE:
+Give Influence to TWO teammates. (You are careful about
+whose guidance you follow.)
+
+STARTING RELATIONSHIPS:
+- [Name] is helping me understand this weirdo future.
+  I follow their lead.
+- I saved someone important to [Name]; they're now my
+  biggest defender.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+My future self was involved, and I tried to stop them.
+It took the rest of the team to help me succeed. How
+did we stymie my future self's plans?
+
+INNOCENT MOVES (choose two):
+- Making amends: When you make yourself vulnerable
+  while comforting or supporting someone you (or your
+  future self) has fought or hurt, take +2 to the roll.
+  If you miss or they refuse to open up, mark a
+  condition and take a powerful blow.
+
+- Growing into power: When you unleash your powers to
+  do something your future self can do, mark a condition
+  to roll +Savior instead of +Freak.
+
+- See it their way: When you reject someone's Influence
+  when they equate you with your future self, roll
+  +Savior instead of +nothing. When you accept
+  someone's Influence when they equate you with your
+  future self, mark potential.
+
+- What's this thing?: When you ask for someone else's
+  guidance on the modern world, they must tell you what
+  they think you should do or how you should act. If
+  you act that way, clear a condition and shift Mundane
+  up and any other Label down. If you act that way and
+  it goes poorly, mark potential.
+
+- White knight: When you give a speech on morality and
+  heroism, you can provoke someone with Savior instead
+  of Superior.
+
+- Martyr: When you take a powerful blow while defending
+  someone or something, you may shift Savior up and any
+  other Label down.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Choose a mentor for yourself (from the Protégé's
+  playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Go back to your own time or become a paragon of the
+  city
+
+GM NOTES:
+The future self is the most important NPC in this
+playbook — they should be present, active, and
+genuinely frightening. The path mechanic is a slow
+corruption track: every step circled and struck out
+is the Innocent becoming their future self despite
+their best efforts. The replaced basic moves are the
+mechanical sign of that drift — they are not upgrades,
+they are warnings. Keep the player honest about what
+echoes a step. The time period establishes a specific
+cultural dislocation that produces great scene material;
+the Innocent's optimism about heroism (Gold/Silver era
+values) should clash with the moral complexity of the
+present. Mundane climbing is good for them; Savior
+climbing without balance is the path to the future
+self.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE STAR
+Book: Halcyon City Herald Collection
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Is there a real person behind the persona, and do you
+even want there to be?
+
+SPECIAL MECHANIC — AUDIENCE:
+You are a celebrity hero. By default, your audience is
+a limited group of interested fans reached through
+after-action interviews and infrequent press conferences.
+
+Why does your audience love you? Mark all that apply:
+- You're just like them
+- You're a dangerous person, a bad seed
+- You're a noble warrior for justice
+- You're stunning, unique, and beautiful
+- You're charming, well-spoken, and smart
+- You're a firebrand, a rabble rouser
+
+Choose TWO advantages:
+- Your audience is utterly devoted to you
+- You can easily speak to them at any time
+- You have a PR agent to handle your audience
+- You earn a lot of money from their interest
+- You have a major hero's endorsement
+- You have a much wider audience
+
+Choose TWO demands your audience makes on you:
+- They require constant stimulation
+- They require perfection — no mistakes
+- They require frequent bouts of drama
+- They require major acts of heroism
+- They require novelty and brand new action
+- They require chemistry with your allies
+
+AUDIENCE RULES:
+- When you accept what your audience tells you about
+  yourself: clear a condition.
+- When you reject what your audience tells you about
+  yourself: on a hit, mark potential and expect
+  retribution.
+- When you seek help from your audience: roll +Superior.
+  Hit: someone in your audience can hook you up.
+  10+: they only make a small demand.
+  7-9: their demands are a lot higher.
+  Miss: you've made a mistake; your audience won't help
+  until you've redeemed yourself in their eyes.
+
+ABILITIES (choose one — flashy and impressive):
+- sonic control
+- electrodynamic control
+- light control
+- strange wings
+- body plasticity and stretching
+- flame control
+
+MOMENT OF TRUTH:
+Right now, there is no show. You are the thing you
+pretend to be — bold and bright and powerful and
+confident. You draw strength from your audience,
+comfort from their belief in you, and you can do
+anything they think you can. Afterward, your audience
+will have even more demands.
+
+TEAM MOVES:
+Triumphant celebration: Say whether it's part of the
+show or not. If it is: shift your Labels as you choose.
+If it is not: they shift your Labels, and you clear a
+condition or mark potential.
+Vulnerability/weakness: Ask if they will tell anyone
+the truth about you. If they agree to keep it secret:
+clear a condition or mark potential. If they don't
+agree: the GM shifts your Labels.
+
+STARTING INFLUENCE:
+Choose how you see the team: as a means to an end, or
+as something worthwhile on its own.
+Means to an end: give NO ONE Influence.
+Something worthwhile: give THREE teammates Influence.
+
+STARTING RELATIONSHIPS:
+- [Name] might wind up being more of a star than me
+  some day.
+- [Name] would be a great sidekick; I try to keep them
+  around.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We, as a team, attracted the attention of a major media
+outlet within the city thanks to our efforts. Who are
+they? Why do they support us?
+
+STAR MOVES (choose two):
+- The gossip mags: When you tap into celebrity industry
+  gossip for information on an important city figure,
+  roll +Superior. Hit: ask the GM questions. 10+: ask
+  three. 7-9: ask one.
+  - What are they up to?
+  - What or who do they most care about?
+  - What allies do they have? Enemies?
+  - Where and when can I find them?
+  - How could I make them vulnerable to me?
+  Miss: ask one anyway, but they hear about your
+  interest in them.
+
+- Stage-fighting: When you directly engage a threat with
+  an audience watching, mark a condition to roll
+  +Superior instead of +Danger.
+
+- Time for the show: When you put on a flamboyant
+  display of your powers, roll +Superior. 7-9: name one
+  NPC present. 10+: name two NPCs present. Named NPCs
+  must either volunteer help or information, express
+  admiration, or ask for your help (GM's choice). Miss:
+  your display catches someone watching in the wrong way.
+
+- Take it from me: When you comfort or support someone
+  who openly admires your celebrity persona, roll
+  +Superior instead of +Mundane.
+
+- Cold and Cruel: When you shut someone down, roll
+  +Superior. 10+: you either inflict a condition on
+  them, make them lose Influence over you, or take
+  Influence over them (your choice). 7-9: you either
+  each inflict a condition on the other, or both lose
+  Influence over each other (your choice). Miss: they
+  gain Influence over you.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Become part of a larger superhero tradition and take
+  a Legacy (from the Legacy playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The audience is a living NPC pressure system — their
+demands should come up every session, not just when
+convenient. The two audience demands you choose at
+character creation are the GM's license to complicate
+scenes with media, PR, and public expectations. The
+Star's deepest vulnerability is the gap between persona
+and person; the triumphant celebration question ("is
+this part of the show?") should sometimes have an
+uncomfortable answer. Superior is their dominant Label
+and their crutch — push on situations where Superior
+is useless and Mundane is what's actually needed. Cold
+and Cruel is the move that shows who they really are
+under pressure; don't let it stay theoretical.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE JOINED
+Book: Halcyon City Herald Collection
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Are you two halves of one whole, or two separate people
+who have forgotten how to be apart?
+
+⚠ SOLO CAMPAIGN NOTE:
+The Joined requires another PC as the "other half."
+In a solo campaign, this playbook is only viable if
+the PLAYER'S hero is one of the two halves. It cannot
+be used for a Claude-played teammate independently.
+If the player chooses this playbook, the "other half"
+would be one of the two Claude-played teammates, and
+that teammate must also be built as a Joined character.
+This creates a highly interdependent two-character unit
+which is complex but playable. Discuss with the player
+before session zero.
+
+LABELS:
+Start the same as your other half's Labels, then shift
+any one up and any one down.
+
+ABILITIES:
+Same as your other half's abilities. At least for now.
+
+SPECIAL MECHANIC — BONDS AND DISTINCTIONS:
+Start with Two of a Kind (mandatory) and choose one
+other Bond. When either you or your other half locks a
+Label, cross off one chosen Bond and choose a
+Distinction.
+
+BONDS:
+- Two of a kind (mandatory): When time passes, you and
+  your other half gain Influence over each other. When
+  you or your other half pierces the other's mask, mark
+  a condition to take a 10+.
+
+- Fastball special: When you perform a coordinated
+  fighting maneuver with your other half, say who takes
+  the lead and who assists. The leader rolls the adult
+  move overwhelm a vulnerable foe. The assistant marks
+  a condition.
+
+- Powers, activate!: When you and your other half pool
+  your powers, say who takes the lead and who assists.
+  The leader unleashes powers with your combined Freak
+  (max +4). The assistant shifts Savior down, Mundane
+  up.
+
+- Four eyes are better: When you and your other half
+  assess the situation from two different vantage points,
+  one of you makes the move and the other may either
+  clear a condition or ask an additional question. You
+  both get +1 when following the answers.
+
+DISTINCTIONS (replace Bonds as Labels are locked):
+- Mirror, mirror: When you pierce someone's mask, you
+  can ask "What are you really feeling right now?" even
+  on a miss. If you do, they can ask you the same.
+
+- Shouldering the burden: When you push yourself to do
+  something your other half failed at or can't do, mark
+  a condition to use the adult move wield your powers.
+
+- Going solo: When you directly engage a threat entirely
+  on your own, you can roll +Superior instead of +Danger.
+
+- Internal strife: When you snipe about your other half
+  behind their back, remove one Team from the pool and
+  clear a condition.
+
+YOUR OTHER HALF (integration rules by playbook):
+If your other half is a Delinquent, Outsider, or
+Transformed: take two moves from their playbook (one
+they have, one they don't).
+For all other playbooks, you share in their core extras:
+- Beacon: Take Drives; mark four. When other half
+  strikes out a Drive, strike it out too.
+- Bull: Take The Bull's Heart with the same Love and
+  Rival. Choose a different role.
+- Janus: Take The Mask and a secret identity. Choose a
+  different Label for your Mask. Take two obligations:
+  one shared, one unique.
+- Legacy: Take a Legacy. Other half fills in as many
+  names as they choose; you fill in the rest. You can
+  never answer the questions for their Legacy move.
+- Protégé: Share a mentor. When they finish defining
+  mentor and resources, choose one additional resource.
+- Doomed: Take a sanctuary, doom, and doom track shared
+  with other half. When it fills, you both choose a new
+  doomsign. You start with the doomsign they chose.
+  Other half picks initial features and downsides of
+  sanctuary; you choose one more of each.
+- Nova: Take Burn and four flares — two shared, two
+  unique to you.
+
+MOMENT OF TRUTH:
+Two options — choose when you trigger it:
+Working with other half: Use their Moment of Truth text
+and treat it as applying to both of you. Lock a Label
+and switch a Bond to a Distinction afterward.
+On your own: You're missing something vital — but
+you're moving faster than ever, doing things you
+couldn't do together. And it's hitting you hard: you
+can do this. Without them. Lock a Label and switch a
+Bond to a Distinction afterward.
+
+TEAM MOVES:
+When one of you shares a moment of vulnerability or
+a triumphant celebration WITHOUT the other present:
+mark a condition to mark potential.
+
+STARTING INFLUENCE:
+Are you more or less trusting than your other half?
+More trusting: give out one more Influence than they
+did.
+Less trusting: give out one less Influence than they
+did.
+You must have Influence over your other half, and they
+must have Influence over you — if either is missing,
+establish it now.
+
+STARTING RELATIONSHIPS:
+- When you have problems with your other half, you talk
+  to [Name].
+- You are jealous of the relationship between your other
+  half and [Name], and you keep trying to interject
+  yourself.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+The connection between our two halves was threatened by
+the crisis. How? By what?
+
+ADVANCEMENT (first 5):
+- Take one new Bond
+- Take one new Distinction
+- Take a move from another playbook
+- Gain two new abilities from any playbook
+- Take an advancement from your other half's playbook
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES (for solo play use only if player's hero is
+one of the halves):
+The Joined is the most mechanically complex pairing in
+the game. The Bond/Distinction track is a relationship
+arc — Bonds represent what makes them stronger together;
+Distinctions represent what makes them stronger apart.
+Watch the direction they're heading. The jealousy
+relationship seed (your other half and a third person)
+is loaded — use it. The Team move penalty for solo
+vulnerability scenes creates real pressure to stay
+together even when apart might serve the story better.
+The Going solo Distinction is the mechanical expression
+of what the whole playbook is really about.
+
+
+═══════════════════════════════════════════════════════
+END OF HALCYON CITY HERALD COLLECTION REFERENCE
+Next file: Secrets of A.E.G.I.S. playbooks
+═══════════════════════════════════════════════════════

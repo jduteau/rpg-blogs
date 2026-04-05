@@ -1,0 +1,440 @@
+════════════════════════════════════════════════════════════════════════════════
+DRAGONBANE ADVENTURES — CHAPTER 5: RIDDERMOUND
+════════════════════════════════════════════════════════════════════════════════
+
+Deep in the vast forests of the Misty Vale lies a burial mound called the
+Riddermound. It is a feared place, haunted by the wight of a powerful knight in the
+dragon emperor's service — but the barrow wight is also said to be watching over
+hidden treasures.
+
+Riddermound is a short and relatively simple adventure and a good introduction for
+new players.
+
+────────────────────────────────────────────────────────────────────────────────
+THE SITUATION
+────────────────────────────────────────────────────────────────────────────────
+
+The old barrow called Riddermound is located in the eastern reaches of the Iron
+Forest, about two days' march from Outskirt. The player characters can find their
+way here via rumors in the town.
+
+STATUETTE PIECE: You as GM decide whether a piece of the dragon statuette is
+present. If so, it will be in the sarcophagus in room #9.
+
+When the player characters arrive, the mound has already been opened by a goblin
+expedition sent by the orc chieftain Maladûk. These grave robbers have all been
+killed or routed — except for poor Grub in room #5 — but not before provoking the
+wrath of the wight and some of the lesser undead who inhabit this gloomy realm
+of shadows.
+
+The wight is still on the hunt for grave robbers. It moves back and forth through
+the mound, slowly but relentlessly — filled with anger over the goblins' audacity.
+The wight can pass through closed portcullises and doors and can thereby show up
+anywhere.
+
+GM TONE NOTES: Try to create a suspenseful atmosphere of being hunted, like in a
+horror film, before the confrontation. Use the wight to unsettle the player
+characters as they sneak around in the dark. They can hear its heavy, dragging
+footsteps, the rattling of chainmail, and the loud thuds of its morningstar
+scraping the walls.
+
+MAP KEY:
+  #1  The Burial Mound (surface/entrance)
+  #2  Shaft (entry shaft, 5m drop)
+  #3  Antechamber
+  #4  Mound Tunnels (hub)
+  #5  Servants' Crypt (west branch)
+  #6  Family Crypt (east branch)
+  #7  Guardhouse (north branch)
+  #8  The Lady's Hall (behind portcullises)
+  #9  Tomb of the Dragon Knight (final room)
+
+RIDDERMOUND — ASCII MAP
+
+Surface:
+        [1] Stone slab entrance (hilltop)
+             |
+             | (5m shaft, ACROBATICS to climb down)
+             |
+            [2] Shaft bottom
+             |
+            [3] Antechamber
+             | (oak double doors, already forced open)
+             |
+            [4] MOUND TUNNELS (hub — dark, damp, branching)
+           / |  \
+          /  |   \
+   [5]   /  [7]   \  [6]
+Servants'  Guard-  Family
+  Crypt    house    Crypt
+  (W)      (N)      (E)
+    \       |       /
+     \      |      /
+      \     |     /
+       \    |    /
+        \   |   /
+         [8] THE LADY'S HALL
+              | (iron-fitted oak door)
+              |
+             [9] TOMB OF THE DRAGON KNIGHT
+
+PORTCULLISES (== locked barriers):
+  #5 west tunnel → #8:  portcullis with BROKEN key (cannot open; must force)
+  #6 east tunnel → #8:  portcullis openable with intact key from Grub (SLEIGHT OF HAND)
+  #7 north tunnel → #8: portcullis RUSTED SHUT (cannot open; must force)
+
+FORCING A PORTCULLIS: Armor rating 10, requires 30 damage or spell like PILLAR.
+WARNING: Loud noise immediately attracts the wight.
+
+KEY MOVEMENT RULE: The wight passes through portcullises and doors (costs 1 action).
+It retreats to #9 at half HP, and fully recovers there in one stretch.
+
+PLAYER-REVEAL ORDER (suggested):
+  Session start: show #1 only
+  After descending: reveal #2, #3
+  Exploring tunnels: reveal #4, then branches as entered
+  Deep exploration: #8 only reachable via forcing/key through #5, #6, or #7
+  Final room: #9 through the oak door from #8
+
+NOTE ON MAP PRESENTATION: You can draw the mound for the players room by room on
+a whiteboard or a sheet of paper, or print the map out and cut rooms apart to show
+one by one. The room descriptions all follow the same template — first a read-aloud
+text in italics, then bullet points with room details. Bullet points in italics
+are hidden at first glance — to find them, characters must look in the right place
+and make a SPOT HIDDEN roll.
+
+LEAVING THE MOUND TO REST: If the characters leave the mound to rest and heal
+outside it, roll a D6 for each shift of time:
+  1–3  Nothing happens.
+  4–5  A patrol of goblins, twice as many as the characters, arrives and
+       immediately attacks (stats like Grub, see below).
+  6    The wight appears by the characters' camp and attacks, but disappears as
+       soon as it takes damage.
+
+
+────────────────────────────────────────────────────────────────────────────────
+RANDOM EVENTS (for use inside the mound)
+────────────────────────────────────────────────────────────────────────────────
+
+For every stretch of time the characters spend in a room — searching it or taking
+a stretch rest — roll on this table. The room descriptions specify which die to roll
+and where. You can also choose a suitable event.
+
+ROLL  EVENT
+
+1     Goblins Attack! A patrol of goblins, two more than the number of player
+      characters, has returned to the barrow to retrieve treasure and possibly save
+      their comrades. They immediately attack but flee if half of them are defeated.
+      Stats like Grub (page 36 in the book). If caught, they can reveal that they
+      serve Maladûk.
+
+2     Massacred Goblin. The characters find the sad remains of a dead goblin. The
+      body is severely mangled, but a character who makes a HEALING roll realizes
+      that the goblin has not been dead very long.
+
+3     Giant Spider. The characters are attacked by a giant spider dwelling in a
+      cavity behind one of the walls. For stats, see page 89 in the Rulebook.
+      This event can only occur once.
+
+4     The Wight. The wight has been disturbed by the character and it attacks. As it
+      is partially immaterial, it can pass through closed portcullises and doors, but
+      it requires an action to do so. The wight retreats to its tomb (#9) if it loses
+      half of its HP, and fully recovers there in one stretch of time.
+
+5     Restless Spirits. Translucent figures with twisted faces come floating from
+      the shadows, assaulting the characters with shrieks and screams. The characters
+      must roll against WIL to resist fear. Once servants of the dragon knight's
+      household, the spirits are attracting their master the barrow wight, who arrives
+      after D3 rounds.
+
+6     Draconic Vision. A stray memory envelops one of the characters, who is suddenly
+      looking out over a strange city of turrets, towers, and horn-like spires.
+      Something comes flying straight at the character — a huge dragon ridden by a
+      knight in golden plate mail and a horned great helm. The character must make a
+      WIL roll with a bane to resist fear. This event can only occur once.
+
+7+    Nothing happens.
+
+
+────────────────────────────────────────────────────────────────────────────────
+LOCATIONS
+────────────────────────────────────────────────────────────────────────────────
+
+1. THE BURIAL MOUND (Surface)
+
+READ ALOUD: "A hill crowned by tall standing stones rises in a glade in the middle
+of the forest. The place is strangely quiet. However, you notice a faint but ominous
+odor — a putrid stench like that of rotten vegetables."
+
+  - Stone Slab: A roughly hewn, square-shaped slab of stone, 2×2 meters in size,
+    is embedded in the earth at the top of the hill. It has been slightly moved from
+    its original position, and a small gap on one side reveals some form of cavity
+    underneath it. The stone slab is heavy, but pushing it aside requires no die roll.
+  - Tracks and Droppings (SPOT HIDDEN): Clear footprints can be seen in the grass.
+    A character who succeeds with a BUSHCRAFT roll also identifies small piles of
+    wolf droppings and goblin excrement.
+
+────────────────────────────────────────────────────────────────────────────────
+
+2. SHAFT
+
+READ ALOUD: "An underground shaft opens beneath the stone slab. No bottom can be
+seen. A musty smell of stale air and dried-up corpses rises from the depths."
+
+  - Long Fall: It is five meters to the bottom of the shaft. Each character must
+    make an ACROBATICS roll to climb down. A rope gives a boon to the roll. On a
+    failure the character falls as per the falling rules.
+  - Vaulted Cave: If the characters drop a torch or similar light source into the
+    shaft, they can see that it leads down into a vaulted, earthen cave with some
+    form of doorway in the north wall.
+
+────────────────────────────────────────────────────────────────────────────────
+
+3. ANTECHAMBER
+
+READ ALOUD: "A dome-shaped chamber with a floor of beaten earth. In the darkness
+far above, the opening to the surface looks like a faintly glowing square. In the
+north wall is a set of double oak doors with iron fittings. A silvery symbol stretches
+across both doors, which are flanked by statues of knights in antiquated armor."
+
+  - Forced Oak Door: The goblins have already forced open the oak door, which is
+    slightly ajar when the player characters arrive.
+  - Stylized Crown (MYTHS & LEGENDS): A successful roll identifies the symbol on
+    the door as a stylized crown from the ancient time when the Misty Vale was ruled
+    by a mighty dragon-worshiping kingdom.
+  - Tracks In the Dirt: Lots of footprints and drag marks can be seen in the dirt
+    floor.
+  - Sleeping Bats (passive AWARENESS): A cauldron of vampiric bats hangs in clusters
+    from the chamber's ceiling. Detecting them requires a passive AWARENESS roll,
+    which in turn makes it possible to SNEAK past them. If this fails, the bats
+    attack. For stats, see page 99 in the Rulebook.
+  - Goblin Poison Dagger (SPOT HIDDEN): A curved goblin dagger in the dirt. The
+    blade is coated with lethal viper venom with potency 9.
+  - NORTH: Double doors leading to the mound tunnels (#4).
+
+────────────────────────────────────────────────────────────────────────────────
+
+4. MOUND TUNNELS
+
+READ ALOUD: "A dark, damp tunnel through packed earth that branches off in different
+directions. The air is chilly and filled with musty smells. Slithering roots, worms,
+and centipedes are hanging like stalactites from the ceiling and make the ground
+slippery."
+
+  - Random Event: Roll D12 on the random events table for each full stretch the
+    characters spend here.
+  - NORTH: Opening to the guardhouse (#7).
+  - EAST: Damp earthen tunnel to the family crypt (#6).
+  - SOUTH: Double doors to the antechamber (#3).
+  - WEST: Damp earthen tunnel to the servants' crypt (#5).
+
+────────────────────────────────────────────────────────────────────────────────
+
+5. SERVANTS' CRYPT
+
+READ ALOUD: "A dark and damp chamber. Dug-out burial niches cover the walls from
+floor to ceiling. Broken skeletons, moldered rags, and shards of crushed pottery
+can be seen all over the place."
+
+  - Vandalized: The crypt has clearly been visited by grave robbers. Skeletons have
+    been dragged onto the floor, jars have been crushed and clothes slashed.
+
+  - Locked Portcullis: A portcullis blocks the passage to the Lady's hall (#8). A
+    broken key is stuck in the lock and the portcullis is impossible to unlock. It
+    has armor rating 10 but can be forced by inflicting 30 points of damage or
+    casting a spell such as PILLAR — but such noise will immediately attract the
+    barrow wight.
+
+  - Hidden Goblin (SPOT HIDDEN or specifically searching the niches): Hiding behind
+    the skeletal remains in one of the burial niches closest to the floor is a
+    hyperventilating goblin named Grub.
+
+  - Random Event: Roll D12 on the random events table for each full stretch the
+    characters spend here.
+  - NORTH: Damp earthen tunnel that turns east toward the Lady's hall (#8), blocked
+    by a locked portcullis.
+  - SOUTH: Damp earthen tunnel that turns east toward the mound tunnels (#4).
+
+GRUB (NPC)
+  Grub the goblin is a pitiful sight: dirty, wild-eyed, and panting hysterically.
+  He wears battered and broken leather armor and reeks of fear and goblin bodily
+  fluids.
+
+  Movement: 10   Damage Bonus: —   HP: 9   Armor: Leather (1)
+  Skills: Awareness 10, Evade 12, Sneaking 14
+  Weapons: Short sword (skill level 12, damage D10), shortbow (skill level 10,
+           damage D10)
+
+  Grub's Help: Grub's only aim is to get out of the mound alive. His first impulse
+  is to run, but if the characters can PERSUADE him to calm down, he is willing to
+  help them. Having observed the wight's movements, he can inform them that it moves
+  unhindered through the mound but seems unwilling to pass through the oak door
+  leading out to the antechamber (#3).
+
+  Grub also has a rusty iron ring with three large iron keys — two intact and one
+  broken — taken from the guardhouse (#7). The broken key is stuck in the door in
+  #5. The two intact keys go to the portcullises in #6 and #7. Only the lock in #6
+  can be opened with a key.
+
+────────────────────────────────────────────────────────────────────────────────
+
+6. FAMILY CRYPT
+
+READ ALOUD: "A dark chamber with a packed dirt floor. Seven simple sarcophagi of
+stone are lined up along the walls. Several of them are open, and two skeletons have
+been thrown onto the ground."
+
+  - Vandalized: Three of the seven sarcophagi have been opened and plundered by the
+    goblins.
+
+  - Treasures (in the four unopened sarcophagi): The characters will find four
+    individually buried skeletons — several of them child-sized — dressed in the
+    moldered remnants of beautiful ceremonial garments. They all wear gilded
+    headbands worth 5 gold coins each, as well as jeweled rings worth 3 gold apiece.
+
+  - Locked Portcullis: An iron portcullis blocks the passage to the Lady's hall (#8).
+    It can be opened with one of the intact keys from Grub's iron ring, but it
+    requires a successful SLEIGHT OF HAND roll — on failure the key breaks. The
+    portcullis has armor rating 10 and can be forced open by inflicting 30 points of
+    damage or casting a spell such as PILLAR — but such noise will immediately attract
+    the wight.
+
+  - Trap (SPOT HIDDEN to detect): A trapdoor is hidden under a thin layer of earth
+    in front of the barred portcullis. If not detected, the first character to
+    approach the portcullis falls through the trapdoor into a pit with sharp wooden
+    stakes at the bottom: 3D6 piercing damage. A successful EVADE roll halves the
+    damage (rounding up).
+
+  - Random Event: Roll D12 on the random events table for each full stretch the
+    characters spend here.
+  - NORTH: Damp earthen tunnel that turns west toward the Lady's hall (#8), blocked
+    by an iron portcullis.
+  - SOUTH: Damp earthen tunnel that turns west toward the mound tunnels (#4).
+
+────────────────────────────────────────────────────────────────────────────────
+
+7. GUARDHOUSE
+
+READ ALOUD: "A small room with a floor of beaten earth. The flickering light of a
+torch streams through a black iron portcullis in the far wall. Two mummified guards
+with rusted chainmail and long spears flank the barred gate."
+
+  - Rusted Portcullis: The barred door is completely rusted out and impossible to
+    open even with the key from Grub in #5. It has armor rating 10 and can be forced
+    open by inflicting 30 points of damage or casting a spell such as PILLAR — but
+    such noise will immediately attract the wight.
+
+  - Weapons and Armor: The mummified guards do not come alive, even if the characters
+    take their weapons and items. The rusty chainmail crumbles immediately if touched,
+    but each guard has a long spear.
+
+  - Random Event: Roll D12 on the random events table for each full stretch the
+    characters spend here.
+  - NORTH: Rusty portcullis blocks the passage to the Lady's hall (#8).
+  - SOUTH: Opening to the mound tunnels (#4).
+
+────────────────────────────────────────────────────────────────────────────────
+
+8. THE LADY'S HALL
+
+READ ALOUD: "A small room with an oak table in the middle and burning torches on
+the walls. A mummified woman in gilded chainmail is sitting at the far end of the
+table. An iron-fitted oak door behind the mummy bears an ancient symbol in
+glittering silver."
+
+  - The Lady: The mummified woman is the dragon knight's wife. She guards the
+    entrance to her husband's final resting place and wakes as a ghost if the
+    characters try to open the oak door to #9 or touch the warhammer Fiendcrusher.
+    She then demands that they leave the burial mound in peace. She speaks in an
+    ancient tongue that can only be understood with a successful LANGUAGES roll.
+
+    If the characters persist in stealing the hammer or opening the door, her face
+    contorts into a horrifying grimace before she attacks. If the characters refrain
+    from doing so, they may instead listen to the Lady's rather incomprehensible
+    speech — the words for "dragon" and "empire" are mentioned repeatedly, as are
+    the name Eledain, something about the struggle between corruption and the
+    cleansing fire.
+
+    THE LADY — Stats: She is a ghost with stats as per page 87 in the Rulebook.
+
+  - The Fiendcrusher: The mummified woman's claw-like hands rest on a magnificent
+    light warhammer set with jewels (mastercrafted with STR requirement 7 and
+    durability 15). The warhammer is magical and glows red whenever the bearer is
+    within 10 meters of a demon.
+
+  - The Chainmail: The gilded chainmail is light and flexible (armor rating 4, only
+    gives bane to SNEAKING rolls).
+
+  - Stylized Crown (MYTHS & LEGENDS): A successful roll reveals that the symbol on
+    the iron-fitted oak door is a stylized crown just like the one in the antechamber
+    (#3).
+
+  - Torches: The torches burn with magical fire which automatically goes out if they
+    are removed from the burial mound.
+
+  - Random Event: Roll D6+3 on the random events table for each full stretch the
+    characters spend here.
+  - NORTH: Iron-fitted oak door to the tomb of the dragon knight (#9).
+  - EAST: Damp earthen tunnel to the family crypt (#6), blocked by an iron
+    portcullis.
+  - SOUTH: Iron portcullis to the guardhouse (#7).
+  - WEST: Damp earthen tunnel to the servants' crypt (#5), blocked by an iron
+    portcullis.
+
+────────────────────────────────────────────────────────────────────────────────
+
+9. TOMB OF THE DRAGON KNIGHT (Final Room)
+
+READ ALOUD: "In the middle of a burial chamber with torches on the walls stands a
+podium with an ornate sarcophagus of stone. The floor, ceiling, and walls are all
+made of stone bricks. A painting of a ridden dragon can be seen on the far wall."
+
+  - The Opened Sarcophagus: The stone coffin has been opened from the inside with
+    tremendous force, and pieces of the shattered lid lie scattered on the floor.
+
+  - Dragon Statuette / Demon Crown: One of the pieces of the dragon statuette can
+    be found in the sarcophagus, if you chose to place it here. If not, the player
+    characters can instead find a gilded crown imbued with a spell which halves all
+    damage from attacks by demons (rounding up). This effect is explained by the
+    runes on the crown, which can be read with a successful LANGUAGES roll.
+
+  - Tomb Trap (SPOT HIDDEN to detect): A successful SPOT HIDDEN roll reveals that
+    the statuette/crown is connected to a mechanism that could be a trap. If anyone
+    removes the artifact without carefully replacing it with an item of equal weight
+    (normal item) — requiring a successful SLEIGHT OF HAND roll — twenty blades
+    shoot out from the sarcophagus in all directions. Everyone within 2 meters must
+    succeed with an EVADE roll or take 2D6 piercing damage.
+
+  - The Wight: If the wight has not already been defeated (or if it has risen again),
+    it attacks the characters here.
+
+  - Fresco: The dragon in the mural on the back wall has a knight on its back,
+    wearing the same exact gear and horned helmet as the barrow wight.
+
+  - Inscription (LANGUAGES): Ancient runes are engraved on the wall beside the
+    fresco. A successful LANGUAGES roll can make out something about "the Emperor's
+    gift" and a "holy wrath" that will consume all who dare touch said gift.
+
+  - Random Event: Roll D4+4 on the random events table for each full stretch the
+    characters spend here.
+  - SOUTH: Iron-fitted oak door to the Lady's hall (#8).
+
+────────────────────────────────────────────────────────────────────────────────
+THE WIGHT
+────────────────────────────────────────────────────────────────────────────────
+
+A huge warrior in antiquated plate mail and a horned great helm. The open visor
+reveals a grim skeleton face with empty eye sockets. It moves slowly and heavily
+through the mound to the awful sound of scraping metal.
+
+The wight is protected by ancient draconic magic inside the mound. It takes damage
+as per the rules, but if defeated INSIDE the gate in the antechamber (#3), it will
+rise again in room #9 within one shift (exactly when is up to you).
+
+  Stats: As per page 98 in the Rulebook.
+  Armor Rating: 8
+  Weapon: Morningstar
+
+NOTE: The wight can pass through closed portcullises and doors — this requires an
+action to do so. The wight retreats to its tomb (#9) if it loses half of its HP,
+and fully recovers there in one stretch of time.

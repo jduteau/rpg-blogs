@@ -1,0 +1,662 @@
+════════════════════════════════════════════════════════════════════════════════
+DRAGONBANE — MONSTER & GENERIC NPC REFERENCE
+(Official stats from the Dragonbane Core Rulebook Bestiary, Chapter 7)
+════════════════════════════════════════════════════════════════════════════════
+
+QUICK REFERENCE — WHERE EACH MONSTER APPEARS:
+  Vampiric Bats    — Riddermound #3, Outskirt (Leanara's swarm)
+  Giant Spider     — Riddermound random event #3, Ch4 Iron Forest & Haunted Marshes
+  Ghost            — Riddermound #8 (The Lady), Ch4 Magna Woods haunted glade
+  Wight            — Riddermound #9 (the barrow wight)
+  Goblin Scout     — Ch4 Iron Forest goblin trap, Outskirt random event #4
+  Troll            — Outskirt random event #3, Ch4 Iron Forest troll lair
+  Demon            — Ch4 Iron Forest chanting cultists
+  Giant            — Ch4 Foot of Mountains angry giant
+  Griffon          — Ch4 Foot of Mountains death from above
+  Harpy            — Ch4 Magna Woods harpies
+  Manticore        — Ch4 Iron Forest prowling manticore
+  Orc Warrior      — Ch4 Foot of Mountains nervous orcs
+  Skeleton         — Ch4 Magna Woods undead guard patrol
+  Generic NPCs     — Ch4 various (bandits, adventurers, hunters, warriors)
+
+UNIVERSAL MONSTER RULES (from Chapter 7):
+  - Monster attacks succeed automatically — monsters do NOT roll to hit.
+  - Monster attacks can be DODGED (EVADE roll) but NOT parried, unless the
+    attack description specifically says it can be parried.
+  - Fear attacks cannot be dodged.
+  - Monsters dodge and parry at a default skill level of 15. Each dodge or
+    parry flips one of the monster's initiative cards face-down.
+  - Monsters can see in darkness unless otherwise stated.
+  - Monsters are immune to fear and PERSUASION unless otherwise stated.
+  - A monster never makes the same attack twice in a row — if the same result
+    comes up consecutively, advance to the next attack on the table (6 → 1).
+  - Goblins and orcs are NOT monsters — they fight as ordinary NPCs.
+  - Skeletons are NOT monsters — they fight as ordinary NPCs.
+
+
+════════════════════════════════════════════════════════════════════════════════
+MONSTERS
+════════════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────────────
+DEMON
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Large
+  Movement: 16   Armor: 4   HP: 64
+
+  NOTE: Demons come in all shapes and sizes. The stats above are a typical
+  example. The demon summoned by the chanting cultists in Ch4 (Iron Forest,
+  encounter #12) uses these stats.
+
+  MONSTER ATTACKS (D6):
+  1  Demonic Dread! The demon hisses terrifying threats in an ancient and
+     terrible tongue. All player characters within 10 meters suffer a fear
+     attack.
+
+  2  Claw Attack! The demon smiles and slashes a player character with its
+     sharp claws. The attack inflicts 2D10 slashing damage. It can be parried.
+
+  3  Curse! The demon points at an unfortunate player character within 10
+     meters and chants an ancient curse. The attack cannot be dodged. All
+     curses except #6 can be lifted with DISPEL (power level 1). Roll D6:
+       1  The victim vomits a frog whenever they tell a lie. Roll D4 every
+          morning. On a 1, the effect wears off.
+       2  Any gold or silver the victim touches withers into dust. Roll D4
+          every morning. On a 1, the effect wears off.
+       3  The victim is blinded and acts as if in total darkness. Roll D4
+          every shift. On a 1, the effect wears off.
+       4  The victim is struck by amnesia and forgets their own name and who
+          the other player characters are. Must be roleplayed. Roll D4 every
+          morning. On a 1, the victim's memory returns.
+       5  The victim turns into an animal. Roll D6: 1=cat, 2=fox, 3=goat,
+          4=wolf, 5=deer, 6=bear. The victim gains animal stats and cannot
+          speak. Roll D4 every shift. On a 1, the effect wears off.
+       6  The victim becomes one age category older (e.g. Adult to Old).
+          Attributes and derived ratings change accordingly; skill levels do
+          not. The effect is permanent. A person already old becomes very
+          frail and gets -2 STR and CON.
+
+  4  Unseen Ferocity! The demon points its hand at a victim within 10 meters.
+     The victim is hurled 2D8 meters backwards with tremendous force, suffers
+     the same amount of bludgeoning damage, and lands prone.
+
+  5  Scorpion Sting! The beast raises its scorpion-like tail and delivers a
+     swift sting to its victim. Inflicts D12 piercing damage, and a victim
+     who sustains at least 1 point of damage is also injected with a
+     paralyzing poison with potency 16. The attack can be parried.
+
+  6  Possessed! The demon glares at a player character within 10 meters and
+     takes full control of the victim's body. The player character must make
+     a WIL roll with a bane (not an action). If it fails, the victim must
+     immediately make a movement and perform an action of the demon's choice,
+     except any action that requires spending WP. The victim also loses their
+     next turn.
+
+────────────────────────────────────────────────────────────────────────────────
+GHOST
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Normal
+  Movement: 12   Armor: —   HP: 27
+
+  IMMUNITY: Ghosts are immaterial beings and immune to all damage except
+  magic and fire. A defeated ghost is only banished for one shift, after
+  which it returns. The only way to permanently banish the ghost is to cast
+  PURGE or solve whatever problem keeps it bound to the world of the living.
+
+  PERSUADABLE: Unlike other monsters, ghosts can usually be PERSUADED,
+  albeit with a bane on the roll.
+
+  NOTE ON THE LADY (Riddermound #8): She uses ghost stats. She attacks only
+  if the characters try to open the door to #9 or touch the Fiendcrusher.
+  She can be calmed if the characters leave the items alone.
+
+  MONSTER ATTACKS (D6):
+  1  Ghost Strike! The ghost lunges at a player character within 10 meters
+     and strikes with great force. The victim is knocked back 2D6 meters,
+     suffers the same amount of bludgeoning damage, and lands prone.
+
+  2  Touch of Death! The ghost sticks its translucent hand into the chest of
+     an unfortunate player character and grasps the victim's heart. The victim
+     suffers 2D10 points of damage and becomes Scared. Armor has no effect.
+
+  3  Ghost Scream! The undead face contorts into a horrible grimace and lets
+     out a scream that chills the souls of all adventurers within 10 meters.
+     All of them suffer a fear attack.
+
+  4  Death Stare! The ghost towers over a player character, staring directly
+     into their soul with its dead eyes. The victim sees their life pass
+     before their eyes and is tormented by grotesque visions of all their
+     dead friends and foes. The victim becomes Scared, suffers a fear attack,
+     and gets a bane on their WIL roll.
+
+  5  Ghostly Embrace! The ghost emits an unnatural wheeze and suddenly
+     appears right in front of an adventurer within 10 meters, wrapping them
+     in a deadly embrace to smother their spark of life. Inflicts 3D6
+     bludgeoning damage and leaves the victim Dazed.
+
+  6  Cold Strike! The ghost grabs a victim and lets the icy chill of death
+     stream into their body. The player character suffers 2D8 damage and
+     cannot heal HP or WP until they spend one shift in a warm location.
+     Armor has no effect.
+
+────────────────────────────────────────────────────────────────────────────────
+GIANT
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 1   Size: Huge
+  Movement: 18   Armor: —   HP: 74
+
+  WEAPONS: Giants often carry a large weapon. If the giant loses its weapon,
+  monster attacks #1 and #4 are re-rolled.
+
+  WEAK SPOT: Attacks against the weak spot on the top of a giant's head
+  inflict double damage. Hitting the top of the head requires either a ranged
+  attack with a bane from an elevated position, or the attacker first climbs
+  onto the giant. Climbing requires an ACROBATICS roll with a bane. Once up
+  there, the player character must make another ACROBATICS roll (not an
+  action) on each turn to avoid falling off and taking 2D6 falling damage.
+
+  MONSTER ATTACKS (D6):
+  1  Crushing Blow! The giant swings its weapon over its head and bashes a
+     player character with all its might. Inflicts 4D10 bludgeoning damage
+     and the victim is knocked down.
+
+  2  Roar! The giant lets out a bellowing sound that raises the hairs on the
+     adventurers' arms. All player characters within 10 meters suffer a fear
+     attack.
+
+  3  Stomp Attack! The giant takes aim and tries to stomp two player
+     characters within 4 meters of each other. Anyone hit suffers 4D6
+     bludgeoning damage and is knocked down.
+
+  4  Sweeping Blow! The giant sweeps its weapon at all adventurers within
+     10 meters. Anyone hit suffers 2D10 bludgeoning damage and is knocked
+     down.
+
+  5  Forceful Throw! The giant is fed up with a character, grabs them, and
+     tries to throw them. Inflicts 4D8 bludgeoning damage and the victim is
+     hurled the same number of meters in a random direction, landing prone.
+
+  6  Smash Attack! Crazed with rage, the giant smashes the player character
+     with its feet, fists, and weapon in a frenzy of rapid blows. Everyone
+     within 2 meters suffers 3D6 bludgeoning damage and is knocked down.
+
+────────────────────────────────────────────────────────────────────────────────
+GIANT SPIDER
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Normal
+  Movement: 24   Armor: —   HP: 36
+
+  MONSTER ATTACKS (D6):
+  1  Mandibles! The spider's serrated mandibles swish through the air like
+     scimitars. Inflicts 2D8 slashing damage.
+
+  2  Tearing Attack! The famished spider lunges at the player characters,
+     frantically attacking with its multitude of hairy, barbed legs. All
+     player characters within 2 meters suffer D8 piercing damage each.
+
+  3  Mesmerizing Eyes! The monstrous arachnid stares at the player characters
+     with a terrifying multitude of eyes. All victims within 10 meters must
+     make a WIL roll to resist fear.
+
+  4  Poison Sting! The spider raises its rear end and attacks a player
+     character with a poisonous stinger. Inflicts D10 piercing damage, and a
+     victim who sustains at least 1 point of damage is also injected with a
+     paralyzing poison with potency 16. The attack can be parried.
+
+  5  Web Attack! The spider fixes its numerous eyes on the player character
+     with the highest STR. It spits sticky spider web at the victim, who must
+     make an EVADE roll (not an action). On failure the victim is caught in
+     the web and unable to move. It takes a successful STR roll with a bane
+     (action) to break free. Others can help.
+
+  6  Ramming Attack! With a great leap, the giant spider launches its massive
+     body at a player character. Inflicts 2D6 bludgeoning damage and knocks
+     the victim down.
+
+────────────────────────────────────────────────────────────────────────────────
+GRIFFON
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Large
+  Movement: 30   Armor: —   HP: 38
+
+  WINGS: The powerful wings of the griffon allow it to move freely through
+  the air.
+
+  MONSTER ATTACKS (D6):
+  1  Snapping Beak! The beast tears at a player character with its razor-sharp
+     beak. Inflicts 2D8 piercing damage.
+
+  2  Rearing Strike! The griffon rears up before a player character and tries
+     to tear them apart with D6 rapid strikes. Each attack inflicts D8
+     slashing damage. The attack can be dodged or parried, but only one at
+     a time.
+
+  3  Sweeping Claws! The griffon sweeps its clawed foreleg in a wide arc,
+     attacking all player characters within 2 meters. Each victim suffers D8
+     slashing damage and is knocked down.
+
+  4  Griffon Throw! The beast grabs a player character with its beak and
+     tosses them with a flick of the head. Inflicts 2D6 piercing damage.
+     The victim is thrown an equal number of meters and lands prone.
+
+  5  Whirlwind! The griffon uses its powerful wings to create a whirlwind
+     that blows away all player characters within 10 meters. The victims land
+     D6 meters away and suffer the same amount of bludgeoning damage.
+
+  6  High Drop! The griffon grabs a player character in its claws and takes
+     to the sky. Unless the victim dodges the attack, the griffon grabs them
+     and flies 2D6+6 meters into the air. On its next turn the griffon drops
+     the victim (instead of a new monster attack), who takes damage from the
+     fall.
+
+────────────────────────────────────────────────────────────────────────────────
+HARPY
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 1 per harpy   Size: Normal
+  Movement: 24   Armor: —   HP: 12 per harpy
+
+  FLOCK: Harpies fight together, and their monster attacks are performed by
+  several harpies as a group. These attacks still only use up the turn in
+  the round for ONE harpy. Once half the flock has been killed, the rest
+  will flee. They return later if an opportune situation presents itself.
+
+  WINGS: Harpies attack from the air and can only be engaged with ranged
+  weapons or long melee weapons.
+
+  MONSTER ATTACKS (D6):
+  1  Threatening Cackle! The harpies shower the adventurers with terrible
+     descriptions of what they will do to them. Everyone within 10 meters
+     must make a WIL roll to resist fear.
+
+  2  Coordinated Attack! The harpies flock together and attack the player
+     character who wears the most metal. Inflicts 2D6 slashing damage. If
+     hit, the victim is also lifted into the air and dropped from a height
+     of D3+3 meters.
+
+  3  Death From Above! The harpies throw rocks and other junk from afar.
+     Everyone within 10 meters suffers D6 bludgeoning damage.
+
+  4  Eye Gouge! The creatures target an unfortunate player character and try
+     to tear the victim's eyes out with their sharp claws. Inflicts 2D6
+     piercing damage and the victim is blinded and acts as if in total
+     darkness for one stretch.
+
+  5  Mass Attack! The harpies split up and attack a number of player
+     characters within 10 meters equal to the number of individual harpies.
+     Each attack inflicts D8 slashing damage.
+
+  6  Excrement Attack! The harpies open their cloacae and mouths and release
+     a rain of vomit and excrement on the player characters. Everyone within
+     10 meters must choose a condition. The attack can be parried with a
+     shield.
+
+────────────────────────────────────────────────────────────────────────────────
+MANTICORE
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Large
+  Movement: 16   Armor: —   HP: 44
+
+  MONSTER ATTACKS (D6):
+  1  Tail Strike! The manticore aims a dreadful ranged attack with its tail
+     spikes at a player character within 20 meters. Inflicts D12 piercing
+     damage and injects the victim with a paralyzing poison with potency 12.
+     The attack can be parried with a shield.
+
+  2  Razor Sharp Bite! The manticore bites a player character with its many
+     fangs. Inflicts 3D8 slashing damage.
+
+  3  Claw Attack! The beast runs up to a player character, knocks them down,
+     and tears at them with its sharp claws. Inflicts 2D8 slashing damage,
+     plus D6 since the victim is prone.
+
+  4  Sweeping Attack! The manticore whips its tail at two player characters.
+     Both victims suffer 2D6 slashing damage and are knocked down.
+
+  5  Crushing Charge! With full force, the beast charges at the player
+     character with the highest STR within 10 meters. The victim suffers 3D6
+     bludgeoning damage and is knocked down.
+
+  6  Spike Rain! The manticore fires a rain of deadly spikes from its tail.
+     All adventurers within 10 meters suffer D10 piercing damage and are
+     injected with a paralyzing poison with potency 12.
+
+────────────────────────────────────────────────────────────────────────────────
+TROLL
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Large
+  Movement: 10   Armor: —   HP: 38
+
+  REGENERATION: A troll automatically heals D6 HP on each of its turns in
+  combat.
+
+  SENSITIVE TO SUNLIGHT: Trolls suffer D6 damage per ROUND in direct
+  sunlight, and cannot regenerate. A troll that reaches zero HP because of
+  this is turned to stone. A thick layer of clouds or full-cover clothing
+  are enough to avoid the effect.
+
+  PERSUADABLE: Unlike other monsters, trolls can usually be PERSUADED,
+  albeit with a bane on the roll.
+
+  NOTE (Outskirt random event #3): The troll in Mifaldor's barn can be
+  placated with a successful PERSUASION roll.
+
+  MONSTER ATTACKS (D6):
+  1  Troll Vomit! The troll clears its throat with a thunderous rumble,
+     coughs from deep in its lungs, and vomits up a cascade of bile and
+     stinking swamp water. All adventurers within 6 meters suffer a
+     condition of their choice.
+
+  2  Rending Attack! The troll tears at a player character's body with its
+     filthy, green-black claws. Inflicts D10 slashing damage but can be
+     parried. A victim who takes damage also contracts a disease with
+     virulence 10.
+
+  3  Repulsive Bite! The troll opens its foul-smelling mouth and bites a
+     player character with a denture of fangs, gravel, and old bone
+     fragments. Inflicts 2D8 piercing damage. The player character is stuck
+     in the troll's mouth and must make a STR roll (counts as an action)
+     every round to break free. On failure the victim suffers an additional
+     2D8 damage.
+
+  4  Troll Throw! The troll lifts a character over its head and tosses the
+     victim like a rag doll 2D6 meters in a random direction, inflicting an
+     equal amount of bludgeoning damage. The victim lands prone.
+
+  5  Sweeping Blow! The troll sweeps its long, gnarled arms around, hitting
+     all characters within 2 meters. Inflicts 2D6 bludgeoning damage on each
+     victim.
+
+  6  Mangling Smash! The troll grabs the nearest player character and uses
+     the victim as a weapon by slamming them into another character. Both
+     suffer 2D8 bludgeoning damage and are knocked down.
+
+────────────────────────────────────────────────────────────────────────────────
+VAMPIRIC BATS
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Swarm
+  Movement: 24   Armor: —   HP: 18
+
+  RESISTANCE: The bats attack as a swarm and therefore count as a single
+  creature. All damage from physical weapons, even magical ones, is reduced
+  by half (rounded up). Fire has normal effect.
+
+  NOTE (Riddermound #3): A passive AWARENESS roll is required to notice the
+  bats hanging from the ceiling before disturbing them. Success allows the
+  characters to attempt to SNEAK past. Failure means the bats attack.
+
+  MONSTER ATTACKS (D6):
+  1-2  Swirling Horror! The bats swarm around their victims at a frantic
+       pace. Everyone within 10 meters suffers a fear attack.
+
+  3-4  Collective Attack! The bats launch a joint assault on the player
+       character with the highest CON. Inflicts 2D6 slashing damage and the
+       victim suffers a fear attack. The bat swarm heals the same amount of
+       HP from drinking their victim's blood.
+
+  5-6  Mass Attack! The bats split up to attack all characters within 10
+       meters. Each victim suffers D8 slashing damage and the bat swarm heals
+       the same amount of HP from drinking their victims' blood.
+
+────────────────────────────────────────────────────────────────────────────────
+WIGHT
+────────────────────────────────────────────────────────────────────────────────
+
+  Ferocity: 2   Size: Normal
+  Movement: 10   Armor: Same as armor worn   HP: 38
+
+  RESISTANCE: Takes half damage from non-magical weapons, except fire which
+  inflicts normal damage.
+
+  TYPICAL GEAR: Morningstar, chainmail
+
+  RIDDERMOUND-SPECIFIC RULES (from the Adventures book):
+  - The wight can pass through closed portcullises and doors (costs 1 action).
+  - It is protected by ancient draconic magic inside the mound. If defeated
+    INSIDE the gate in the antechamber (#3), it will rise again in room #9
+    within one shift. It can only be permanently defeated in its own tomb (#9).
+  - It retreats to room #9 when it loses half its HP, and fully recovers
+    there after one stretch of time.
+
+  MONSTER ATTACKS (D6):
+  1  Unholy Roar! The wight's decomposed skull contorts and lets out a
+     ghastly scream that cuts like a rusty blade through the characters'
+     souls. Everyone within 10 meters suffers a fear attack.
+
+  2  Dreadful Gaze! An unlucky player character stares directly into the
+     wight's horrible eyes as a wheezing sound is heard from the creature's
+     throat. The victim becomes Scared, suffers a fear attack, and gets a
+     bane on their WIL roll.
+
+  3  Hand of the Dead! The wight raises its hand and gestures at a player
+     character within 10 meters, who is thrown 2D4 meters away and lands
+     prone. Inflicts the same amount of damage and cannot be dodged.
+
+  4  Sweeping Attack! With surprising speed, the wight sweeps its weapon in
+     a deadly attack. All player characters within 2 meters suffer weapon
+     damage. The attack can be parried.
+
+  5  Crippling Cold! The wight grabs an unfortunate player character who
+     feels the chill of death spread through their body. The victim takes D6
+     damage (armor has no effect) and must make an EVADE roll (not an action)
+     on their next turn in order to act at all. If the roll fails, a new
+     attempt can be made on the next turn. The victim also becomes cold and
+     cannot heal HP or WP until they get warm.
+
+  6  Power Attack! With creaking joints, the wight swings its weapon in a
+     powerful attack against a character. The damage is rolled with twice the
+     weapon's normal number of dice, and the victim is knocked to the ground.
+     The attack can be parried.
+
+  WIGHT WEAPON — MORNINGSTAR: Damage 2D8.
+  Attack #4 Sweeping Attack = 2D8 to all within 2m.
+  Attack #6 Power Attack = 4D8 to one target, knocked down.
+
+
+════════════════════════════════════════════════════════════════════════════════
+NON-MONSTER HUMANOIDS
+(These fight as ordinary NPCs — they roll to hit, not automatic hits)
+════════════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────────────
+GOBLIN
+────────────────────────────────────────────────────────────────────────────────
+
+  NON-MONSTER: Goblins do not count as monsters in combat, but as ordinary
+  NPCs. They roll to hit normally.
+
+  NOCTURNAL: In direct sunlight, goblins get a bane on all rolls and suffer
+  D6 damage per stretch. A thick layer of clouds or full-cover clothing are
+  enough to avoid the effect.
+
+  MISTY VALE NOTE: Due to the thick haze covering the Misty Vale, orcs and
+  goblins can move freely outdoors in the daytime without suffering damage.
+
+  SCOUT (ERRATA: no damage bonus, movement 10)
+    Movement: 10   Damage Bonus: —   HP: 9
+    Typical Armor: Leather (1)
+    Skills: Awareness 10, Evade 10, Sneaking 12
+    Typical Weapons: Short bow (skill level 12, damage D10),
+                     short sword (skill level 10, damage D10)
+
+  WARRIOR
+    Movement: 10   Damage Bonus: —   HP: 10
+    Typical Armor: Studded leather (2)
+    Skills: Awareness 10, Evade 10, Sneaking 12
+    Typical Weapon: Long spear (skill level 12, damage 2D8)
+
+────────────────────────────────────────────────────────────────────────────────
+ORC
+────────────────────────────────────────────────────────────────────────────────
+
+  NON-MONSTER: Orcs do not count as monsters in combat, but as ordinary NPCs.
+
+  NOCTURNAL: In direct sunlight, orcs get a bane on all rolls and suffer D6
+  damage per stretch. A thick layer of clouds or full-cover clothing are
+  enough to avoid the effect.
+
+  MISTY VALE NOTE: Due to the thick haze, orcs can move freely outdoors in
+  the daytime without suffering damage.
+
+  Orcs serving Maladûk bear the mark of two crossed meat hooks on their
+  right shoulder.
+
+  WARRIOR
+    Mov.: 10   Damage Bonus STR: +D4   HP: 12
+    Typical Armor: Studded leather (2)
+    Skills: Awareness 10, Evade 8
+    Typical Weapon: Scimitar (skill level 12, damage 2D6)
+
+  SHAMAN
+    Movement: 10   Damage Bonus: —   HP: 10   WP: 16
+    Typical Armor: —
+    Skills: Animism 14, Awareness 12, Evade 8
+    Spells: Ensnaring Roots, Lightning Flash, Treat Wound
+    Typical Weapon: Staff (skill level 10, damage D8)
+
+  CHIEFTAIN
+    Mov.: 10   Damage Bonus STR: +D6   HP: 24   WP: 15
+    Typical Armor: Chainmail (4)
+    Skills: Awareness 14, Evade 12
+    Abilities: Veteran, Defensive, Dual Wield, Robust x4
+    Typical Weapon: Two scimitars (skill level 16, damage 2D6)
+
+────────────────────────────────────────────────────────────────────────────────
+SKELETON
+────────────────────────────────────────────────────────────────────────────────
+
+  NON-MONSTER: Skeletons do not count as monsters in combat, but as ordinary
+  NPCs. They roll to hit normally.
+
+  RESISTANCE: All piercing damage is halved (rounded up).
+
+  IMMUNITY: Skeletons are immune to fear and PERSUASION.
+
+  NOTE (Ch4 Magna Woods, encounter #12): The undead guard patrol skeletons
+  have short spears and chainmail (not the typical warrior loadout below).
+  They speak in an archaic dialect; given their immunity to PERSUASION, the
+  gold toll is the reliable option for non-combat resolution.
+
+  WARRIOR
+    Movement: 8   Damage Bonus: —   HP: 8
+    Typical Armor: Studded leather (2)
+    Skills: Awareness 8, Evade 6
+    Typical Weapon: Short sword (skill level 12, damage D10)
+
+  ARCHER
+    Movement: 8   Damage Bonus: —   HP: 8
+    Typical Armor: Leather (1)
+    Skills: Awareness 8, Evade 6
+    Typical Weapons: Dagger (skill level 10, damage D8),
+                     crossbow (skill level 12, damage 2D6)
+
+  CHAMPION
+    Mov.: 10   Damage Bonus STR: +D6   HP: 24   WP: 15
+    Typical Armor: Chainmail (4)
+    Skills: Awareness 12, Evade 8
+    Abilities: Veteran, Defensive, Double Slash, Robust x4
+    Typical Weapon: Longsword (skill level 16, damage 2D8), large shield
+
+
+════════════════════════════════════════════════════════════════════════════════
+TYPICAL NPCs (Generic stat blocks from p.105)
+════════════════════════════════════════════════════════════════════════════════
+
+All fight as ordinary NPCs (roll to hit). Minions with identical stats can
+act on the same initiative turn and are dead at 0 HP unless you want them
+to survive. Bosses draw their own initiative card and have WP.
+
+MINIONS:
+  Guard        Skills: Awareness 10, Swords 12        Damage Bonus STR: +D4
+               HP: 12   Gear: Broadsword, studded leather armor
+
+  Cultist      Skills: Evade 14, Knives 14             Damage Bonus AGL: +D4
+               HP: 12   Gear: Dagger
+
+  Thief        Skills: Evade 12, Knives 12             Damage Bonus AGL: +D4
+               HP: 10   Gear: Knife
+
+  Villager     Skills: Brawling 8                      Damage Bonus: —
+               HP: 8    Gear: Wooden club
+
+  Hunter       Skills: Awareness 12, Bows 13           Damage Bonus AGL: +D4
+               HP: 13   Gear: Longbow, leather armor
+
+  Bandit       Skills: Bows 12, Evade 10, Swords 12    Damage Bonus: —
+               HP: 12   Gear: Short sword, short bow
+
+  Adventurer   Skills: Awareness 10, Swords 12         Damage Bonus STR: +D4
+               HP: 13   Gear: Broadsword, studded leather armor
+
+  Scholar      Skills: Languages 13, Myths & Legends 13, Staves 8
+               Damage Bonus: —   HP: 7   Gear: A good book
+
+BOSSES:
+  Bandit Chief   Skills: Awareness 12, Brawling 15, Hammers 15
+                 Abilities: Berserker, Robust x6, Veteran
+                 Damage Bonus STR: +D6   HP: 30   WP: 16
+                 Gear: Heavy warhammer, chainmail, open helmet
+
+  Knight Champion  Skills: Brawling 14, Swords 16
+                   Abilities: Defensive, Double Slash, Focused x6, Robust x6
+                   Damage Bonus STR: +D6   HP: 28   WP: 26
+                   Gear: Longsword, large shield, plate armor, great helm,
+                         combat-trained horse
+
+  Archmage       Skills: Magic School 15, Staves 13
+                 Abilities: Focused x6, Master Spellcaster, Robust x4
+                 Damage Bonus: —   HP: 22   WP: 30
+                 Gear: Staff, grimoire
+
+
+════════════════════════════════════════════════════════════════════════════════
+QUICK-REFERENCE COMBAT TABLE
+════════════════════════════════════════════════════════════════════════════════
+
+Monster          Ferocity  HP   Armor  Movement  Key Special Rule
+-----------------------------------------------------------------------------
+Demon               2      64     4      16      Monster; large
+Ghost               2      27     -      12      Immune all dmg except magic/fire;
+                                                 banished 1 shift only unless PURGE;
+                                                 CAN be persuaded (bane)
+Giant               1      74     -      18      Huge; weak spot on head = x2 dmg
+Giant Spider        2      36     -      24      Poison sting potency 16
+Griffon             2      38     -      30      Flying; High Drop grab+fall
+Harpy               1ea    12ea   -      24      Flying; flock rules; half dead=flee;
+                                                 ranged/long weapons only
+Manticore           2      44     -      16      Ranged tail spikes; poison pot. 12
+Troll               2      38     -      10      Regen D6 HP/turn; fire stops regen;
+                                                 sunlight D6/round; CAN be persuaded
+Vampiric Bats       2      18     -      24      Swarm; physical dmg halved (not fire);
+                                                 heals HP from blood drain
+Wight               2      38   varies   10      Half dmg non-magical (fire normal);
+                                                 morningstar 2D8; rises again if
+                                                 defeated outside room #9
+-----------------------------------------------------------------------------
+         NON-MONSTERS (roll to hit normally)
+-----------------------------------------------------------------------------
+Goblin Scout        -       9     1      10      Sunlight: bane + D6 dmg/stretch
+Goblin Warrior      -      10     2      10      Sunlight: bane + D6 dmg/stretch
+Orc Warrior         -      12     2      10      Sunlight: bane + D6 dmg/stretch
+Skeleton Warrior    -       8     2       8      Immune fear/persuasion;
+                                                 piercing dmg halved
+-----------------------------------------------------------------------------
+         GENERIC NPCs (roll to hit normally)
+-----------------------------------------------------------------------------
+Guard               -      12     -      -       Broadsword, studded leather
+Cultist             -      12     -      -       Dagger
+Bandit              -      12     -      -       Short sword, short bow
+Hunter              -      13     -      -       Longbow, leather armor
+Adventurer          -      13     -      -       Broadsword, studded leather
+-----------------------------------------------------------------------------
+
+REMINDER: All monsters dodge/parry at skill 15. Dodging or parrying flips
+one of the monster's initiative cards face-down (uses up their action).

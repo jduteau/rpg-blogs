@@ -1,0 +1,1272 @@
+═══════════════════════════════════════════════════════
+MASKS: A NEW GENERATION — CORE PLAYBOOK REFERENCE
+For use in Section 13 of the Solo GM Prompt
+═══════════════════════════════════════════════════════
+All 10 core playbooks. Starting Labels are flexible —
+the playbook sets a base array and the player adds +1
+wherever they choose at character creation.
+Base array for all core playbooks: Danger -2/-1/0/+1/+2/+3,
+same for all five Labels; the player marks the starting
+values on the sheet. Key distinctions are in the moves,
+setup, and special mechanics.
+═══════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE BEACON
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Why do you belong here when you have no real powers?
+
+SPECIAL MECHANIC — DRIVES:
+Choose four Drives at the start of play. When you fulfill
+a marked Drive, strike it out and choose one: mark
+potential, clear a condition, or take Influence over
+someone involved. When all four marked Drives are struck
+out, choose four new ones. When ALL drives on the list
+are struck out, change playbooks, retire, or become a
+paragon.
+
+Drive list:
+- lead the team successfully in battle
+- kiss someone dangerous
+- punch someone you probably shouldn't
+- help a teammate when they most need you
+- take down a threat all on your own
+- outperform an adult hero
+- pull off a ridiculous stunt
+- save a teammate's life
+- get drunk or high with a teammate
+- drive a fantastical vehicle
+- get a new costume
+- get a new hero name
+- earn the respect of a hero you admire
+- make out with a teammate
+- punch out a teammate
+- break up with someone
+- stop a fight with calm words
+- tell someone your true feelings for them
+- travel to an incredible place (or time)
+- reject someone who tells you "you shouldn't be here"
+
+ABILITIES (choose two — minor powers or skills with gear):
+- bow and trick arrows
+- swords
+- camouflage and stealth
+- martial arts
+- phasing
+- acrobatics
+
+MOMENT OF TRUTH:
+You show them exactly why you belong here. You do any
+one thing, take out any one enemy, no matter how insane
+or ridiculous — because that's you. Their jaws drop when
+you're done. Pulling off a stunt like this tends to bring
+unwanted attention and a dangerous reputation.
+
+TEAM MOVES:
+Triumphant celebration: Tell them how they're awesome and
+add 1 Team. If they tell you how you're awesome in return,
+add another Team.
+Vulnerability/weakness: Ask them to confirm or deny that
+you should be here. If they confirm: mark potential and
+give them Influence. If they deny: mark Angry and shift
+one Label up and one down (your choice).
+
+STARTING INFLUENCE:
+Give Influence to THREE teammates. (You are so excited
+to be here.)
+
+STARTING RELATIONSHIPS:
+- [Name] is awesome, and you take every chance to hang
+  out with them.
+- You've got to prove yourself to [Name] before you feel
+  like a real hero.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We found signs that this incident was just the start of
+something bigger. What were the signs?
+
+BEACON MOVES (choose two):
+- Straight. Up. Creepin'.: When you scope out a person
+  or place, roll +Mundane. 10+: ask two. 7-9: ask one.
+  Questions: best way in/out? / what happened here
+  recently? / what here is worth grabbing? / who or what
+  is not what they seem? / whose place is this?
+  Miss: you find yourself in over your head.
+
+- No powers and not nearly enough training: You're always
+  picking up new gear. When you pick up a new piece of
+  gear, write it in as a new ability (if the line is
+  empty). The first time you use each piece of gear to
+  directly engage, unleash powers, or defend someone, you
+  can roll +Mundane instead of the normal Label.
+
+- Won't let you down: When you help a teammate, you can
+  spend 2 from the Team pool to add +2 to their roll
+  (instead of the usual +1 for 1 Team).
+
+- Pretty much a superhero: When you bring up your hero
+  name to someone important for the first time, roll
+  +Savior. Hit: they've heard of you; say which exploit
+  and which Label they assign. 7-9: GM tells you something
+  else they've heard and picks a second Label they assign.
+  Miss: they don't take you seriously or mistrust you.
+
+- C'mon, Lucky: You have a pet/smaller companion. Detail
+  it. Choose three basic moves — it helps you with those.
+  Take +1 to those moves when your pet could help. If the
+  pet gets hurt, treat it as taking a powerful blow.
+
+- Suck it, Domitian: When you stand strong while
+  dramatically under fire, roll +Savior instead of +Danger
+  to directly engage a threat.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x3)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Beacon's identity pressure lives in the gap between
+enthusiasm and competence. Push on whether they truly
+belong. NPCs who doubt them are gold. The Drives give
+the player agency — track which are struck out and look
+for opportunities to fulfill them dramatically. Their
+high Mundane makes them the emotional anchor of the team;
+lean into that when they least expect it.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE BULL
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you ever stop being a weapon and become a person?
+
+SPECIAL MECHANIC — THE BULL'S HEART:
+You always have exactly one Love and one Rival (named
+at character creation). You can change them at any time;
+give the new subject Influence over you. Take +1 ongoing
+to any action that impresses your Love or frustrates
+your Rival.
+
+Choose one role you fulfill for your Love or Rival:
+- Defender: When you leap to defend your Love or Rival
+  in battle, roll +Danger instead of +Savior.
+- Friend: When you comfort or support your Love or Rival,
+  mark potential on a hit. When they comfort/support you,
+  mark potential when they roll a hit.
+- Listener: When you pierce the mask of your Love or
+  Rival, you can always let them ask you a question to
+  ask them an additional question in turn, even on a miss.
+  These extra questions don't have to be on the list.
+- Enabler: When you provoke your Love or Rival, roll
+  +Danger if trying to provoke them to rash action.
+
+ABILITIES:
+Superhumanly tough, incredibly strong, uniquely skilled
+at fighting. Decide how each manifests.
+
+MOMENT OF TRUTH:
+You let loose — all the pent-up strength and rage and
+glee — and you break whatever stands in your way. You are
+a walking demolition crew. Nothing can stop you. But now
+the people who changed you know exactly where to find
+you.
+
+TEAM MOVES:
+Triumphant celebration: Make them your Love or Rival
+immediately to mark potential. If they're already your
+Love or Rival, take Influence over them and mark
+potential.
+Vulnerability/weakness: Give them Influence and hold 2.
+Spend that hold to help them as if it were Team in the
+pool.
+
+STARTING INFLUENCE:
+Give Influence ONLY to your Love and your Rival.
+(You're selective about who you let in.)
+
+STARTING RELATIONSHIPS:
+- [Name] is your Love. You've opened up to them about
+  the worst parts of your past.
+- [Name] is your Rival. They tried to control you at a
+  crucial moment.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We defeated a dangerous enemy. Who or what was it?
+
+BULL MOVES (choose two):
+- Thick and thin skinned: Whenever you have Angry marked,
+  take +1 ongoing to unleash your powers.
+
+- You've got a head you don't need: When you provoke
+  someone with obvious threats and shows of force, roll
+  +Danger instead of +Superior.
+
+- Punch everyone: Whenever you charge into a fight
+  without hedging your bets, you can shift your Danger
+  up and any other Label down.
+
+- There when it matters: When you defend someone, on a
+  hit you can hold 1 instead of choosing from the list.
+  Spend your hold when they are in danger later to arrive
+  on the scene ready to help.
+
+- In a china shop: When you directly engage a threat,
+  you can cause significant collateral damage to your
+  environment to choose an additional option, even on
+  a miss.
+
+- Physics? What physics?: When you unleash your powers
+  to barrel through an insurmountable barrier, roll
+  +Danger instead of +Freak.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Choose another two roles for The Bull's Heart
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Bull's entire emotional architecture is built around
+two people — Love and Rival. Every scene that involves
+either is automatically charged. The people who changed
+them are a perpetual threat clock. Push on their
+inability to be gentle or strategic. Conditions hit hard
+here: Angry gives them a mechanical boost (Thick and thin
+skinned) that can make them reckless. Their low Influence
+count means the Influence they do give carries enormous
+weight.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE DELINQUENT
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Are you the rebel facade, or is there a hero underneath?
+
+ABILITIES (choose two — messy, deceiving, or frustrating):
+- teleportation
+- tricks/illusions
+- gadgetry and hacking
+- psychic weapons
+- emotion control
+- power negation
+
+MOMENT OF TRUTH:
+You show them what you really are — the hero underneath
+the rebel facade, or the one who can make the hard
+choices heroes can't. You do whatever it takes. But once
+you've shown what you really are, there's no going back
+to playing the clown.
+
+TEAM MOVES:
+Triumphant celebration: Ask them if they think you're
+cool. If yes: give them Influence and take Influence over
+them. If no: mark a condition or spurn them immediately.
+Either way (if teammate): add 1 Team.
+Vulnerability/weakness: Give them Influence and ask who
+they'd like you to be. Mark potential if you show them
+that person. (If teammate: add 1 Team regardless.)
+
+STARTING INFLUENCE:
+Give Influence to THREE teammates. (You care way more
+than you let on.)
+
+STARTING RELATIONSHIPS:
+- You keep trying to impress [Name] with your antics.
+- You and [Name] pulled an awesome (if illegal) stunt
+  together.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We totally broke some major rules to win the fight. What
+rules did we break? Whose rules were they?
+
+DELINQUENT MOVES (choose three):
+- Mary Contrary: When someone tries to pierce your mask,
+  comfort or support you, or provoke you, you can
+  interfere. Roll +Superior. Hit: they take -2 on their
+  roll. 10+: you also take Influence over them OR clear
+  a condition. Miss: they get a 10+ no matter what they
+  rolled and you mark a condition of their choice.
+
+- I don't care what you think!: Whenever you reject
+  others' Influence, add +2 to your roll.
+
+- Team? What team?: When you use Team selfishly, clear
+  a condition or mark potential. The first time in a
+  session you use Team to help a teammate, take +1
+  forward.
+
+- Criminal mind: When you assess the situation, you can
+  always ask one of the following, even on a miss:
+  - what here is useful or valuable to me?
+  - how could I best infuriate or provoke [name]?
+  - what's the best way in/way past?
+
+- Troublemaker: When you help a teammate through
+  destructive, criminal, or rule-breaking actions, you
+  can give them +2 instead of +1 when you spend a Team.
+
+- Are you watching closely?: When you mislead, distract,
+  or trick someone, roll +Superior. Hit: they are fooled,
+  at least for a moment. 10+: choose three. 7-9: choose
+  two.
+  - you get an opportunity
+  - you expose a weakness or flaw
+  - you confuse them for some time
+  - you avoid further entanglement
+  Miss: you're hopelessly embroiled; mark a condition.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Add +1 to any two Labels
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Delinquent is most interesting when genuinely torn
+between the rebel act and the hero underneath. NPCs who
+believe in them despite everything are as important as
+authority figures who write them off. Their Team? What
+team? move creates interesting friction — reward selfish
+Team use with consequences, not just mechanics. The "cool"
+question in triumphant celebration is a loaded gun: say
+no occasionally.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE DOOMED
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+How do you live fully when you know how it ends?
+
+SPECIAL MECHANICS — DOOM TRACK AND DOOMSIGNS:
+
+DOOM: Choose two triggers that bring your doom closer:
+- overexerting yourself
+- injuring innocents
+- facing danger alone
+- frightening loved ones
+- showing mercy
+- talking about it openly
+
+Whenever you bring your doom closer, mark one box on
+your Doom Track (5 boxes). When the track fills, clear
+it and take one Doomsign.
+
+DOOMSIGNS (choose one at character creation; gain more
+as doom track fills):
+- Dark Visions: Mark doom track to have a vision about
+  the situation. Ask the GM a question; they answer
+  honestly.
+- Infinite Powers: Mark doom track to use an ability
+  from any playbook, one time.
+- Portal: Mark doom track to appear in a scene with
+  anyone you want.
+- Burning Bright: Mark doom track to ignore one of the
+  GM's stated requirements when calling on sanctuary
+  resources.
+- Bolstered: Mark doom track to use an Adult Move one
+  time.
+- Your doom arrives; confront it and perish. [TERMINAL]
+
+Once all five doomsigns above the line are taken, you
+MUST take "Your doom arrives" the next time the doom
+track fills.
+
+SANCTUARY:
+You have a place to rest, recover, and reflect.
+Choose three features: aide/assistant, locks and traps,
+library, ancient relics, teleportal, containment system,
+powerful computer, useful tools, meditation space, power
+battery, power enhancement, healing equipment, art/music/
+food.
+Choose two downsides: difficult to access, draws dangerous
+attention, location known to many, easily damaged, tied
+to your doom.
+
+When you call on sanctuary resources, the GM gives you
+1-4 conditions to fulfill:
+- First, you must [X]
+- You'll need help from [X]
+- You and your team will risk danger from [X]
+- Best you can do is lesser/unreliable version
+- You'll need to mark one doom track box
+- You'll have to obtain [X]
+
+END OF SESSION QUESTION (unique to Doomed):
+Did you make progress on defeating your nemesis?
+Yes: mark potential. No: mark your doom track.
+
+NEMESIS:
+You have an epic, powerful enemy who embodies your doom.
+It will take everything you have to defeat them.
+
+ABILITIES (choose up to three, tied to your doom):
+- telekinesis
+- body transmutation
+- memory manipulation
+- superhuman strength and speed
+- psychic constructs
+- vitality absorption
+
+MOMENT OF TRUTH:
+The fear of your doom — always in your head — gives you
+confidence to do anything. What's the worst that could
+happen? Do impossible things. But mark a doomsign after
+you're done.
+
+TEAM MOVES:
+Triumphant celebration: Give them Influence over you and
+spend 1 Team to clear one box on your doom track.
+Vulnerability/weakness: Give them Influence and ask if
+they honestly think there's hope for you. Yes: mark
+potential OR clear one doom track box. No: mark a
+condition OR mark doom track.
+
+STARTING INFLUENCE:
+Give Influence to TWO teammates.
+
+STARTING RELATIONSHIPS:
+- You told [Name] all about your doom and the danger
+  you're in.
+- You'd love to kiss [Name] before your doom comes.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We paid a high cost for victory. What was it?
+
+ADVANCEMENT (first 5):
+- Take a move from another playbook (x3)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Clear a doomsign; lose access to that move for now
+- Get Burn and three flares (from the Nova's playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Confront your doom on your terms; if you survive,
+  change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Become a paragon for however long you have left
+
+GM NOTES:
+The Doomed's clock is the most explicit in the game —
+track the doom track rigorously. The two doom triggers
+are the key: build situations that force the player to
+choose between bringing doom closer or leaving something
+bad unaddressed. The nemesis should appear regularly and
+feel genuinely threatening. The sanctuary creates a
+resource-management layer; use the GM conditions
+creatively. Hope and hopelessness should alternate —
+never let the doom feel purely inevitable or purely
+defeatable.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE JANUS
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Which identity is the real you — the mask or the person
+underneath?
+
+SPECIAL MECHANIC — THE MASK:
+The Mask is a mandatory starting move. Choose which Label
+you try to embody while wearing the mask:
+Freak / Danger / Savior / Superior
+
+Once per session, you can affirm either your heroic or
+secret identity to switch your Mundane with your mask's
+Label.
+
+When you reveal your secret identity to someone who
+didn't know it already, mark potential.
+
+SPECIAL MECHANIC — SECRET IDENTITY:
+Your mundane life has three obligations (choose total
+of three):
+Jobs: Barista, intern, host/ess, salesperson, delivery,
+fast-food, babysitter, dishwasher, tech support, waiter
+School: Schoolwork, athletic team, chess club, photo
+club, student government
+Home: Caring for someone, chores, bills, surrogate
+parenting
+Social: Significant other, best friend, popularity,
+close relative, coach/teacher
+
+When time passes, roll +Mundane to manage obligations.
+10+: things going well — opportunity or advantage from
+one obligation. 7-9: lapsed on one obligation (your
+choice). Miss: GM chooses two obligations that are going
+to bite you.
+
+ABILITIES (heightened physical: strength, agility,
+toughness; plus choose two unique):
+- rodent/insect control
+- bone generation, venom, or webs
+- energy absorption
+- supernatural senses
+- impossible mobility
+- substance mimicry
+
+MOMENT OF TRUTH:
+The mask is a lie, and some piece of you has always known
+it. Mask off. Costume on. You're going to save the damn
+day. But you better hope nobody nasty is watching.
+
+TEAM MOVES:
+Triumphant celebration: Ask them if they see you as the
+person wearing the mask or the person underneath. Former:
+mark potential and clear a condition. Latter: take
+Influence over them if you reveal yourself.
+Vulnerability/weakness: Tell them a secret about who you
+really are. Give them Influence; shift Mundane up and
+your mask's Label down.
+
+STARTING INFLUENCE:
+Give Influence to TWO teammates. (You look up to them —
+they seem to have this figured out.)
+
+STARTING RELATIONSHIPS:
+- [Name] knew you from your civilian life first.
+- You refused to tell [Name] your secret identity when
+  they asked.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We saved the life of someone important to the city or to
+us. Who was it? Why are they important?
+
+JANUS MOVES (start with The Mask + choose two more):
+- The Mask: [see Special Mechanic above]
+
+- Game face: When you commit yourself to save someone or
+  defeat a terrible enemy, mark a condition and take +1
+  ongoing to all rolls in direct pursuit of that goal.
+  At the end of any scene where you don't make progress,
+  mark a condition. When you fulfill your goal, mark
+  potential.
+
+- I am what you see: When you spend time talking to
+  someone about your identity, ask them which Label they
+  want to impose on you (they answer honestly). If you
+  accept what they tell you, take +1 forward and either
+  mark potential or clear a condition.
+
+- Mild-mannered: When you use your civilian identity to
+  deceive, trick, or slip past someone, roll +Mundane.
+  Hit: they buy your facade. 7-9: choose one:
+  - you're still under observation
+  - you leave something incriminating behind
+  - you're forced to make a fool of yourself to sell it
+  Miss: one of your civilian obligations rears its head.
+
+- I'll save you!: You're willing to pay high costs to
+  keep loved ones safe. Reveal your secret identity to
+  someone watching OR mark a condition to defend a loved
+  one as if you rolled a 12+.
+
+- Dangerous web: When you reveal a trap you've laid using
+  your powers, roll +your mask's Label. Hit: opponent
+  trips into it; you get an opening against them. 10+:
+  take +1 forward pursuing it. Miss: the trap leads to
+  dangerous escalation.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Change your mask's Label; add +1 to new mask Label
+- Unlock your Moment of Truth
+- Take Drives from the Beacon's playbook
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Janus lives and dies on the civilian obligations. Do
+not let them slide — bring them up regularly. The tension
+between the two identities is the engine: force them to
+choose which life to sacrifice in a given moment. The
+Label switch (Mundane ↔ mask Label) is mechanically
+significant and should feel like a genuine character
+moment when it happens. Villains who threaten the civilian
+life are more frightening to this character than any
+physical threat.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE LEGACY
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Are you worthy of the name you carry, and do you even
+want to be?
+
+SPECIAL MECHANIC — THE LEGACY:
+Name at least two members of your legacy:
+- [Name] is still active and prominent in the city.
+- [Name] is retired and quite judgmental.
+- [Name] is the next possible member of your legacy.
+- [Name] is the greatest opponent your legacy ever faced
+  and is still at large.
+
+Whenever time passes, roll +Savior to see how legacy
+members feel about your recent exploits. Ask the other
+players (pre-roll) to answer these questions; take -1
+for each "no":
+- Have you been upholding the traditions of your legacy?
+- Have you maintained the image of your legacy?
+- Have you made the other members proud?
+10+: One offers encouragement, opportunity, or advantage.
+7-9: Another is upset and will make displeasure known.
+Miss: Something stirred up the hornet's nest — expect
+several members to meddle with your life.
+
+ABILITIES (choose one power suite; pick two powers you
+DON'T have from it):
+- super strength, invincibility, eye beams, flight,
+  super senses
+- super speed, regeneration, phasing, speedreading/
+  learning, air manipulation
+- athletic perfection, Holmesian deduction, gadgetry,
+  intimidation, fearsome reputation
+- divine armor, magic weaponry, mythic might, legendary
+  speed, god-like beauty
+- shadow control, shadow portals, mind-clouding, shadow
+  cloak stealth, shadow senses
+
+MOMENT OF TRUTH:
+You seize control of all your powers and defeat even
+impossible odds to prove the mantle belongs to you. You
+accomplish feats even your predecessors couldn't. But
+expect still more responsibilities placed on your
+shoulders afterward.
+
+TEAM MOVES:
+Triumphant celebration: Tell them whether you see them
+as an equal. If yes: give them Influence; mark potential.
+If no: shift Superior up and any other Label down.
+Vulnerability/weakness: Tell them a secret about your
+legacy (including your true feelings about it) to clear
+a condition and give them Influence.
+
+STARTING INFLUENCE:
+Give Influence to ALL teammates. (You're part of this
+team, for better or worse.)
+
+STARTING RELATIONSHIPS:
+- You once got caught doing something that shames your
+  legacy with [Name].
+- You trust [Name] and told them an important secret of
+  your legacy.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+All things considered, we did well and impressed an
+established hero. Who was it?
+
+LEGACY MOVES (choose two):
+- Fight the good fight: When you pull your punches while
+  directly engaging a threat, roll +Savior instead of
+  +Danger. If you do, you cannot choose to impress,
+  surprise, or frighten your foe.
+
+- I know what I am: Once per scene, when you defend a
+  teammate, shift Savior up and another Label down in
+  addition to any other benefits, even on a miss. If you
+  do, add 1 Team.
+
+- Words of the past: When you seek guidance from an elder
+  or legacy member, tell them a problem and ask a
+  question. They answer honestly and tell you what to do.
+  Take +1 ongoing if you listen. If you go your own way,
+  mark potential.
+
+- The legacy matters: When you take Influence over someone
+  from your legacy (or give them Influence), mark
+  potential and take +1 forward. When someone from your
+  legacy causes your Labels to shift, mark potential and
+  take +1 forward.
+
+- Never give up, never surrender: When you take a powerful
+  blow from someone with far greater power, use this
+  instead of the basic move. Roll +Savior. Hit: stand
+  strong, choose one. 7-9: mark a condition.
+  - get an opportunity or opening against your attacker
+  - rally from the hit, inspiring the team; add 1 Team
+  - keep your attacker's attention
+  Miss: you go down hard but leave opponent off balance
+  and vulnerable.
+
+- Symbol of authority: When you give an NPC an order
+  based on authority they recognize, roll +Savior. Hit:
+  they choose one — do what you say / get out of your way
+  / attack you at a disadvantage / freeze. 10+: take +1
+  forward against them. Miss: they do as they please;
+  take -1 forward against them.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Take a Sanctuary from the Doomed playbook
+- Unlock the remaining two powers of your suite
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The legacy NPC roster is a built-in pressure system —
+use it. The judgmental retired member and the active
+prominent member should pull the hero in opposite
+directions. High Superior is the Legacy's tell: they
+can slip into arrogance when under pressure, which
+alienates teammates. The greatest legacy enemy still at
+large is a slow-burn villain threat that should resurface
+at the worst moment. Their natural tendency toward
+Savior-heavy play means they often sacrifice themselves —
+let them, and let it cost them.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE NOVA
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can someone with this much power keep from becoming
+the thing they fear?
+
+SPECIAL MECHANIC — BURN AND FLARES:
+When you charge up your powers, roll +conditions currently
+marked. 10+: hold 3 Burn. 7-9: hold 3 Burn, mark a
+condition. Miss: hold 2 Burn and mark THREE conditions.
+
+Spend Burn on Flares. Lose all Burn at end of scene.
+Choose FOUR flares at character creation.
+
+FLARES:
+- Reality storm: Spend 1 Burn to directly engage a threat
+  using powers, rolling +Freak instead of +Danger. Will
+  cause unwanted collateral unless you spend another Burn.
+
+- Shielding: Spend 1 Burn to defend someone else from an
+  immediate threat, rolling +Freak instead of +Savior.
+
+- Constructs: Spend 1 Burn to create any object with
+  your powers up to the size of a person. Spend another
+  Burn to animate it independently. Dissolves end of
+  scene.
+
+- Moat: Spend 1 Burn to create a barrier that holds back
+  threats while you keep attention on it. GM may call for
+  more Burn against powerful enemies.
+
+- Worship: Spend 1 Burn to awe an audience into silence,
+  respect, and attention when you unleash your powers.
+
+- Move: Spend 1 Burn to move anywhere in the scene,
+  breaking through any barriers. Spend 2nd Burn to move
+  to any place you've previously been.
+
+- Boost: Spend 1 Burn to give a teammate +1 to their
+  roll as if you had spent Team from the pool.
+
+- Overcharge: Spend 2 Burn to take a 10+ when you
+  unleash your powers.
+
+- Elemental awareness: Spend 1 Burn and mark a condition
+  to open your mind to the world around you. Ask any one
+  question; GM answers honestly.
+
+- Snatch: Spend 1 Burn to seize any object up to the
+  size of a person from someone within view.
+
+ABILITIES (choose one broad base of control):
+- telekinesis and telepathy
+- sorcery
+- biokinesis
+- elemental control
+- gravity manipulation
+- cosmic energies
+
+MOMENT OF TRUTH:
+Your mind's eye opens and you can see and control the
+world around you with ease. You're a god for a moment.
+Warping reality tends to have ramifications, but how
+could you possibly worry about that now?
+
+TEAM MOVES:
+Triumphant celebration: Ask them if there's any fear in
+their eyes. If no: take +1 forward and mark potential.
+If yes: shift Danger up and Savior down immediately.
+Vulnerability/weakness: Tell them how they could stop
+you, if it came down to it. Give them Influence; clear
+a condition.
+
+STARTING INFLUENCE:
+Choose demeanor: happy facade or locked down.
+Happy facade: give Influence to THREE teammates.
+Locked down: give Influence to ONE teammate.
+
+STARTING RELATIONSHIPS:
+- You hang out all the time with [Name] to blow off steam.
+- You once hurt [Name] when you lost control of your
+  powers.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We destroyed our surroundings in the fight. Where was it?
+What did we destroy?
+
+ADVANCEMENT (first 5):
+- Take a move from another playbook (x2)
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Unlock three new flares (x2)
+- Take The Bull's Heart from the Bull playbook
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Burn mechanic is the Nova's defining engine — more
+conditions means more Burn, which means more power, which
+means more risk of conditions. It is a reinforcing loop.
+Never let the Burn feel routine: collateral damage should
+be real, messy, and matter to people. The person they
+hurt when they lost control (relationship) is a recurring
+wound. The triumphant celebration question — fear in
+their eyes? — should sometimes get a yes, even from
+close teammates. Push Danger up whenever they use their
+powers dramatically; it should feel like a Label creeping
+toward something inevitable.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE OUTSIDER
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+What does it mean to be human, and do you want to be?
+
+ABILITIES (flight and pretty tough are baseline; choose
+two additional):
+- density control
+- heliokinesis
+- stunning beauty or pheromones
+- radical shapeshifting
+- alien weaponry
+- telepathy and mind blasts
+
+MOMENT OF TRUTH:
+You call your people for aid — they answer in force,
+arriving exactly when needed to turn the tide. They fight
+and serve you for the rest of the battle. When it's done,
+they'd probably like to take you home. You did, after
+all, just prove yourself worthy.
+
+TEAM MOVES:
+Triumphant celebration: Take Influence over them if you
+show them meaningful affection (physical or emotional).
+They decide if it's meaningful.
+Vulnerability/weakness: They tell you what you should do
+to fit in more. Take +1 forward to do it; mark potential
+if you do.
+
+STARTING INFLUENCE:
+Choose demeanor: haughty or cheerful.
+Haughty (you think you're better than them): Give no one
+Influence.
+Cheerful (thrilled to be here): Give everyone Influence.
+
+STARTING RELATIONSHIPS:
+- You've been learning about Earth by spending time with
+  [Name].
+- You have a crush on [Name] but keep it under wraps.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We didn't trust each other at first, but that changed.
+How? Why?
+
+OUTSIDER MOVES (choose three):
+- Belong in two worlds: When you contact your people,
+  roll +Superior. 10+: hold 3. 7-9: hold 2. Miss: hold
+  1, but your people make an uncomfortable demand. Spend
+  hold 1-for-1:
+  - receive alien tech allowing use of any ability from
+    another playbook once
+  - consult your people's knowledge to ask GM a question
+    about current situation
+  - clear a condition through comfort of home contact
+
+- Alien tech: When you alter a human device with alien
+  technology, roll +Freak. Hit: creates a device that
+  does something impossible once, then fizzles. 10+:
+  choose one — it works exceptionally well / you get an
+  additional use. Miss: works but with a completely
+  unintended side effect the GM reveals when used.
+
+- Alien ways: Whenever you openly disregard or undermine
+  an important Earth custom in favor of your people's
+  customs, shift Superior up and any other Label down.
+
+- Kirby-craft: You have a ship from home. Detail look;
+  choose two strengths and two weaknesses. When flying,
+  use it to unleash powers, directly engage, or defend
+  someone using Superior.
+  Strengths: fast/maneuverable, chameleon plating,
+  powerful weaponry, regenerating, dimension-shifting,
+  size-shifting, telepathic
+  Weaknesses: bizarre fuel, susceptible to [X], easily
+  detectable, slow and clumsy, unarmed, difficult to
+  repair
+
+- The best of them: When you comfort or support someone
+  by telling them how they exemplify the best parts of
+  Earth, roll +Freak instead of +Mundane.
+
+- Not so different after all: When you talk about your
+  home, roll +Freak. 10+: choose two. 7-9: choose one.
+  - confess a flaw of your home; add 1 Team
+  - mislead them about your home; take Influence over
+    them
+  - describe the glories of your home; clear a condition
+  Miss: you inadvertently reveal more than planned; tell
+  them a secret or vulnerability you haven't shared with
+  Earthlings before now.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Choose two new abilities from any playbook
+- Adopt a human life; take Secret Identity and The Mask
+  from the Janus playbook
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The pull toward home is the Outsider's core threat — make
+it feel real, not just theoretical. Their people should
+have their own agenda. The haughty/cheerful demeanor
+choice sets up completely different influence dynamics;
+haughty Outsiders are harder to pressure but more
+isolated. Earth customs they don't understand are
+excellent scene fuel. The crush they're hiding is one
+of the richest relationship seeds in any playbook — bring
+it up gently but persistently. Superior is their power
+Label; they can be devastatingly perceptive about others
+while completely baffled by ordinary human behavior.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE PROTÉGÉ
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Are you becoming your mentor, or finally something
+different?
+
+SPECIAL MECHANIC — MENTOR:
+Your mentor embodies one Label and denies another. These
+determine which Label you roll for several moves.
+
+Choose: EMBODIES (Savior / Danger / Freak / Superior /
+Mundane) and DENIES (Savior / Danger / Freak / Superior /
+Mundane) — these should be in tension.
+
+Your mentor always has Influence over you.
+
+MENTOR'S RESOURCES (choose up to three for team):
+Hidden base, vehicle, supercomputer, communicators,
+surveillance equipment, false identities, badges of
+authority, chem lab, med lab, teleportal, weapon of last
+resort, security systems, simple robots
+
+ABILITIES (you share one with mentor; you each have one
+unique):
+- shared ability: [chosen]
+- your unique ability: [chosen]
+- mentor's unique ability: [chosen]
+Options: Superhuman physique, weapons and gadgets,
+stealth, detective skills, hacking, power mimicry, body
+elasticity, powerful armor, telepathy/telekinesis,
+intimidation and fear, impossible fighting skills,
+elemental control
+
+MOMENT OF TRUTH:
+You show who you really are — your mentor, or something
+different. You do whatever they could do and more, even
+the things they always failed at. But they're not going
+to see you the same way, no matter which path you choose.
+
+TEAM MOVES:
+Triumphant celebration: Ask them if you've been a good
+leader or effective teammate. Yes: mentor loses Influence;
+mark potential. No: mentor gains Influence; take +1
+forward using the Label the mentor embodies.
+Vulnerability/weakness: Tell them a secret about your
+mentor (including your feelings toward them). Give them
+Influence; add 1 Team.
+
+STARTING INFLUENCE:
+Choose demeanor: playful or business.
+Playful: give Influence to TWO teammates.
+Business: give Influence to NO teammates.
+
+STARTING RELATIONSHIPS:
+- You and [Name] teamed up a few times before everyone
+  came together.
+- Your mentor is cautious; they asked you to keep an eye
+  on [Name].
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We stuck together after all was said and done. Why? How
+did we keep in contact?
+
+PROTÉGÉ MOVES (choose three):
+- Been reading the files: When you first encounter an
+  important superpowered phenomenon (your call), roll
+  +Superior. Hit: tell the team one important detail from
+  your studies; GM says what seems different from what
+  you remember. 10+: ask GM a follow-up; they answer
+  honestly. Miss: situation is well outside your
+  knowledge; GM tells you why.
+
+- Captain: When you enter battle as a team, add an extra
+  Team to the pool and carry +1 forward if you are the
+  leader.
+
+- Venting frustration: When you directly engage while
+  Angry, you can roll +the Label your mentor DENIES and
+  clear Angry.
+
+- Fireside chat: When you seek advice from your mentor,
+  roll +the Label they EMBODY. Hit: they tell you what
+  to do. 10+: mark potential if you follow their advice;
+  take +1 ongoing to follow through. 7-9: get +1 forward
+  to see it through if you do it their way. Miss: they
+  don't have time for you because something big has gone
+  down; mark a condition (GM's choice).
+
+- Be mindful of your surroundings: When you assess the
+  situation before entering a fight, you may ask one
+  additional question, even on a miss.
+
+- Heroic tradition: When you give someone advice that
+  you think your mentor would give, roll +the Label your
+  mentor EMBODIES to comfort or support, instead of
+  +Mundane.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Add +2 to the Label your mentor embodies or denies
+- Choose up to four more resources from your mentor
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The mentor is the most important NPC for a Protégé —
+they should appear regularly, have opinions about
+everything, and be neither purely right nor purely wrong.
+The Label they embody and deny defines the character's
+internal conflict: the Protégé is always measuring
+themselves against a standard they may not want to meet.
+Fireside chat is a move that rewards following mentor
+advice AND going your own way — both should have
+meaningful consequences. The Captain move makes the
+Protégé a natural team leader; lean into the tension
+between that authority and their subordinate relationship
+with the mentor.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE TRANSFORMED
+Book: Masks: A New Generation (Core)
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Are you losing or gaining humanity — and which would you
+prefer?
+
+ABILITIES (choose two; describe how they make you
+grotesque):
+- impenetrable armor
+- inhuman might
+- plant affinity
+- superhuman senses
+- technopathy
+- transmuting flesh
+
+MOMENT OF TRUTH:
+It's so easy to forget you're not just your body. Be the
+monster and save them anyway. Smash down walls and speak
+softly. Embrace it and you can do anything. But putting
+on a display like this will rile up those who see only
+the monster.
+
+TEAM MOVES:
+Triumphant celebration: Clear one condition if they treat
+you like a perfectly normal person; mark potential if
+they praise your power or abilities.
+Vulnerability/weakness: Ask them if you're losing or
+gaining humanity. Losing: mark a condition and mark
+potential. Gaining: clear a condition; shift Mundane up
+and any other Label down.
+
+STARTING INFLUENCE:
+Give Influence to ONE teammate. (You try not to care
+what others think — even if you can't shut everyone out.)
+
+STARTING RELATIONSHIPS:
+- [Name] comforted you when you were at your lowest.
+- [Name] knew you before you changed.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We drew attention and ire from plenty. One important
+person in particular now hates and fears us. Who is it?
+
+TRANSFORMED MOVES (choose three):
+- I am not my body: When you take a powerful physical
+  blow, you may roll as if you had two fewer conditions
+  marked. If you do, on a 10+ you must choose to lose
+  control of yourself in a terrible way.
+
+- Not human enough: When you directly engage a threat
+  in a terrifying fashion, mark a condition to choose an
+  additional option, even on a miss.
+
+- Unstoppable: When you smash through scenery to get to
+  or away from something, roll +Danger. Hit: the world
+  breaks before you; you get what you want. 7-9: choose
+  one — mark a condition / leave something behind / take
+  something with you. Miss: you smash through but leave
+  devastation or wind up somewhere worse (GM's choice).
+
+- Coming for you: When you mark a condition, take +1
+  forward against the person you most blame for causing
+  it.
+
+- Wish I could be: When you comfort or support someone,
+  if you tell them what you most envy about them, roll
+  +Freak instead of +Mundane.
+
+- Be the monster: When you frighten, intimidate, or cow
+  others with your monstrous form, roll +Freak. Hit:
+  they are thrown off and make themselves vulnerable, or
+  they flee. 10+: choose one. 7-9: choose two.
+  - you frighten others you hadn't intended to scare
+  - you hurt someone or break something you shouldn't
+  - you feel like more of a monster; mark a condition
+    (GM's choice)
+  Miss: they react with violence, hatred, and paranoia;
+  you suffer the brunt of it.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook
+- Take a doom, doom track, and doomsigns from the Doomed
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Unlock your Moment of Truth
+- Mutate further: reveal two new abilities (from any
+  playbook)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Transformed's identity question is visceral and
+public — everyone can see what they are. NPCs who react
+with fear, revulsion, or pity are all valid and all
+useful. The person who knew them before they changed is
+a living reminder of a lost self. Mundane is the Label
+to watch: when it's high, they feel most human; when it
+drops, they're sliding toward the monster. The "losing
+or gaining humanity" question in vulnerability should
+never have an obvious answer — keep the player genuinely
+unsure. Be the monster is the most emotionally costly
+move in the playbook; use it at pivotal moments.
+
+
+═══════════════════════════════════════════════════════
+END OF CORE PLAYBOOK REFERENCE
+Next file: Halcyon City Herald Collection playbooks
+═══════════════════════════════════════════════════════

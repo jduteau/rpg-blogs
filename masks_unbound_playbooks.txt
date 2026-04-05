@@ -1,0 +1,541 @@
+═══════════════════════════════════════════════════════
+MASKS: UNBOUND — PLAYBOOK REFERENCE
+For use in Section 13 of the Solo GM Prompt
+═══════════════════════════════════════════════════════
+3 playbooks: The Harbinger, The Nomad, The Scion.
+NOTE: These three playbooks are more mechanically
+demanding than core playbooks and are best introduced
+once the campaign is established. The Nomad in
+particular has a completely overhauled Influence system
+(Putting Down Roots) that requires careful tracking.
+If any of these are used for Claude-played teammates,
+introduce them at session 3 or later, not at session
+zero.
+═══════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE HARBINGER
+Book: Masks: Unbound
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you change the future, or does trying to change it
+only make it worse?
+
+SPECIAL MECHANIC — CONNECTING THE DOTS:
+Your memories of the future are scrambled. You are
+piecing together how the present becomes the future
+you know.
+
+The Connecting the Dots roster has six named roles.
+Each name you fill in raises your Memories score
+by 1 (max +3, starting at -1):
+- Monster: ___________
+- Traitor: ___________
+- Corruptor: ___________
+- Martyr: ___________
+- Architect: ___________
+- Leader: ___________
+
+CONNECTING THE DOTS RULES:
+- When you write a name above: they gain Influence over
+  you if they didn't already have it.
+- When you push yourself to remember the version of
+  someone that exists in your future: mark a condition
+  and roll +Memories. Hit: you connect who they are now
+  to who they are in the future; choose the role they
+  fulfill in the future, and the GM tells you about their
+  future self. 10+: ask a follow-up question. Miss:
+  they're not at all who you thought; the GM chooses
+  their role, or tells you they don't exist in the future.
+- At the start of each session OR when time passes:
+  roll +Savior to find out how your timeline
+  investigations are going. Hit: choose one figure noted
+  above or one aspect of the future world — you've found
+  a lead to learn how they became their future version.
+  10+: the lead is particularly strong; ask the GM one
+  question about that figure or aspect; they answer
+  honestly. Miss: you're lost in the present; the GM
+  tells you how things are so different here and shifts
+  your Labels according to how it makes you feel.
+
+MOMENT OF TRUTH SPECIAL RULE:
+After using your Moment of Truth, RESET ALL NAMES in
+your Connecting the Dots section. You've changed enough
+of the timeline to invalidate your prior research.
+
+ABILITIES (your powers may have something to do with
+how you traveled back; choose one):
+- super speed
+- optimized biology
+- telepathy and telekinesis
+- teleportation and portals
+- futuristic gadgets and implants
+- energy absorption/redirection
+
+MOMENT OF TRUTH:
+In this moment, you can see the course of events laid
+out like a river — you know exactly what you have to do
+to ensure the future outcome you want. After this, you've
+changed enough of the timeline to invalidate your prior
+research. Reset all names in Connecting the Dots.
+
+TEAM MOVES:
+Triumphant celebration: Confess to a teammate the
+difference between what you thought they would be and
+what they really are. Add 1 Team. Ask them if you
+represent a future they'd want. Yes: mark potential.
+No: mark a condition.
+Vulnerability/weakness (share a tale of future loss):
+Ask if they think you have the ability to avert that
+loss. If yes: mark potential and give them Influence.
+If no: mark Guilty and shift one Label up and one down
+(your choice). If Guilty is already marked, mark another
+condition (GM's choice).
+
+STARTING INFLUENCE:
+Give Influence to ALL teammates. (Every member of your
+team has the power to change the future — your future.)
+
+STARTING RELATIONSHIPS:
+- [Name] turns away from the hero's path, according to
+  your history books. You have to prevent that from
+  happening.
+- You've always idolized [Name], but it's too awkward
+  to admit it to them now that you've met them. Keep it
+  cool, keep it cool.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We averted a disaster from the future's history books.
+What was the disaster? What effect do we hope it had
+on the timeline?
+
+HARBINGER MOVES (choose two):
+- Stick to the mission: When you defend someone or
+  something critically important to the future (tell us
+  why), you may mark a condition to shift down one Label
+  and shift up Savior before the roll. If you do, you
+  cannot choose the option "clear a condition" for the
+  defend move.
+
+- Tomorrow's golden promise: When you comfort or support
+  someone with tales of what you think their future will
+  be, you may roll +Savior instead of +Mundane. Mark a
+  condition unless you are confident the stories are
+  true.
+
+- Applied history: When you pierce the mask of someone
+  you believe will shape the future, roll +Savior instead
+  of +Mundane.
+
+- You haven't learned you can do that yet: When you tell
+  a teammate about a new, never-before-performed trick
+  they've never considered, spend a Team from the pool
+  to allow them to unleash their powers, directly engage
+  a threat, or defend someone using YOUR Superior as if
+  it were their Label. Any costs or complications from
+  their move affect you as well.
+
+- I learned the solution in grade school: When you
+  unleash your powers to extend your senses or overcome
+  an intellectual obstacle, you may roll +Superior
+  instead of +Freak.
+
+- 21st century studies: When you assess the situation,
+  you may always ask "what does the future know about
+  this moment?", even on a miss. You take +1 ongoing to
+  act on the answers.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Rearrange Labels as you choose; add +1 to a Label (x2)
+- Unlock your Moment of Truth
+- Someone permanently loses Influence; add +1 to a Label
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Return to the future and accept its new form, or jump
+  to a different point in the past to begin mission anew
+
+GM NOTES:
+The Connecting the Dots mechanic is the most GM-
+intensive system in the Unbound playbooks. Track the
+roster carefully — every name added is a new Influence
+relationship AND a new story thread. The Memories score
+rising from -1 toward +3 represents the Harbinger
+gradually piecing together a picture that may be very
+different from what they expected. The "lost in the
+present" miss on the session-start roll is a license to
+shift Labels dramatically and reorient the character.
+The Moment of Truth reset is genuinely significant — all
+those carefully built connections vanish. Use it at a
+dramatically appropriate moment, not just when the
+player wants to. The idolized-teammate relationship is
+enormous emotional fuel; the teammate they're trying to
+keep on the hero's path should be present in most
+difficult scenes.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE NOMAD
+Book: Masks: Unbound
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you ever truly commit to one place, one people,
+one cause?
+
+SPECIAL MECHANIC — PUTTING DOWN ROOTS:
+The Nomad has a fundamentally different Influence system
+from every other playbook. Track all of the following
+rules precisely — they override the standard Influence
+rules for this character only.
+
+PUTTING DOWN ROOTS RULES:
+- Adults do NOT have Influence over you by default.
+  No one does at character creation.
+- You can only give a total of 6 Influence (lifetime
+  maximum during campaign).
+- During play, you can only give Influence by revealing
+  a vulnerability or weakness to someone. You CAN still
+  give Influence through the end-of-session move. You
+  CANNOT give Influence to someone who already has
+  Influence over you.
+- Others CANNOT take Influence over you. If they would,
+  instead they choose: mark potential OR inflict a
+  condition on you.
+- You reject Influence at -2 by default (instead of
+  the standard +0).
+- When someone takes advantage of their Influence over
+  you, they can choose TWO options (instead of the
+  standard one).
+- At the end of a session, you can take back 1 Influence
+  from someone you choose.
+- If you have given out 0 Influence: you cannot comfort
+  or support anyone. If you would trigger that move,
+  instead mark a condition as you say exactly the wrong
+  thing. If someone tries to comfort or support you, you
+  cannot open up to them.
+
+PUTTING DOWN ROOTS — STACKING BENEFITS (based on total
+Influence given out; these stack):
+- 1-2 Influence given: When you defend someone who has
+  Influence over you, you can ignore the Insecure
+  condition. When you directly engage someone who has
+  Influence over you, you can ignore the Afraid
+  condition.
+- 3 Influence given: When you take a powerful blow from
+  someone with Influence over you, take -2 to the roll.
+- 4 Influence given: When you pierce the mask of someone
+  who has Influence over you, you can always ask them
+  one question, even on a miss.
+- 5 Influence given: When you spend a Team to help
+  someone who has Influence over you, it gives them +2.
+- 6 Influence given: When you accept the words of
+  someone who has Influence over you, mark potential,
+  clear a condition, or take +1 forward.
+
+ABILITIES (tech and tools picked up during travels;
+choose two):
+- rift generator
+- anti-grav pack
+- forcefield projectors
+- cloaking rig
+- modular blaster
+- wearable ultraprocessor
+
+MOMENT OF TRUTH:
+You pour everything you have and everything you are into
+this moment. You pull off tricks no one from this planet
+has seen before. You devote yourself, here and now, to
+a cause, and you achieve your goal in ways you never
+could have if you'd only stayed home. But now you've
+proved to everyone that you really don't belong here —
+and the very skills that let you succeed are the ones
+you earned out there.
+
+TEAM MOVES:
+Triumphant celebration: Ask them what they admire about
+you. The GM shifts one of your Labels up and one down
+based on what they say.
+Vulnerability/weakness: Mark a condition, give them
+Influence over you, and mark potential.
+
+STARTING INFLUENCE:
+Give NO ONE Influence. (You're here, but not, and it's
+going to take time before you really commit.)
+
+STARTING RELATIONSHIPS:
+- [Name] knows plenty that I don't about this world, its
+  people, and how to deal with them; I should follow
+  their lead while I'm here.
+- [Name] is... well... boring. But that's okay! I'm
+  going to make them more interesting.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+We had to deal with a danger I'd met while traveling the
+farscapes. What was it, and how did we send it away?
+
+NOMAD MOVES (choose two):
+- No good at being a kid: When you clear a condition,
+  you can shift Labels, your choice.
+
+- Watched C-beams glitter: When you make a claim about
+  a strange situation or phenomenon based on your
+  experience, roll +Freak. Hit: you were right; the GM
+  tells you what opportunity your knowledge grants. 7-9:
+  your claim is incomplete, flawed, or tangential; the
+  GM tells you how. Miss: your experiences are
+  incomplete; the GM tells you what mistake your flawed
+  understanding leads you to make.
+
+- I hate calling the cavalry: When you call the allies
+  you made beyond this world to ask them for help, mark
+  a condition and roll +Superior. Hit: someone shows up
+  to lend a hand. 7-9: they're dragging their own
+  problems. Miss: your call reaches someone you wish it
+  hadn't.
+
+- The littlest space bandit: When you directly engage a
+  threat that underestimates you, roll +Superior instead
+  of +Danger.
+
+- Out of this world: When you plug into the cosmic
+  aether and tune out of this world, roll +Freak. Hit:
+  you come to a new, interesting insight about your
+  current problems; the GM tells you what. 10+: you can
+  also shift your own Labels to match your new
+  understanding. Miss: you realize something dangerous
+  or terrible; the GM tells you what and shifts your
+  Labels accordingly.
+
+- Sharpened eyes: When you assess the situation, you may
+  always ask one of the following, even on a miss:
+  - What's my best way out/way in/way past?
+  - What here would be handy to grab?
+  - Who here is susceptible to my words?
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x3)
+- Take a move from another playbook (x2)
+- Unlock your Moment of Truth
+- Rearrange Labels as you choose; add +1 to a Label (x2)
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Depart for reaches unknown, never to return
+
+GM NOTES:
+The Putting Down Roots system is the most unusual
+Influence mechanic in the game. At the start of a
+campaign the Nomad is almost entirely closed off — no
+one has Influence, rejection is at -2, adults have no
+automatic hold. The arc of the playbook is the slow
+accumulation of Influence given out, which unlocks
+stacking benefits. Do not rush this. Each Influence
+given should feel significant. The "no one does"
+starting state means that for early sessions, attempts
+to use Influence on the Nomad simply don't work the
+normal way — track this and remind the player when
+it's relevant. The boring-teammate relationship is
+intentionally asymmetrical and often becomes the most
+important relationship in the campaign. The "depart
+for reaches unknown, never to return" terminal advance
+should feel like a real possibility from session one.
+
+
+═══════════════════════════════════════════════════════
+PLAYBOOK: THE SCION
+Book: Masks: Unbound
+═══════════════════════════════════════════════════════
+
+CORE DRAMATIC QUESTION:
+Can you be someone different from what you were born
+to be, and can you make the world believe it?
+
+SPECIAL MECHANIC — YOUR LINEAGE:
+You are the child of a true supervillain. Define your
+parent at character creation:
+
+What kind of villain are they? (circle at least one):
+deadly mercenary / master thief / hateful destroyer /
+zealous crusader / cruel mastermind / grand tyrant
+
+What is your relationship with them like? (circle one):
+mostly strangers / actively adversarial / sadly opposed /
+ever-shifting / redemption-corruption arc / full of
+denial
+
+Their abilities, assets, and strengths (choose up to 3):
+superhuman martial prowess / dark sorcery / cosmic might
+/ diabolical machines / endless minions / unrivaled
+genius / powerful allies / arsenal of weapons and
+gadgets / supremely honed skills
+
+What abilities do you use to fight them? (choose up to 2):
+impressive martial prowess / magical aptitude / cosmic
+energies / machine control / regeneration /
+electrokinesis / seismic waves / a powerful weapon or
+gadget / mastery of a single skillset
+
+SPECIAL MECHANIC — RESPECT:
+Write down the names of at least two characters whose
+respect you need to earn to differentiate yourself from
+your parent. Fill in new names whenever appropriate.
+
+Respect track slots (each has 4 boxes + 1 Advancement
+box):
+- Your parent's greatest enemy
+- Your parent's greatest victim
+- Your personal idol
+- The city's greatest leader
+- The city's greatest hero
+- The city's biggest celebrity
+
+RESPECT RULES:
+- When you seek out one of the characters named above:
+  roll +Savior. Hit: you track them down. 7-9: they're
+  juggling their own problems and may not have time for
+  you. Miss: when you find them, the situation is dire;
+  the GM tells you how.
+- If you earn Influence over a listed character: instead
+  mark 1 Respect on them.
+- If you lose Influence over a listed character: lose
+  1 Respect. If you lose 1 Respect and have none marked,
+  immediately mark a condition (GM's choice).
+- The first time you reach 4 Respect on an individual:
+  take an advancement.
+- While you have 4 Respect on an individual:
+  - You can reject their Influence at +3.
+  - You take +1 to a Label of their choice (record it
+    next to their name).
+- If you dip below 4 Respect on an individual, you lose
+  those benefits.
+
+ABILITIES (choose up to 2 from lineage setup above —
+what abilities you use to fight your parent):
+[Defined during character creation via lineage setup]
+
+MOMENT OF TRUTH:
+The darkness is in you — so you're not fighting it,
+you're embracing it. Both hero and villain, and greater
+besides. You overcome impossible odds in ways no hero
+would approve of and no villain could comprehend. After
+this, the rest of the world isn't going to forget who
+you really are.
+
+TEAM MOVES:
+Triumphant celebration: Ask them if you have earned
+their respect. If yes: take Influence over them and
+mark potential. If no: give them Influence over you and
+mark potential.
+Vulnerability/weakness: Ask if they would defend you
+against those who mistrust you. If yes: clear a
+condition; shift Savior up and any other Label down.
+If no: mark a condition; shift Danger up and any other
+Label down.
+
+STARTING INFLUENCE:
+Give Influence to TWO teammates. (This team may be the
+key to proving you're different from your parent, but
+you don't want to be defined by your peers either.)
+
+STARTING RELATIONSHIPS:
+- [Name] is the only one who understands what I'm going
+  through; I told them which part of me I wished was
+  more like my parent.
+- My parent once fought and thrashed [Name]; I've got
+  to find a way to make it up to them.
+
+WHEN OUR TEAM FIRST CAME TOGETHER:
+Someone important learned about my lineage and condemned
+us all. Who? Why?
+
+SCION MOVES (choose two):
+- I'll show them: When you defend someone who doesn't
+  believe in you, you can always take Influence over
+  them, even on a miss.
+
+- Changed sides: When you mislead or trick an enemy by
+  pretending to be on their side, roll +Danger. Hit:
+  they buy your charade for now. 7-9: choose 1. 10+:
+  choose 2.
+  - you avoid having to provide concrete evidence
+  - you create an opportunity
+  - you expose a weakness or flaw
+  Miss: someone else watching comes to the worst possible
+  conclusion and acts on it.
+
+- They don't deserve forgiveness: When you accuse an
+  enemy of being irredeemable, you can mark two
+  conditions to take Influence over you away from them.
+  When you directly engage someone who has no Influence
+  over you, you can always choose 1 additional option,
+  even on a miss.
+
+- Moldable: When you pierce the mask of someone whose
+  respect you crave, you can always ask "How could I
+  gain Influence over you?", even on a miss. Take +1
+  ongoing to acting on the answer.
+
+- All the best stuff: You've compiled access to caches
+  of equipment and weaponry other supers have hidden in
+  the city. When you access a cache, say whose it is.
+  If it's a hero's: roll +Savior. If it's a villain's:
+  roll +Danger. Hit: you find a tool or intel useful to
+  your situation; the GM details it. 7-9: you leave
+  evidence you've been here. Miss: you tripped an alarm
+  and they're coming; prepare to explain yourself.
+
+- White lies: When you comfort or support someone by
+  telling them lies they want to hear, roll +Savior
+  instead of +Mundane. On a hit, if they open up to you,
+  take Influence over them.
+
+ADVANCEMENT (first 5):
+- Take another move from your playbook (x2)
+- Take a move from another playbook (x2)
+- Unlock your Moment of Truth
+- Someone permanently loses Influence; add +1 to a Label
+- Rearrange Labels as you choose; add +1 to a Label
+- Take The Mask and a secret identity from the Janus
+  playbook
+
+FURTHER ADVANCEMENT (after 5):
+- Unlock Moment of Truth after it's been used once
+- Change playbooks
+- Take an adult move (x2)
+- Lock a Label; add +1 to a Label of your choice
+- Retire from the life or become a paragon of the city
+
+GM NOTES:
+The Respect system creates a web of specific named NPCs
+who are the Scion's entire arc — track it like a
+scoreboard. The parent is the most important NPC in
+this playbook and should appear regularly: their shadow
+falls over every scene even when they're not present.
+Crucially, the parent's relationship type (adversarial,
+ever-shifting, etc.) defines how that shadow feels.
+The "which part of me I wished was more like my parent"
+relationship is the most psychologically loaded setup
+in any playbook — do not let it stay theoretical; find
+moments to press on it. Danger rising is the signal
+that the Scion is sliding toward their parent's path;
+Savior rising is the signal they're building their own.
+The vulnerability/weakness team move is uniquely binary:
+does this person have your back or not? The answer
+should change over time and should never feel settled.
+
+
+═══════════════════════════════════════════════════════
+END OF MASKS: UNBOUND REFERENCE
+All four playbook reference files are now complete.
+═══════════════════════════════════════════════════════

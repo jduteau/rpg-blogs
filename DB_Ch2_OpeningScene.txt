@@ -1,0 +1,187 @@
+════════════════════════════════════════════════════════════════════════════════
+DRAGONBANE ADVENTURES — CHAPTER 2: OPENING SCENE
+(The Drakmar Pass)
+════════════════════════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────────────────────────
+THE SITUATION
+────────────────────────────────────────────────────────────────────────────────
+
+The Drakmar Pass is a narrow passage through the Kummer Mountains. Its ancient
+but still discernible road makes it an important route for adventurers, settlers,
+and others seeking their fortune in the Misty Vale. The influx of travelers has
+attracted brigands and the occasional beast to the mountain pass.
+
+Drigel Weatherman, one of Azrahel Koth's human servants, has been looking for the
+dragon emperor statuette for some time, and carries a map to facilitate the search.
+A few days before the start of the adventure he made his first find — the pedestal
+of the legendary artifact, found in an abandoned mine beneath the Kummer Mountains.
+
+But Weatherman's happiness was short-lived. On the way to Outskirt village and
+Leanara, he was spotted by goblins patrolling the area. The goblins know nothing
+about Um-Durman but have orders from Chieftain Maladûk to keep an eye out for a
+precious relic split into four smaller pieces. The bundle Weatherman was hauling
+caught their attention.
+
+Weatherman managed to flee the initial confrontation but was badly wounded by a
+poisoned arrow. The player characters find him on the verge of death. He sees in
+them his last chance to bring the relic to Leanara. But the goblins are drawing
+closer — just as Weatherman hands over his mysterious bundle, the first arrow comes
+whizzing through the air.
+
+
+────────────────────────────────────────────────────────────────────────────────
+READ ALOUD: ARRIVAL AT THE PASS
+────────────────────────────────────────────────────────────────────────────────
+
+Read or act out the following text as the session begins:
+
+"The ancient and narrow pass runs through the mountains like an axe gash. Steep,
+moss-covered slopes rise to the snow-laden peaks that can occasionally be glimpsed
+through the veils of cloud. Somewhere ahead lies the Misty Vale, the legendary place
+where the empires of old stored their wealth and magical artifacts.
+
+It is the rumor of these treasures that has brought you here — the vast riches and
+arcane secrets hidden among the ruins on the other side of the mountains. And you
+are not the first to be lured by such temptations. Since the orcs started leaving
+the area, about a decade ago, a growing stream of settlers and adventurers have made
+their way to the Misty Vale.
+
+But you know the way is treacherous and fraught with peril. The old imperial roads
+have crumbled and the mountains are teeming with danger. The Drakmar Pass, where
+you now find yourself, is particularly infamous. The dwarves of the Kummer Mountains
+have warned that the humans' return has attracted brigands and ravenous beasts to
+the area.
+
+Your fears come true when you suddenly hear a disconcerting whimper. You see a
+figure lying in the middle of the rocky trail, only twenty or so meters ahead of
+you. The figure is wearing a simple gray robe and clutching a dark bundle to his
+chest. As the whimper turns into a rattling wheeze, you realize the person is
+gravely wounded."
+
+
+────────────────────────────────────────────────────────────────────────────────
+BLACK ARROW IN MASTER WEATHERMAN (Map Point #1)
+────────────────────────────────────────────────────────────────────────────────
+
+If the player characters move closer, they see Weatherman's pale, panic-stricken
+face and notice that one of his thighs is pierced by a thick, black arrow. If they
+examine the wound, it takes no skill roll to conclude that the arrow is poisoned —
+purple-blue streaks branch out from the wound and can also be seen on his face.
+
+Suddenly he sits up straight and hands his bundle to the player character with the
+highest CHA, staring wide-eyed at them and saying in a breathy, fading voice:
+
+"Quick, take it! Leanara will understand… message from Master Weatherman… must find
+all four pieces… the secret of the dragon emperor!"
+
+
+────────────────────────────────────────────────────────────────────────────────
+THE AMBUSH
+────────────────────────────────────────────────────────────────────────────────
+
+The next moment, goblin scouts attack from points #2 and #3 on the map. They are
+as many as the player characters, evenly split between the two positions. They fire
+their short bows before charging at the adventurers with their melee weapons raised.
+
+AWARENESS ROLLS: If the players are actively looking around, each can make an
+AWARENESS roll to notice the attack in time and draw initiative as usual. All those
+who fail get the bottom cards (counting from #10 and up), randomly drawn. All the
+goblin scouts act on the same turn.
+
+THE WORG RIDER: In the second round, the goblin commander attacks from behind the
+boulder at point #4, having previously been hidden there. His attack is surprising,
+and he automatically gets initiative card #1 this round.
+
+MAP POINTS:
+  #1 — Weatherman (dying, on the trail)
+  #2 — Goblin scouts (half the group)
+  #3 — Goblin scouts (other half)
+  #4 — Worg Rider (hidden behind boulder, appears round 2)
+
+DRAKMAR PASS — ASCII MAP (combat encounter layout)
+
+      [3] Goblin scouts          ← high ground / rocky slope
+           \
+            \   (arrows incoming)
+             \
+  [2] Goblin  \
+   scouts -----[1] WEATHERMAN-------- (trail runs NW to SE)
+   (other       (dying on trail)  \
+    side)                          \
+                                  [4] Boulder
+                                      (Worg Rider hidden here,
+                                       attacks in round 2)
+
+SCALE: Roughly 20m between #1 and the nearest goblins.
+TERRAIN: Narrow mountain pass, steep moss-covered slopes on both sides.
+         Rocky trail, limited room to manoeuvre.
+
+INITIATIVE NOTE:
+  Round 1 — Goblins attack from #2 and #3. Characters who fail AWARENESS get
+             bottom cards (#10 and up). All scouts act on same turn.
+  Round 2 — Worg Rider emerges from #4 (surprising; automatically gets card #1).
+
+
+────────────────────────────────────────────────────────────────────────────────
+ENEMY STATS
+────────────────────────────────────────────────────────────────────────────────
+
+GOBLIN SCOUTS (all act on same turn)
+  Movement: 10   Damage Bonus: —   HP: 9   Armor: Leather (1)
+  Skills: Awareness 10, Evade 10, Sneaking 12
+  Weapons:
+    Short bow    Skill: 12   Damage: D10   Range: ranged
+    Short sword  Skill: 10   Damage: D10   Range: melee
+
+THE WORG RIDER (counts as a monster; acts on separate turn)
+  Ferocity: 2   Movement: 20   Armor: —   HP: 24
+  Armed with scimitar and long spear; rides a bloodthirsty worg.
+
+  MONSTER ATTACKS (D6):
+  1  Pounce! The ferocious worg pounces on a player character and slams the
+     victim violently to the ground. Inflicts 2D8 bludgeoning damage.
+  2  Swing from Above! The worg leaps over a chosen player character and its
+     rider swings his serrated scimitar from above. Inflicts 3D6 slashing damage.
+  3  Ravenous Howl! The worg lets out a famished howl. All player characters
+     within 10 meters must make a WIL roll to resist fear.
+  4  Battle Shout! The worg rider rallies his underlings. All remaining scouts
+     get a boon to all attacks until the worg rider's next turn.
+  5  Worg Bite! The worg grabs a victim in its drooling maw and swings them
+     back and forth. Inflicts 2D10 piercing damage; the victim is hurled 2D4
+     meters and lands prone.
+  6  Spear Charge! The worg rider charges straight at a player character with his
+     spear. Inflicts 3D8 piercing damage but can be parried.
+
+
+────────────────────────────────────────────────────────────────────────────────
+END OF COMBAT
+────────────────────────────────────────────────────────────────────────────────
+
+The goblins flee when the worg rider dies. If things go badly for the player
+characters, Jory or Hardy from Outskirt can come to their rescue (GM's discretion).
+
+
+────────────────────────────────────────────────────────────────────────────────
+THE MAP AND THE STATUETTE
+────────────────────────────────────────────────────────────────────────────────
+
+Weatherman draws his final breath before the player characters can ask further
+questions. The bundle contains two remarkable objects:
+
+  THE MAP: Shows the Misty Vale. The four pieces of the statuette are depicted in
+  the corners of the map. Hand it to the player now.
+
+  THE STATUETTE PIECE: A pedestal, lower legs, and the bottom part of a sword —
+  clearly from a basalt statuette of a humanoid warrior. This is Piece 1.
+
+CLUES AVAILABLE:
+  - If the player notices the statuette pieces on the map, confirm that this piece
+    matches the one in the lower left corner of the map.
+  - Characters have now heard the names "Weatherman" and "Leanara," as well as the
+    cryptic phrase "the secret of the dragon emperor."
+  - Searching the dead man's body, they can find the black symbol of Sathmog branded
+    on Weatherman's left forearm — a stylized demon's head with two sharp horns.
+    They can follow up on these leads later by asking around at the Three Stags inn
+    in Outskirt.

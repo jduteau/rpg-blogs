@@ -1,1 +1,1 @@
-[Going to Dustfall](dustfall_session_1.html)
+[Dust and Dead Men: A Stranger Rides Into Dustfall](dustfall_session_1.html)
