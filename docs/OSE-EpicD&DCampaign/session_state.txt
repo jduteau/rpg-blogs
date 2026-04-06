@@ -1,0 +1,44 @@
+== SESSION STATE BLOCK ==
+Date in-game: Day 2, Early Autumn (party arrived Hommlet Day 1, Keep Day 2)
+Location: Keep on the Borderlands — party quarters, end of evening
+Last action: Party compared notes in the common hall and agreed on a plan — brief Sherlane at dawn, then head east to the Caves of Chaos, starting with the goblin caves.
+
+PARTY STATUS
+Conrad (Thief 1): HP 5/5 | XP 0/1,200
+Lance (Ranger 1): HP 7/7 | XP 0/2,250
+Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast)
+Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: 2/2 remaining
+Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
+
+RESOURCES
+(To be updated by player per resupply in Hommlet)
+Gold carried: Conrad 41gp / Lance 40gp / Michael 97gp / Thomas 50gp / Aldric (personal funds, modest)
+
+ACTIVE LEADS & RUMOURS
+- Moathouse south of Hommlet: reoccupied, undead gate guards, green light in upper tower (confirmed by three independent sources), organised presence, supplies going in. Not yet — too dangerous at level 1.
+- Caves of Chaos: ravine four miles east of Keep, minimum nine entrances, humanoid populations coordinated by unknown force. Cooking fire visible in ravine — someone home. Shrine at ravine head, unknown dedication — avoid for now.
+- Goblinoid trails converging south of Keep road, heading toward moathouse road. Two separate groups now moving together.
+- Green light sighted in southern hills two nights ago by Keep guard — recent, corroborates moathouse reports.
+- Rannos Davl (Hommlet trader): sent a boy after the party, almost certainly reports on travellers. Didn't mention the moathouse until Thomas brought it up — but knew to describe it as "marshy ground" unprompted. Investigate on return to Hommlet.
+- Merchant "Zelligar" at the Keep: four days, no visible trading, asks about roads south and east, arrived just before party. Possible Rannos connection. Sherlane to be informed discreetly in the morning.
+
+NOTABLE LOOT (unspent/unidentified)
+- Brandun's map of moathouse exterior (Thomas carrying): marks gate, outer wall, two towers, four undead guard positions, cleared rubble at main entrance. Interior blank.
+- Terjon's bronze St. Cuthbert token (Thomas carrying): introduces party to Castellan Sherlane. Already used — retain as credential.
+- Yether's charm (Lance's pack): dried herb sprig, red thread, carved wooden disc. Grants small woodland courtesy — animals less reactive. Keep visible on pack.
+- Michael's copied map of Caves of Chaos ravine: nine-plus entrances, ravine approach exposed and watched from above, deeper caves connect (unmapped), shrine at ravine head.
+- Damaged adventurer's journal (Michael carrying): describes upper caves — goblin warrens, orc stronghold, cave bear den, section smelling of death. Writing stops mid-sentence.
+
+ALDRIC STATUS
+Loyalty: Normal (trending upward — Thomas's leadership is sound, party decisions have been sensible, shared faith acknowledged privately in Keep chapel)
+Notes: Aldric made an unprompted statement of commitment to Thomas in the Keep chapel — said he wasn't going anywhere, then left before Thomas could respond. He would deny this was significant. It was significant.
+
+OPEN THREADS
+- Rannos Davl: who does he report to, and why does he know to describe the moathouse as uninteresting without being asked?
+- Merchant Zelligar: identity, purpose, possible connection to Rannos or the moathouse operation. Sherlane to watch him while party is at the Caves.
+- Brandun (at the Welcome Wench, Hommlet): waiting. Party has promised to bring word of Petyr if anything is found. He may still be there on their return.
+- The shrine at the ravine head (Caves of Chaos): unknown dedication, noted by multiple sources as significant. Avoid until party is stronger.
+- The deeper cave connections: someone has noted they connect but not mapped them. This is the source of the coordination — something down there is running the operation above.
+- Lance's backstory: undefined. No hook has emerged yet. Leave open.
+- The symbol on the humanoid offering sites: Sherlane wants an exact drawing if found. Watch for it in the Caves.
+== END STATE BLOCK ==
