@@ -7,7 +7,7 @@ PARTY STATUS
 Conrad (Thief 1): HP 5/5 | XP 0/1,200
 Lance (Ranger 1): HP 7/7 | XP 0/2,250
 Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast)
-Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: 1/1 remaining
+Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: (available)
 Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
 
 RESOURCES
@@ -16,6 +16,13 @@ Lance - Backpack, Grappling Hook, 50' Rope, Iron Spikes (12), Waterskin (full)
 Thomas - Backpack, Holy Symbol, Lantern + 3 Oil Flasks, Tinder box, Waterskin (full)
 Michael - Backpack, Lantern + 5 Oil Flasks, Tinder Box, Spellbook
 Gold carried: Conrad 1gp / Lance 7gp / Michael 69gp / Thomas 0gp / Aldric (personal funds, modest)
+
+MARCHING ORDER
+Thomas
+Lance
+Aldric
+Michael
+Conrad
 
 ACTIVE LEADS & RUMOURS
 - Moathouse south of Hommlet: reoccupied, undead gate guards, green light in upper tower (confirmed by three independent sources), organised presence, supplies going in. Not yet — too dangerous at level 1.
@@ -36,13 +43,6 @@ ALDRIC STATUS
 Loyalty: Normal (trending upward — Thomas's leadership is sound, party decisions have been sensible, shared faith acknowledged privately in Keep chapel)
 Notes: Aldric made an unprompted statement of commitment to Thomas in the Keep chapel — said he wasn't going anywhere, then left before Thomas could respond. He would deny this was significant. It was significant.
 
-== CORRECTIONS FROM SESSION ONE ==
-Y'DEY — CONFIRMED CHARACTER
-The character met at the grove is Y'Dey, portrayed in this campaign as a Druid of the Old Faith. Her title is Druid, not Canoness. She fought in the original conflict that defeated the Temple of Elemental Evil and settled in Hommlet afterward. What is happening now feels to her like the early signs of something she hoped was finished.  The Temple is her past, not a destination in this campaign. Her arc completes with the resolution of the Hommlet conspiracy.
-
-RANNOS DAVL — TONE CORRECTION
-Rannos is a cult agent but his evil should NOT be obvious. He is unpleasant, greedy, and subtly off-putting — a competent spy who maintains his cover. The party suspects him but has no proof. His partner Gremag has not yet been introduced — Gremag should appear when the party next visits the trading post.
-
 KEY NPCS
 
 CANON TERJON — Church of St. Cuthbert, Hommlet. Met session one. Openly concerned about Moathouse. Helpful and direct. Trust: early/positive.
@@ -62,4 +62,12 @@ OPEN THREADS
 - The deeper cave connections: someone has noted they connect but not mapped them. This is the source of the coordination — something down there is running the operation above.
 - Lance's backstory: undefined. No hook has emerged yet. Leave open.
 - The symbol on the humanoid offering sites: Sherlane wants an exact drawing if found. Watch for it in the Caves.
+
+== CORRECTIONS FROM SESSION ONE ==
+Y'DEY — CONFIRMED CHARACTER
+The character met at the grove is Y'Dey, portrayed in this campaign as a Druid of the Old Faith. Her title is Druid, not Canoness. She fought in the original conflict that defeated the Temple of Elemental Evil and settled in Hommlet afterward. What is happening now feels to her like the early signs of something she hoped was finished.  The Temple is her past, not a destination in this campaign. Her arc completes with the resolution of the Hommlet conspiracy.
+
+RANNOS DAVL — TONE CORRECTION
+Rannos is a cult agent but his evil should NOT be obvious. He is unpleasant, greedy, and subtly off-putting — a competent spy who maintains his cover. The party suspects him but has no proof. His partner Gremag has not yet been introduced — Gremag should appear when the party next visits the trading post.
+
 == END STATE BLOCK ==
