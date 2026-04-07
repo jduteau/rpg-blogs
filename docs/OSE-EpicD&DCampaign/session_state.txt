@@ -7,12 +7,15 @@ PARTY STATUS
 Conrad (Thief 1): HP 5/5 | XP 0/1,200
 Lance (Ranger 1): HP 7/7 | XP 0/2,250
 Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast)
-Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: 2/2 remaining
+Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: 1/1 remaining
 Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
 
 RESOURCES
-(To be updated by player per resupply in Hommlet)
-Gold carried: Conrad 41gp / Lance 40gp / Michael 97gp / Thomas 50gp / Aldric (personal funds, modest)
+Conrad - crowbar, Hammer, 10' Pole, Rope, Thieves' tools, Waterskin (full)
+Lance - Backpack, Grappling Hook, 50' Rope, Iron Spikes (12), Waterskin (full)
+Thomas - Backpack, Holy Symbol, Lantern + 3 Oil Flasks, Tinder box, Waterskin (full)
+Michael - Backpack, Lantern + 5 Oil Flasks, Tinder Box, Spellbook
+Gold carried: Conrad 1gp / Lance 7gp / Michael 69gp / Thomas 0gp / Aldric (personal funds, modest)
 
 ACTIVE LEADS & RUMOURS
 - Moathouse south of Hommlet: reoccupied, undead gate guards, green light in upper tower (confirmed by three independent sources), organised presence, supplies going in. Not yet — too dangerous at level 1.
@@ -25,17 +28,35 @@ ACTIVE LEADS & RUMOURS
 NOTABLE LOOT (unspent/unidentified)
 - Brandun's map of moathouse exterior (Thomas carrying): marks gate, outer wall, two towers, four undead guard positions, cleared rubble at main entrance. Interior blank.
 - Terjon's bronze St. Cuthbert token (Thomas carrying): introduces party to Castellan Sherlane. Already used — retain as credential.
-- Yether's charm (Lance's pack): dried herb sprig, red thread, carved wooden disc. Grants small woodland courtesy — animals less reactive. Keep visible on pack.
-- Michael's copied map of Caves of Chaos ravine: nine-plus entrances, ravine approach exposed and watched from above, deeper caves connect (unmapped), shrine at ravine head.
+- Y'Dey's charm (Lance's pack): dried herb sprig, red thread, carved wooden disc. Grants small woodland courtesy — animals less reactive. Keep visible on pack.
+- Michael's copied map of Caves of Chaos ravine (Michael carrying): nine-plus entrances, ravine approach exposed and watched from above, deeper caves connect (unmapped), shrine at ravine head.
 - Damaged adventurer's journal (Michael carrying): describes upper caves — goblin warrens, orc stronghold, cave bear den, section smelling of death. Writing stops mid-sentence.
 
 ALDRIC STATUS
 Loyalty: Normal (trending upward — Thomas's leadership is sound, party decisions have been sensible, shared faith acknowledged privately in Keep chapel)
 Notes: Aldric made an unprompted statement of commitment to Thomas in the Keep chapel — said he wasn't going anywhere, then left before Thomas could respond. He would deny this was significant. It was significant.
 
+== CORRECTIONS FROM SESSION ONE ==
+Y'DEY — CONFIRMED CHARACTER
+The character met at the grove is Y'Dey, portrayed in this campaign as a Druid of the Old Faith. Her title is Druid, not Canoness. She fought in the original conflict that defeated the Temple of Elemental Evil and settled in Hommlet afterward. What is happening now feels to her like the early signs of something she hoped was finished.  The Temple is her past, not a destination in this campaign. Her arc completes with the resolution of the Hommlet conspiracy.
+
+RANNOS DAVL — TONE CORRECTION
+Rannos is a cult agent but his evil should NOT be obvious. He is unpleasant, greedy, and subtly off-putting — a competent spy who maintains his cover. The party suspects him but has no proof. His partner Gremag has not yet been introduced — Gremag should appear when the party next visits the trading post.
+
+KEY NPCS
+
+CANON TERJON — Church of St. Cuthbert, Hommlet. Met session one. Openly concerned about Moathouse. Helpful and direct. Trust: early/positive.
+Y'DEY — Druid of the Grove, Hommlet. Met session one. Helpful yet guarded. Direct and unhurried — speaks with the quiet authority of someone who has seen real evil and isn't frightened by its shadow. Answers honestly but doesn't elaborate beyond what's needed. Trust builds with demonstrated competence and good faith. Has warned about Moathouse. Has not revealed deeper history.   Trust: early/neutral, trending positive.
+GUNDIGOOT — Innkeeper, Welcome Wench, Hommlet. Met session one. Friendly. No hidden agenda apparent.  Trust: neutral/friendly.
+RANNOS DAVL — Trading post, Hommlet. Met session one. Suspected cult agent — unpleasant, greedy, subtly off-putting but NOT obviously evil.  Competent spy maintaining cover. Party suspects but has no proof. Partner Gremag not yet introduced — appears on next visit.  Trust: suspicious/watchful.
+GREMAG — Trading post, Hommlet. Not yet met. Rannos's partner. Introduce on party's next visit to trading post.
+BRANDUN — Welcome Wench, Hommlet. Waiting for word of Petyr, a companion who went to the moathouse and did not return. Party has promised to look for sign of him there. May still be waiting on party's return to Hommlet.
+ZELLIGAR — Keep on the Borderlands. Merchant of unknown purpose. Four days resident, no visible trading, asks questions about roads south and east. Arrived just before the party. Possible Rannos connection. Purpose unknown — keep ambiguous.
+CASTELLAN SHERLANE — Keep on the Borderlands. Met session one. Professional and welcoming. Trust: professional/allied.
+
 OPEN THREADS
 - Rannos Davl: who does he report to, and why does he know to describe the moathouse as uninteresting without being asked?
-- Merchant Zelligar: identity, purpose, possible connection to Rannos or the moathouse operation. Sherlane to watch him while party is at the Caves.
+- Merchant Zelligar: identity, purpose, possible connection to Rannos or the moathouse operation.
 - Brandun (at the Welcome Wench, Hommlet): waiting. Party has promised to bring word of Petyr if anything is found. He may still be there on their return.
 - The shrine at the ravine head (Caves of Chaos): unknown dedication, noted by multiple sources as significant. Avoid until party is stronger.
 - The deeper cave connections: someone has noted they connect but not mapped them. This is the source of the coordination — something down there is running the operation above.
