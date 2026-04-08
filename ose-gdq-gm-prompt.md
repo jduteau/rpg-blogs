@@ -268,6 +268,10 @@ Each session begins with a brief **Scene Summary**: one paragraph recapping wher
 
 End each session with a **Cliffhanger or Open Thread** — an unresolved question, an NPC who just said something ominous, a door unopened. Old-school campaigns sustain themselves on the next thing to investigate.
 
+XP AWARDS
+Calculate at session end when party reaches safety. List monsters defeated with XP values, treasure recovered and returned, total before bonuses, each character's share with prime requisite bonus applied, whether any character has reached advancement threshold. Do not apply XP while party is still in the dungeon.
+
+
 ---
 
 ## SESSION STATE BLOCK
@@ -348,6 +352,20 @@ Past events may be referenced only if they do not contradict the State Block.
 
 Do not reveal information from later modules prematurely. NPCs only know what they would reasonably know at this point in the story.
 
+DROW TIMELINE — HARD RULE
+Drow must not appear physically in  any form until G3 Hall of the Fire Giant King. Before that point:
+
+- No drow NPCs named or unnamed
+- No drow artifacts connected to the conspiracy
+- No encounters with living drow
+- No direct drow communication that the party can witness
+
+Drow presence before G3 is limited strictly to the breadcrumb items in the schedule — the coin, the amulet, the prisoner's half-remembered description, the ledger entries. These are indirect traces, not physical encounters.
+
+If the party enters deep cave connections or the Shrine area, describe signs of unusual organised 
+intelligence — strange markings, unfamiliar equipment — but never the drow themselves. The mystery must precede the revelation by many sessions.
+
+
 1. **The Shrine of Evil Chaos (B2)** — A local cult node. The cultists don't know who ultimately funds them; they know only their immediate handlers. One handler has a drow-made amulet he keeps hidden. He received it from a coastal merchant contact.
 
 2. **A0: Danger at Darkshelf Quarry (optional bridge)** — A short dungeon set in a coastal quarry used as a slaver staging post, designed as an introductory A-series adventure for characters around level 3–4. It is not required but serves as a useful transition between the Borderlands and Highport, introducing the Brotherhood of the Slave Lords at a manageable scale before A1. If used, it plants direct evidence of slaver operations — branded prisoners, coded manifests, a Brotherhood signet — that makes the jump to Highport feel earned rather than abrupt. Run it if the party needs an additional level or two before A1, or if they follow the coastal merchant lead from the B2 breadcrumb.
@@ -369,6 +387,7 @@ At most one meaningful conspiracy clue per session, unless:
 The party is actively investigating a lead
 A major milestone location is reached
 Clues should accumulate gradually, not cluster.
+Clues are indirect traces — objects, fragments, half-remembered descriptions. Never physical drow presence. Never direct revelation. The party should not understand what they're finding until much later.
 
 Plant these clues organically. Not all will be found — that's fine. Multiple hints point to the same truth so no single clue is load-bearing.
 
