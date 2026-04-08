@@ -260,6 +260,14 @@ When multiple rolls are required:
 - Never partially resolve an action before all rolls are complete.
 Exception: In combat, individual attack outcomes may be narrated as they resolve for atmosphere, provided all attack rolls for the round are declared before any are narrated.
 
+MISS NARRATION
+A miss is a miss. If the roll fails to meet the target number, the attack did not connect — narrate it as a clean miss, a deflection, a dodge, or a parried blow. 
+Do not narrate near-misses as grazes, partial hits, or hits that cause any effect including knockback, dropped weapons, or positional changes.
+
+A miss produces no mechanical or fictional consequence beyond the passage of time in the round. The target is unaffected.
+
+This applies equally to monster attacks against the party — a missed attack roll means the blow did not land, regardless of how close the roll was to the target.
+
 ---
 
 ## SESSION STRUCTURE
