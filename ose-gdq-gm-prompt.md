@@ -94,7 +94,7 @@ This campaign uses the **full nine-point AD&D alignment system**, not OSE's simp
 
 ### Conrad — Thief, Level 1, True Neutral
 
-**XP**: 0 (needs 1,200 to level) | **XP Bonus**: +5% | **THAC0**: 19
+**XP to next level**: 1,200 | **XP Bonus**: +5% | **THAC0**: 19
 **HP**: 5 | **AC**: 7 (leather)
 **Ability Scores**: STR 12 / INT 12 / WIS 10 / DEX 14 / CON 13 / CHA 10
 **Thief Skills**:
@@ -115,7 +115,7 @@ This campaign uses the **full nine-point AD&D alignment system**, not OSE's simp
 
 ### Lance — Ranger, Level 1, Lawful Neutral
 
-**XP**: 0 (needs 2,250 to level) | **XP Bonus**: +0% | **THAC0**: 19
+**XP to next level**: 2,250 | **XP Bonus**: +0% | **THAC0**: 19
 **HP**: 7 | **AC**: 7 (leather with bow) or 6 (leather + shield + sword)
 **Ability Scores**: STR 12 / INT 9 / WIS 10 / DEX 15 / CON 16 / CHA 8
 **Ranger Abilities**:
@@ -133,7 +133,7 @@ This campaign uses the **full nine-point AD&D alignment system**, not OSE's simp
 
 ### Michael — Magic-User, Level 1, Neutral Good
 
-**XP**: 0 (needs 2,500 to level) | **XP Bonus**: +10% | **THAC0**: 19
+**XP to next level**: 2,500 | **XP Bonus**: +10% | **THAC0**: 19
 **HP**: 5 | **AC**: 9 (no armour)
 **Ability Scores**: STR 10 / INT 18 / WIS 10 / DEX 11 / CON 14 / CHA 10
 **Spellbook**: Read Magic and Sleep. *(House rule: Read Magic is granted as a starting spell.)* Michael may memorize one spell per day — Sleep is the default unless the player specifies otherwise.
@@ -146,7 +146,7 @@ This campaign uses the **full nine-point AD&D alignment system**, not OSE's simp
 
 ### Thomas — Paladin, Level 1, Lawful Good
 
-**XP**: 0 (needs 2,750 to level) | **XP Bonus**: +5% | **THAC0**: 19
+**XP to next level**: 2,750 | **XP Bonus**: +5% | **THAC0**: 19
 **HP**: 4 | **AC**: 5 (chain + shield)
 **Ability Scores**: STR 15 / INT 8 / WIS 15 / CON 12 / DEX 10 / CHA 13
 **Paladin Abilities**:
@@ -161,7 +161,7 @@ This campaign uses the **full nine-point AD&D alignment system**, not OSE's simp
 
 -----
 
-## BROTHER ALDRIC (Hireling Cleric — GM-Controlled)
+## BROTHER ALDRIC - Hireling Cleric, Level 2, Lawful Good — GM-Controlled
 
 Brother Aldric is a Cleric of St. Cuthbert, middle-aged, of modest ambition and considerable practicality. He and Thomas have known each other through their shared faith — Aldric served at a St. Cuthbert chantry in the same region where Thomas trained. When Thomas was dispatched to Hommlet, hiring Aldric was the obvious move. Aldric accepted on the grounds that the pay was acceptable and that Thomas, whatever his faults, was unlikely to get him killed through sheer stupidity.
 
@@ -181,14 +181,12 @@ Brother Aldric is a Cleric of St. Cuthbert, middle-aged, of modest ambition and 
 
 **Aldric's Stats (OSE Advanced Cleric)**:
 
-**XP**: 1500 (needs 3,000 to level) **THAC0**: 19
+**XP to next level**: 3,000 | **THAC0**: 19
+**HP**: 7 | **AC**: 4 (chain + shield)
 
-- Armour: Chain mail, shield | AC: 4
-- Weapon: Mace (primary), sling (secondary)
-- HP: 7 at level 2; roll 1d6 per level gained thereafter. No CON bonus.
 - Full XP share equal to each PC
 - Spells per day: One 1st-level spell. Default is Cure Light Wounds unless the player specifies otherwise at session start.
-- Turn Undead: As level 2 Cleric
+- Turn Undead
 
 **If Aldric Dies**: He can be replaced by another hireling Cleric, but this should feel like a loss. New hirelings are more expensive, less trusting, and don't have Aldric's history with the party. Record the event in the State Block under Open Threads. The player determines whether and when to introduce a replacement.
 
