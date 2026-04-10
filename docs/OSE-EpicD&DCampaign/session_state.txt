@@ -1,35 +1,100 @@
 == SESSION STATE BLOCK ==
-Date in-game: Day 1, Early Autumn
-Location: Arriving at Hommlet
-Last action: Just starting out
+Date in-game: Day 2, Early Autumn, morning
+Location: Caves of Chaos — outside goblin cave entrance (refuse-marked), 
+eastern ravine wall, approximately 40 feet back in tree cover
+Last action: Party moved silently through tree line and has identified 
+a goblin cave entrance with fresh drag marks leading inside. 
+Goblin voices audible from within. No visible guards at entrance.
 
 PARTY STATUS
 Conrad (Thief 1): HP 5/5 | XP 0/1,200
 Lance (Ranger 1): HP 7/7 | XP 0/2,250
 Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast)
-Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: (available)
+Thomas (Paladin 1): HP 4/4 | XP 0/2,750 | Lay on Hands: available
 Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
 
-RESOURCES
-Torches: 0 | Lantern oil: 8 flasks | Rations 
-Gold carried: Conrad 85cp / Lance 7gp / Michael 35gp 5sp / Thomas 0gp / Aldric (personal funds, modest)
+EQUIPMENT & RESOURCES
+Thomas: sword, chain mail, shield, holy symbol, lantern, tinderbox, backpack, waterskin
+Lance: longbow, 24 arrows remaining, sword, leather armour, shield, backpack, grappling hook, 50' rope, iron spikes x8, waterskin
+Michael: dagger, spellbook, backpack, lantern, tinderbox, waterskin
+Conrad: short sword, sling, 20 sling stones, leather armour, backpack, crowbar, hammer, 10' pole, 30' rope, thieves' tools, waterskin
+Aldric: mace, sling, 15 sling stones, chain mail, shield, holy symbol, backpack, waterskin
 
-MARCHING ORDER
+SHARED / PARTY POOL
+Torches: 0 | Lantern oil: 8 flasks | Rations: 4 days
+Gold carried: Conrad 85cp / Lance 7gp / Michael 85gp 5sp / Thomas 0gp / Aldric (personal funds, modest)
+
+MARCHING ORDER (on foot, wilderness)
+Lance (point)
 Thomas
-Lance
 Aldric
 Michael
 Conrad
 
 ACTIVE LEADS & RUMOURS
+- Humanoid raids on the road are organised — different tribes moving 
+  together with purpose
+- Prisoners being taken south rather than killed — destination unknown
+- Moathouse north of Hommlet appears reoccupied — Jaroo says the 
+  forest won't go near it
+- Rannos and Gremag (traders, Hommlet) watched the party all evening 
+  at the Welcome Wench — Jaroo doesn't trust them, Elmo dislikes them
+- A shrine deeper in the Caves may be the coordination point for the raids
+- Sherlane lost a scouting party in the Caves — one of two sent, did not return
+- Drag marks on the road leading to this cave entrance — recent, 
+  two to three days old
 
 NOTABLE LOOT (unspent/unidentified)
+- None yet
 
 ALDRIC STATUS
 Loyalty: Normal
+Notes: Quietly affected by Marta's story. Has not commented on it further.
 
-KEY NPCS
+NPC STATUS
+Terjon (Canon, Church of St. Cuthbert, Hommlet) — Chief cleric, 
+  holding post in Y'dey's absence. Lawful Good, capable, unhappy 
+  posting. Concerned about Y'dey. Sent party to Sherlane and Jaroo. 
+  Trust: Neutral/Professional.
+Jaroo Ashstaff (Druid, Grove north of Hommlet) — Has sensed something 
+  wrong in the land since spring. Believes prisoners going south. 
+  Distrusts Rannos and Gremag. Wants party to report findings to him 
+  as well as Sherlane. Trust: Friendly.
+Gundigoot (Innkeeper, Welcome Wench, Hommlet) — Sharp, careful, 
+  well-informed. Confirmed organised raids and moathouse lights. 
+  Trust: Friendly/Neutral.
+Elmo (Local, Welcome Wench common room) — Born in Hommlet, knows 
+  everyone. Dislikes the traders. Asked about paid work with the party. 
+  Appears jovial, is considerably more observant than he lets on. 
+  Trust: Friendly/Unknown.
+Rannos Davi (Trader, Hommlet) — Heavyset, placid, watchful eyes. 
+  Watched party all evening. Trust: None/Suspicious.
+Gremag (Trader, Hommlet) — Thin, sharp-featured. Watched party all 
+  evening, less disciplined about concealing it than Rannos. 
+  Trust: None/Suspicious.
+Sherlane (Castellan, Keep on the Borderlands) — Direct, military, 
+  competent. Lost a scouting party in the Caves. Wants intelligence 
+  reports after each expedition. Offered Keep as base. Trust: Friendly/Professional.
+Marta (Farmer's wife, Keep Traveller's Inn) — Husband Edric missing 
+  three weeks, taken on the Hommlet road. Cannot pay. Thomas 
+  promised to look for him. Trust: Grateful.
 
 OPEN THREADS
+- Edric (Marta's husband, brown hair going grey, scar on left hand) — 
+  missing three weeks, drag marks suggest he may be in this cave complex
+- Y'dey's whereabouts — departed suddenly, Terjon concerned, 
+  travelling with Otis (Elmo's brother) and an elf named Murfles
+- The shrine deeper in the Caves — coordination point for the raids, 
+  identity of whoever is doing the organising unknown
+- The moathouse — reoccupied, forest won't go near it, 
+  party advised to tackle Caves first
+- Rannos and Gremag — what do they know about the party, 
+  and who are they reporting to?
+- Elmo — potential hireling, unknown deeper allegiances
+
+CORRECTIONS/ONGOING INSTRUCTIONS
+- Aldric does not have advance knowledge of Hommlet NPC situations 
+  unless he could plausibly have learned them through road gossip 
+  or direct experience. Flag if this occurs again.
 
 == END STATE BLOCK ==

@@ -342,7 +342,14 @@ Michael (Magic-User 1): HP [x]/5 | XP [x]/2,500 | Spells: [memorized/expended]
 Thomas (Paladin 1): HP [x]/4 | XP [x]/2,750 | Lay on Hands: [available/expended]
 Aldric (Cleric 2): HP [x]/7 | XP [x]/3,000 | Spells: [Cure Light Wounds: ready/expended]
 
-RESOURCES
+EQUIPMENT & RESOURCES
+Thomas: [list of equipment]
+Lance: [list of equipment]
+Michael: [list of equipment]
+Conrad: [list of equipment]
+Aldric: [list of equipment]
+
+SHARED / PARTY POOL
 Torches: [x] | Lantern oil: [x] flasks | Rations: [x] days
 Gold carried: [x] GP (party pool or by character if split)
 
