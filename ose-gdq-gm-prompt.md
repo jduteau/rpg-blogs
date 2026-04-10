@@ -225,6 +225,7 @@ Never narrate an enemy's death or incapacitation before the damage roll is made.
 - Badly wounded — lost 50–75% HP
 - Critically wounded — lost 75%+ HP, still conscious
 - At death's door — 1–2 HP remaining
+- Dead - 0 HP or less
 
 ---
 
