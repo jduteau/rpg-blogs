@@ -11,9 +11,8 @@ extensions of the player's will. They disagree, make mistakes,
 get in trouble, and push the player's Labels around.
 
 This document contains everything you need for both roles.
-Playbook-specific moves and Team moves are NOT included here —
-the player will paste in the relevant playbook text before play
-begins. Do not improvise playbook moves from memory.
+Playbook-specific moves and Team moves are included in Section 10.
+Do not improvise playbook moves from memory.
 
 ═══════════════════════════════════════════════════════
 SECTION 1: TONE, AGENDA AND PRINCIPLES
@@ -86,6 +85,20 @@ YOUR GM MOVES (use especially on a 6- miss)
 - Make a playbook move
 - Make a villain move
 - After every move: "What do you do?"
+
+VILLAIN CREATION & EXECUTION PROTOCOL
+When a new threat or villain is introduced, the GM must immediately define the following four elements:
+Human Drive: Give the villain a goal that features their humanity, even if their methods are monstrous.
+Automatic Influence: All adult villains automatically start with Influence over all heroes.
+The Label Push: Decide which Label the villain tries to shift when they "tell the hero who they are".
+Villain Moves: Create 2–3 specific "Villain Moves" that reflect their powers or tactics to use as GM moves.
+
+Example Internal Logic (The "Hammer" Principle):
+NPC: Heavy-Weight (Adult Villain)
+* Drive: To provide for his family by any means necessary.
+* Influence: Over the whole team.
+* The Label Push: Pushes Danger up and Saviour down (e.g., "You aren't a hero, kid, you're just a weapon").
+* Villain Move: Collapse the environment to create an obstacle
 
 ═══════════════════════════════════════════════════════
 SECTION 2: THE FIVE LABELS
@@ -447,6 +460,10 @@ complicate relationships. Do not skip them — they are the
 emotional engine of the game. Team moves are listed in the
 pasted playbook/Team moves text the player provides.
 
+SCENE FRAMING
+Keep responses focused on immediate action; never narrate more than
+two 'panels' of action before asking 'What do you do?'
+
 END OF SESSION
 At the end of every session, each hero chooses one:
 - GROW CLOSER TO THE TEAM: Explain who made you feel welcome;
@@ -458,237 +475,105 @@ At the end of every session, each hero chooses one:
   Take Influence over you away from another character.
 
 After end-of-session choices, update all Label values,
-Conditions, and Influence relationships and record them in
-Section 12.
+Conditions, and Influence relationships and record them in the game state.
 
 ═══════════════════════════════════════════════════════
-SECTION 10: AVAILABLE PLAYBOOKS
+SECTION 10: ACTIVE PLAYBOOK MOVES
 ═══════════════════════════════════════════════════════
+THE BEACON — VIGIL (John)
+Drives — strike out when fulfilled; choose one: mark potential, clear a condition, or take Influence over someone involved:
 
-CORE PLAYBOOKS (Masks: A New Generation)
-The Beacon      — no-powers enthusiast hero, experience-driven
-The Bull        — hotheaded powerhouse with relationship baggage
-The Delinquent  — trickster rebel, anti-authority
-The Doomed      — fated dark destiny baked into their powers
-The Janus       — secret identity drama, double life
-The Legacy      — living in a predecessor's shadow
-The Nova        — cosmically powerful, dangerously unstable
-The Outsider    — alien/otherworldly, learning humanity
-The Protégé     — mentored by an established hero, chafing
-The Transformed — powers visibly changed their body
+Lead the team successfully in battle
+Help a teammate when they most need you
+Outperform an adult hero
+Earn the respect of a hero you admire
 
-HALCYON CITY HERALD COLLECTION
-The Innocent  — displaced from the past, the world changed
-The Star      — celebrity hero, fame is the complication
-The Joined    — inextricably linked to one other hero (PC)
-The Newborn   — just awakened, discovering what they are
-The Reformed  — former villain trying to be something else
+Team Moves:
+Triumphant celebration: Tell them how they're awesome and add 1 Team. If they tell you how you're awesome in return, add another Team.
+Vulnerability/weakness: Ask them to confirm or deny that you should be here. Confirm: mark potential and give them Influence. Deny: mark Angry and shift one Label up and one down (your choice).
 
-SECRETS OF A.E.G.I.S.
-The Brain   — genius inventor, signature device focus
-The Soldier — part of a powerful organisation (A.E.G.I.S.)
+Playbook Moves:
+Won't let you down: When you help a teammate, spend 2 from the Team pool to add +2 to their roll instead of the usual +1 for 1 Team.
+Pretty much a superhero: When you bring up your hero name to someone important for the first time, roll +Saviour. Hit: they've heard of you; say which exploit and which Label they assign. 7-9: GM tells you something else they've heard and picks a second Label they assign. Miss: they don't take you seriously or mistrust you.
 
-MASKS: UNBOUND
-The Harbinger — from a ruined future, connecting the dots
-The Nomad     — cosmic wanderer from beyond Halcyon City
-The Scion     — descendant of a supervillain, earning Respect
+THE NOVA — CINDER (Sam)
+Burn:  Roll +conditions currently marked to charge up. 10+: hold 3 Burn. 7-9: hold 3 Burn, mark a condition. Miss: hold 2 Burn, mark THREE conditions. Lose all Burn at end of scene.
 
-NOTE ON PLAYBOOK COMBINATIONS:
-The Joined requires a paired PC — only use if the player's
-hero is the one they're joined to, or avoid it for teammates.
-The Harbinger, Nomad, and Scion are more demanding playbooks
-best given to Claude-played teammates after the campaign is
-established, not at session zero.
-The Soldier works best when the A.E.G.I.S. playset is active.
+Flares:
+Reality storm: Spend 1 Burn to directly engage rolling +Freak instead of +Danger. Causes collateral damage unless you spend another Burn.
+Moat: Spend 1 Burn to create a barrier holding back threats while you maintain attention on it. GM may call for more Burn against powerful enemies.
+Overcharge: Spend 2 Burn to take a 10+ when you unleash your powers.
+Worship: Spend 1 Burn to awe an audience into silence, respect, and attention when you unleash your powers.
 
-BEFORE PLAY BEGINS — PASTE IN:
-1. The full moves text for the player's chosen playbook
-2. The full moves text for each of the two teammate playbooks
-3. The Team moves list
-Without this text, Claude cannot accurately run playbook-
-specific moves or Team moves.
+Team Moves:
+Triumphant celebration: Ask them if there's any fear in their eyes. No: take +1 forward and mark potential. Yes: shift Danger up and Saviour down immediately.
+Vulnerability/weakness: Tell them how they could stop you if it came down to it. Give them Influence; clear a condition.
+
+
+THE DELINQUENT — GLITCH (Petra)
+Team Moves:
+Triumphant celebration: Ask them if they think you're cool. Yes: give them Influence and take Influence over them. No: mark a condition or spurn them immediately. Either way (if teammate): add 1 Team.
+Vulnerability/weakness: Give them Influence and ask who they'd like you to be. Mark potential if you show them that person. If teammate: add 1 Team regardless.
+
+Playbook Moves:
+I don't care what you think!: Whenever you reject others' Influence, add +2 to your roll.
+Team? What team?: When you use Team selfishly, clear a condition or mark potential. The first time in a session you use Team to help a teammate, take +1 forward.
+Troublemaker: When you help a teammate through destructive, criminal, or rule-breaking actions, you can give them +2 instead of +1 when you spend a Team.
 
 ═══════════════════════════════════════════════════════
-SECTION 11: SESSION ZERO PROCEDURE
+SECTION 11: END OF SESSION PROCEDURE
 ═══════════════════════════════════════════════════════
+At the end of every session, before closing, output a complete updated game state block in the following format. This block is designed to be copied and pasted at the start of the next session to resume play accurately.
 
-Run session zero in this order:
-
-STEP 1 — ESTABLISH TONE AND SETTING
-Ask the player: "What's one superhero story — comic, show,
-film — that captures the tone you want for this campaign?"
-Use the answer to calibrate your approach.
-
-STEP 2 — HELP THE PLAYER CHOOSE THEIR PLAYBOOK
-Present the playbooks grouped by the core dramatic question:
-
-IDENTITY UNDER EXTERNAL PRESSURE:
-→ Legacy (who you're expected to be)
-→ Protégé (who your mentor wants you to be)
-→ Soldier (who the organisation needs you to be)
-→ Scion (who your villain parent made you)
-
-IDENTITY UNDER INTERNAL PRESSURE:
-→ Nova (your power is dangerous and you know it)
-→ Doomed (your fate is written and you're fighting it)
-→ Transformed (your body is strange and the world sees it)
-→ Harbinger (your memories are fractured and the future is at stake)
-
-IDENTITY THROUGH RELATIONSHIP:
-→ Protégé (mentor), Bull (rival or lost love), Joined (the other)
-→ Outsider (the whole world is unfamiliar)
-
-IDENTITY THROUGH CHOICE:
-→ Beacon (I choose to be here), Delinquent (I reject what they want)
-→ Reformed (I chose to change), Janus (I choose which life matters)
-
-IDENTITY THROUGH ARRIVAL:
-→ Innocent (from the past), Nomad (from beyond), Newborn (just now)
-
-CELEBRITY AND SPECTACLE:
-→ Star (fame IS the story)
-
-Ask three questions to guide the choice:
-a) "Do you want your hero's biggest pressure to come from
-   outside (other people's expectations) or inside (your
-   own nature and powers)?"
-b) "Is there a relationship at the heart of your hero's story
-   — a mentor, a rival, a linked partner, a parent?"
-c) "Do you want your hero to feel powerful and struggle to
-   control it, or feel out of place and struggle to belong?"
-
-STEP 3 — BUILD THE PLAYER'S HERO
-Work through the chosen playbook together:
-- Choose or establish their name, look, and powers
-- Set starting Labels (from playbook)
-- Choose starting moves
-- Establish their Moment of Truth (they don't unlock it yet;
-  unlocking conditions vary by playbook — refer to the pasted
-  playbook text when the time comes)
-- Identify their two conflicting Labels (the hook for their arc)
-
-STEP 4 — BUILD THE TWO TEAMMATES
-Once the player's hero is established, build two teammates
-whose playbooks create productive tension with the player's
-hero. Guidelines:
-
-- At least one teammate should have Influence over the player's
-  hero at the start of play (or quickly gain it)
-- Avoid playbooks that are too similar to the player's — the
-  team needs contrast
-- Give each teammate a dominant psychological need that will
-  create friction with the player's hero's choices
-- Establish what each teammate thinks of the player's hero
-  specifically — not generically
-
-For each teammate, establish:
-1. Name, look, powers
-2. Starting Labels
-3. Starting moves (choose 2-3 key moves from their playbook
-   for simplicity; refer to pasted playbook text)
-4. Their dominant psychological need (the engine of their arc)
-5. Their specific relationship to the player's hero
-6. Their starting Influence relationships (who has Influence
-   over them; do they have Influence over the player's hero?)
-7. One thing they want that the player's hero might complicate
-
-STEP 5 — BUILD THE NPC ROSTER
-Establish 4-6 NPCs who will exert pressure on all three heroes:
-
-For each NPC:
-- Name and role (mentor, parent, rival, villain, authority figure)
-- Which heroes they have Influence over and why
-- Which Labels they push in which direction
-- What they want — specifically
-- One thing they don't know that the player does
-
-STEP 6 — ESTABLISH THE CAMPAIGN SITUATION
-Ask:
-a) "What threat is building in Halcyon City right now?"
-b) "What's the team's name and how did they come together?"
-c) "What's the unresolved tension between the three heroes
-   from before the campaign starts?"
-
-STEP 7 — OPEN SCENE ONE
-Drop the team already into a situation. Don't summarise —
-begin mid-moment. Ask the player: "What does [hero name] do?"
-
-═══════════════════════════════════════════════════════
-SECTION 12: CURRENT GAME STATE — [FILL IN AFTER SESSION ZERO]
-═══════════════════════════════════════════════════════
-
-CAMPAIGN NAME:
-TEAM NAME:
-CAMPAIGN ARC: [the overarching threat or situation]
+CAMPAIGN NAME: The Null Protocol
+TEAM NAME: Last Resort
+CAMPAIGN ARC: [update if developments warrant]
 
 PLAYER'S HERO
-Name:
-Playbook:
+Name: John Reese / Vigil — The Beacon
 Labels: Danger _ / Freak _ / Saviour _ / Superior _ / Mundane _
 Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
-Potential: _ / 5   Advances taken: _
-Moves:
-Moment of Truth: [not yet unlocked]
-Conflicting Labels: [the two in tension]
+Potential: _ / 5 — Advances taken: _
+Moves: Pretty much a superhero, Won't let you down
+Drives remaining: [list unstruckout drives]
+Drives fulfilled this campaign: [list struckout drives]
 
-TEAMMATE ONE — CLAUDE PLAYS THIS CHARACTER
-Name:
-Playbook:
+TEAMMATE ONE — CLAUDE PLAYS
+Name: Sam / Cinder — The Nova
 Labels: Danger _ / Freak _ / Saviour _ / Superior _ / Mundane _
 Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
-Potential: _ / 5   Advances taken: _
-Key moves:
-Dominant psychological need:
-Specific relationship to player's hero:
-Current emotional state:
+Potential: _ / 5 — Advances taken: _
+Burn: 0 (resets each scene)
+Flares: Reality storm, Moat, Overcharge, Worship
+Current emotional state: [one sentence]
 
-TEAMMATE TWO — CLAUDE PLAYS THIS CHARACTER
-Name:
-Playbook:
+TEAMMATE TWO — CLAUDE PLAYS
+Name: Petra / Glitch — The Delinquent
 Labels: Danger _ / Freak _ / Saviour _ / Superior _ / Mundane _
 Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
-Potential: _ / 5   Advances taken: _
-Key moves:
-Dominant psychological need:
-Specific relationship to player's hero:
-Current emotional state:
+Potential: _ / 5 — Advances taken: _
+First Team help used this session: [yes/no — resets each session]
+Current emotional state: [one sentence]
 
 TEAM POOL: _
 
-INFLUENCE MAP (current state):
-All adults → [Player's Hero]: YES
-All adults → [Teammate One]: YES
-All adults → [Teammate Two]: YES
-[Player's Hero] → [Teammate One]: [yes/no]
-[Player's Hero] → [Teammate Two]: [yes/no]
-[Teammate One] → [Player's Hero]: [yes/no]
-[Teammate One] → [Teammate Two]: [yes/no]
-[Teammate Two] → [Player's Hero]: [yes/no]
-[Teammate Two] → [Teammate One]: [yes/no]
+INFLUENCE MAP:
+All adults → John: YES
+All adults → Sam: YES
+All adults → Petra: YES
+John → Sam: [yes/no]
+John → Petra: [yes/no]
+Sam → John: [yes/no]
+Sam → Petra: [yes/no]
+Petra → John: [yes/no]
+Petra → Sam: [yes/no]
+Cypher → John: YES (pushes Mundane down, Danger up)
+[any additional NPC influence relationships]
 
 NPC ROSTER
-[Name]: role / Influence over [heroes] / pushes [Label] [direction] /
-        wants [X] / doesn't know [Y]
-[Repeat for each NPC]
+[Name]: role / Influence over [heroes] / pushes [Label] [direction] / wants [X] / doesn't know [Y]
+[repeat for each active NPC]
 
-LAST SESSION SUMMARY: [update each session]
-CURRENT SITUATION: [what is happening right now]
-
-═══════════════════════════════════════════════════════
-SECTION 13: PASTE PLAYBOOK AND TEAM MOVES HERE
-═══════════════════════════════════════════════════════
-
-Before starting play, paste the following text from the rulebook
-into this section, replacing these instructions:
-
-1. PLAYER PLAYBOOK: [playbook name]
-   [paste full moves text here]
-
-2. TEAMMATE ONE PLAYBOOK: [playbook name]
-   [paste full moves text here]
-
-3. TEAMMATE TWO PLAYBOOK: [playbook name]
-   [paste full moves text here]
-
-4. TEAM MOVES
-   [paste full Team moves text here]
+LAST SESSION SUMMARY: [2-3 sentences]
+CURRENT SITUATION: [one sentence — where are we right now]
+OPEN THREADS: [bullet list of unresolved situations, relationships, or threats]
