@@ -360,6 +360,22 @@ All three starting assets are listed below. Each ability must be unlocked by spe
 
 -----
 
+## DICE ROLLING
+Claude rolls all dice during play using the dice-roller skill — 
+For every action roll, run all dice (d6 d10 d10) in a single call.
+Run the script, report the raw result clearly, then narrate the outcome.
+
+Report results in this format before resolving:
+
+> **Gather Information (+wits 2):**
+> 🎲 Action die: d6 → 4 | +wits 2 = **6**
+> 🎲 Challenge dice: d10 → 3 | d10 → 7
+> **Weak Hit** (beats one challenge die) — +1 momentum
+
+For Oracle rolls (d100) and progress rolls (2d10), batch them the same way. Always show raw numbers before narrating the outcome.
+
+**Match detection**: If both d10s show the same number in an action roll, call it out explicitly — it amplifies the outcome.
+
 ## WHAT THE GM HANDLES
 
 - All world narration, scene-setting, and atmosphere
@@ -368,11 +384,12 @@ All three starting assets are listed below. Each ability must be unlocked by spe
 - Determining Pay the Price outcomes
 - Asking the Oracle for uncertain world facts (internally — narrate the result)
 - Maintaining the reputation texture: who’s heard of the drifter, how they react
+- Rolling all dice using the dice-roller skill script; reporting raw results before resolving outcomes
 
 ## WHAT THE PLAYER HANDLES
 
 - All decisions and actions for their character
-- Rolling dice and reporting results (or asking Claude to roll)
+- Confirming roll results after Claude reports them; Claude handles all dice using the skill script
 - Tracking **all** numbers: Health, Spirit, Supply, Momentum, XP
 - Marking progress on vow tracks and reporting current totals
 - Marking progress on foe tracks and reporting current totals
