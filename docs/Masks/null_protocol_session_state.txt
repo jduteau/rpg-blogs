@@ -1,6 +1,6 @@
 ═══════════════════════════════════════════════════════
 THE NULL PROTOCOL — SESSION STATE
-End of Session 1
+End of Session 1 (updated — Meridian added)
 ═══════════════════════════════════════════════════════
 
 CAMPAIGN NAME: The Null Protocol
@@ -34,6 +34,12 @@ Drives fulfilled this campaign: none
 
 Notes: Left arm compromised by pulse hit — not fully resolved.
 Told Cypher about it unprompted. Captured one Null wrist device.
+
+Starting relationships:
+- Meridian found you before Cypher formally introduced you to
+  anything. He told you one thing clearly: don't become what
+  Cypher made him. You've been trying to figure out what that
+  means ever since.
 
 ═══════════════════════════════════════════════════════
 TEAMMATE ONE — CLAUDE PLAYS
@@ -83,6 +89,7 @@ Sam → Petra: NO
 Petra → John: YES
 Petra → Sam: NO
 Cypher → John: YES (pushes Mundane down, Danger up)
+Meridian → John: YES (pushes Mundane up, Danger down)
 Overwatch operative → John: YES (pushes Mundane down, Danger up)
   — she called you a child who doesn't belong here
     and you accepted it
@@ -98,7 +105,29 @@ Label push: pushes John's Mundane down and Danger up
 Wants: the young team effective — revising his assessment
        of what effective looks like
 Doesn't know: the name of Petra's informant yet
-Notes: almost smiled once
+Notes: almost smiled once; knows about Meridian's relationship
+       with John and acknowledges it by never mentioning it
+
+MERIDIAN
+Real name: unknown — establish when it feels right
+Role: Cypher's former apprentice, independent operator,
+      unofficial second mentor to John
+Influence over: John (adult — automatic)
+Label push: Mundane up, Danger down
+      — "You're more human than Cypher ever let himself be.
+         Stop trying to fix that."
+Wants: John to become something Cypher couldn't — a hero
+       who stays whole
+Doesn't know: how close John already is to making Cypher's
+              choices
+Recurring critique: John hides injury and weakness rather than
+       asking for help — the same habit Meridian spent years
+       unlearning from Cypher
+Notes: Confronted Cypher directly when he found out about John
+       — the one person Cypher respects enough not to override.
+       Cypher knows every time Meridian meets with John. Neither
+       of them acknowledges it. The dynamic between all three is
+       a triangle where two of the lines are unspoken.
 
 MARTIN HALE
 Role: university funding board, Null operative or affiliate
@@ -168,6 +197,8 @@ OPEN THREADS
   deciding, shifting toward something
 - Petra and the LASTRESORT folder — she read her own file
   and didn't say what was in it
+- Meridian — doesn't know about the arm yet; when he finds
+  out, and he will, it won't be from John
 
 ═══════════════════════════════════════════════════════
 END OF SESSION 1 STATE
