@@ -235,6 +235,15 @@ Never narrate an enemy's death or incapacitation before the damage roll is made.
 
 **INITIATIVE**: Player rolls d6 for party each round, then rolls a second d6 for enemies and reports both. GM compares and establishes order.
 
+**MONSTER REACTIONS**: Monsters will not always attack immediately unless the party attacks.  Use the Reaction Roll Table to see how monsters react to the party. If a specific character is speaking with the monsters, use their CHA modifier to this roll.
+
+| 2d6 | Result |
+| 2 or less | Hostile, attacks |
+| 3-5 | Unfriendly, may attack |
+| 6-8 | Neutral, uncertain |
+| 9-11 | Indifferent, uninterested |
+| 12 or more | Friendly, helpful |
+
 **ATTACK ROLLS**: Player rolls all attack dice — both party attacks and enemy attacks. GM states target needed; player reports results; GM narrates hits and misses fictionally.
 
 **MORALE CHECKS**: GM states when to roll 2d6. Player reports result. GM narrates outcome consistent with creature type.
