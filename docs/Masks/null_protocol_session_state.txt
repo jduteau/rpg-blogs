@@ -1,0 +1,174 @@
+═══════════════════════════════════════════════════════
+THE NULL PROTOCOL — SESSION STATE
+End of Session 1
+═══════════════════════════════════════════════════════
+
+CAMPAIGN NAME: The Null Protocol
+TEAM NAME: Last Resort
+CAMPAIGN ARC: The Null, a criminal organization using stolen and
+reverse-engineered technology, is seventy-odd hours away from
+activating a city-wide electromagnetic suppression network built
+on Petra's stolen research. Martin Hale, a university funding
+board member, is their inside man at Halcyon Tech. Three anchor
+points are identified. The central hub is one of two locations.
+The clock is running.
+
+═══════════════════════════════════════════════════════
+PLAYER'S HERO
+═══════════════════════════════════════════════════════
+
+Name: John Reese / Vigil — The Beacon
+Labels: Danger +1 / Freak -1 / Saviour +2 / Superior 0 / Mundane +1
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 2/5 — Advances taken: 0
+Abilities: Martial arts, Acrobatics
+Moves: Pretty much a superhero, Won't let you down
+
+Drives remaining:
+- Lead the team successfully in battle
+- Help a teammate when they most need you
+- Outperform an adult hero
+- Earn the respect of a hero you admire
+
+Drives fulfilled this campaign: none
+
+Notes: Left arm compromised by pulse hit — not fully resolved.
+Told Cypher about it unprompted. Captured one Null wrist device.
+
+═══════════════════════════════════════════════════════
+TEAMMATE ONE — CLAUDE PLAYS
+═══════════════════════════════════════════════════════
+
+Name: Sam / Cinder — The Nova
+Labels: Danger +1 / Freak +2 / Saviour 0 / Superior 0 / Mundane 0
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 1/5 — Advances taken: 0
+Burn: 0 (resets each scene)
+Flares: Reality storm, Moat, Overcharge, Worship
+
+Current emotional state: Quietly certain about this team in a way
+he wasn't this morning — still careful, but the carefulness has
+changed quality. Less self-protective. More deliberate.
+
+═══════════════════════════════════════════════════════
+TEAMMATE TWO — CLAUDE PLAYS
+═══════════════════════════════════════════════════════
+
+Name: Petra / Glitch — The Delinquent
+Labels: Danger 0 / Freak +1 / Saviour -2 / Superior +3 / Mundane +1
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 0/5 — Advances taken: 0
+First Team help used this session: no — resets next session
+
+Current emotional state: Clearer and colder and more herself than
+she's been all day — the file with her name on it did something
+to her, and what it did was make her certain. She knows who she
+is. She's going to make that someone else's problem.
+
+═══════════════════════════════════════════════════════
+TEAM POOL: 1
+═══════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════
+INFLUENCE MAP
+═══════════════════════════════════════════════════════
+
+All adults → John: YES
+All adults → Sam: YES
+All adults → Petra: YES
+John → Sam: YES
+John → Petra: YES
+Sam → John: YES
+Sam → Petra: NO
+Petra → John: YES
+Petra → Sam: NO
+Cypher → John: YES (pushes Mundane down, Danger up)
+Overwatch operative → John: YES (pushes Mundane down, Danger up)
+  — she called you a child who doesn't belong here
+    and you accepted it
+
+═══════════════════════════════════════════════════════
+NPC ROSTER
+═══════════════════════════════════════════════════════
+
+CYPHER
+Role: veteran team leader, older generation
+Influence over: all three heroes
+Label push: pushes John's Mundane down and Danger up
+Wants: the young team effective — revising his assessment
+       of what effective looks like
+Doesn't know: the name of Petra's informant yet
+Notes: almost smiled once
+
+MARTIN HALE
+Role: university funding board, Null operative or affiliate
+Influence over: none confirmed yet
+Wants: Petra's full architecture
+Doesn't know: how much Last Resort now knows
+Notes: smooth, precise, the kind of dangerous that wears
+       good coats
+
+DR. ELENA VASQUEZ
+Role: Halcyon Tech cryptography, Petra's former mentor
+Influence over: Petra (untracked but emotionally real)
+Wants: to be left out of this and knows she won't be
+Notes: on a train to Portsmith; gave the team the drive
+
+THE OVERWATCH OPERATIVE
+Role: secured at transit hub, handed to transit police
+Influence over: John
+Label push: Mundane down, Danger up
+Notes: said "Cypher sent kids" — first person to make it land
+
+PETRA'S INFORMANT
+Role: someone from Petra's old school
+Influence over: unknown
+Notes: fed the Null information for eight months;
+       Petra knows the name; Cypher doesn't yet
+
+═══════════════════════════════════════════════════════
+LAST SESSION SUMMARY
+═══════════════════════════════════════════════════════
+
+Last Resort's first operation secured the transit hub and
+contained three of four Null operatives. Follow-up investigation
+led to Halcyon Tech, where Martin Hale was pressuring Dr. Vasquez
+for Petra's research. The team secured a USB drive containing
+Null operational files — including a folder labeled LASTRESORT
+that predates the team's formation, and a seventy-two hour
+countdown to a city-wide electromagnetic suppression event.
+
+═══════════════════════════════════════════════════════
+CURRENT SITUATION
+═══════════════════════════════════════════════════════
+
+Approximately sixty-eight hours remain. Three anchor points are
+identified. The central hub is at one of two locations: Halcyon
+Tech or an unknown Null building. Cypher is running Hale through
+back channels overnight and confirming anchor locations by
+morning. Last Resort needs to find the Null building.
+
+═══════════════════════════════════════════════════════
+OPEN THREADS
+═══════════════════════════════════════════════════════
+
+- The city-wide suppression network — seventy-odd hours,
+  mostly built
+- Martin Hale — inside man, still free, knows Last Resort's
+  faces
+- The Null building — central hub, unknown location,
+  needs finding
+- Petra's informant — she has the name, Cypher doesn't yet
+- The captured wrist device — unknown full capabilities,
+  needs analysis
+- John's arm — compromised, partially treated, not resolved
+- Sam's file — the Null has watched him for three years,
+  acquisition priority primary
+- Cypher's assessment of John — discipline or ego, still
+  deciding, shifting toward something
+- Petra and the LASTRESORT folder — she read her own file
+  and didn't say what was in it
+
+═══════════════════════════════════════════════════════
+END OF SESSION 1 STATE
+═══════════════════════════════════════════════════════
