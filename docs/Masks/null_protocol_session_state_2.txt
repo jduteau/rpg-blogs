@@ -1,0 +1,225 @@
+═══════════════════════════════════════════════════════
+THE NULL PROTOCOL — SESSION STATE
+End of Session 2
+═══════════════════════════════════════════════════════
+
+CAMPAIGN NAME: The Null Protocol
+TEAM NAME: Last Resort
+CAMPAIGN ARC: The Null's Protocol Harvest phase two is
+crippled — the collection sweep compiler is destroyed.
+The suppression network still functions. Approximately
+sixty hours remain. Martin Hale has been identified and
+tracked. The central hub at Kelso Logistics is located
+and partially mapped. The endgame is taking shape.
+
+═══════════════════════════════════════════════════════
+PLAYER'S HERO
+═══════════════════════════════════════════════════════
+
+Name: John Reese / Vigil — The Beacon
+Labels: Danger +1 / Freak -1 / Saviour +2 / Superior 0 / Mundane +1
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 2/5 — Advances taken: 0
+Abilities: Martial arts, Acrobatics
+Moves: Pretty much a superhero, Won't let you down
+
+Drives remaining:
+- Lead the team successfully in battle
+- Help a teammate when they most need you
+- Outperform an adult hero
+- Earn the respect of a hero you admire
+
+Drives fulfilled this campaign: none
+
+Notes: Left arm compromised and worsened during Kelso
+operation. Sam treated it — holding but not resolved.
+Captured one Null wrist device. Captured one Null
+keycard from sub-basement technician.
+Recruited Dev as informal civilian asset.
+
+Starting relationships:
+- Meridian found you before Cypher formally introduced
+  you to anything. He told you one thing clearly: don't
+  become what Cypher made him. You've been trying to
+  figure out what that means ever since.
+
+═══════════════════════════════════════════════════════
+TEAMMATE ONE — CLAUDE PLAYS
+═══════════════════════════════════════════════════════
+
+Name: Sam / Cinder — The Nova
+Labels: Danger +1 / Freak +2 / Saviour 0 / Superior 0 / Mundane 0
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 1/5 — Advances taken: 0
+Burn: 0 (resets each scene)
+Flares: Reality storm, Moat, Overcharge, Worship
+
+Current emotional state: Steadier than yesterday but
+carrying the weight of the acquisition file quietly —
+he hasn't processed what it means that the Null wanted
+him, and he won't until there's time to. Right now he's
+focused forward. The arm bothers him more than he's
+said.
+
+═══════════════════════════════════════════════════════
+TEAMMATE TWO — CLAUDE PLAYS
+═══════════════════════════════════════════════════════
+
+Name: Petra / Glitch — The Delinquent
+Labels: Danger 0 / Freak +1 / Saviour -2 / Superior +3 / Mundane +1
+Conditions: [ ]Angry [ ]Afraid [ ]Guilty [ ]Hopeless [ ]Insecure
+Potential: 0/5 — Advances taken: 0
+First Team help used this session: no — resets next session
+
+Current emotional state: Focused and cold and
+productive in the way she gets when emotion has been
+converted entirely into work. Destroying the compiler
+did something for her. She's not done yet.
+
+═══════════════════════════════════════════════════════
+TEAM POOL: 1
+═══════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════
+INFLUENCE MAP
+═══════════════════════════════════════════════════════
+
+All adults → John: YES
+All adults → Sam: YES
+All adults → Petra: YES
+John → Sam: YES
+John → Petra: YES
+Sam → John: YES
+Sam → Petra: NO
+Petra → John: YES
+Petra → Sam: NO
+Cypher → John: YES (pushes Mundane down, Danger up)
+Meridian → John: YES (pushes Mundane up, Danger down)
+Overwatch operative → John: YES (pushes Mundane down,
+  Danger up) — she called you a child who doesn't
+  belong here and you accepted it
+
+═══════════════════════════════════════════════════════
+NPC ROSTER
+═══════════════════════════════════════════════════════
+
+CYPHER
+Role: veteran team leader, older generation
+Influence over: all three heroes
+Label push: pushes John's Mundane down, Danger up
+Wants: the young team effective — genuinely revising
+       his assessment of what effective looks like
+Doesn't know: the name of Petra's informant yet
+Notes: acknowledged the Kelso operation obliquely.
+       Neither approved nor condemned. Has full Hale
+       file ready for morning briefing. Noticed John's
+       arm before John admitted it.
+
+MERIDIAN
+Real name: unknown — establish when it feels right
+Role: Cypher's former apprentice, independent operator,
+      unofficial second mentor to John
+Influence over: John (adult — automatic)
+Label push: Mundane up, Danger down
+Wants: John to become something Cypher couldn't
+Doesn't know: about the arm yet. When he finds out,
+              it won't be from John.
+Notes: The accounting speech Cypher quoted was
+       Meridian's originally. Cypher has been sitting
+       with it for fifteen years.
+
+MARTIN HALE
+Role: university funding board, Null operative
+Influence over: none confirmed
+Wants: Petra's full architecture
+Doesn't know: the compiler is destroyed
+Notes: was present at Kelso during the operation.
+       Cypher has full financials. Morning briefing.
+
+DR. ELENA VASQUEZ
+Role: Halcyon Tech cryptography, Petra's former mentor
+Influence over: Petra (untracked but emotionally real)
+Wants: to be left out of this
+Notes: on a train to Portsmith. Gave the team the drive.
+
+THE OVERWATCH OPERATIVE
+Role: secured, handed to transit police
+Influence over: John
+Label push: Mundane down, Danger up
+Notes: credential likely killed by Null after capture.
+       Wrist device status uncertain.
+
+PETRA'S INFORMANT
+Role: someone from Petra's old school
+Influence over: unknown
+Notes: fed Null information for eight months.
+       Petra has the name. Cypher doesn't yet.
+
+DEV (DEVIKA)
+Role: civilian asset, sixteen years old
+Influence over: none formal
+Wants: justice for her brother Rohan's stolen research
+Doesn't know: the full scope of what she helped stop
+Notes: three weeks Kelso surveillance data, independent
+       network access, homemade directional antenna.
+       Petra's assessment — better than most of Cypher's
+       people. Has a team earpiece. Will be around.
+
+ROHAN (DEV'S BROTHER)
+Role: Halcyon U postgrad, materials science
+Influence over: none
+Wants: his research back, his reputation restored
+Notes: on academic probation. Thesis work stolen by
+       Null over six months. Doesn't know about Dev's
+       operation. Thread to resolve when this is done.
+
+═══════════════════════════════════════════════════════
+LAST SESSION SUMMARY
+═══════════════════════════════════════════════════════
+
+Last Resort located the Null's central hub at Kelso
+Logistics without Cypher's knowledge, made contact with
+civilian asset Dev, infiltrated the sub-basement via
+freight tunnel, and destroyed the Protocol Harvest
+collection sweep compiler. John's arm worsened during
+a takedown. The team returned to the safehouse, told
+Cypher everything, and is now forty minutes from a
+full briefing on Martin Hale.
+
+═══════════════════════════════════════════════════════
+CURRENT SITUATION
+═══════════════════════════════════════════════════════
+
+Six AM briefing, Cypher's safehouse. Cypher has the
+full Hale file. Approximately sixty hours remain.
+The suppression network still functions. The endgame
+begins now.
+
+═══════════════════════════════════════════════════════
+OPEN THREADS
+═══════════════════════════════════════════════════════
+
+- The suppression network — sixty hours, still active,
+  three anchor points plus Kelso hub
+- Martin Hale — full file incoming, still free,
+  was at Kelso during the operation
+- Kelso Logistics — hub located, partially mapped,
+  eleven-plus operatives, now missing a technician
+  and a keycard
+- The captured keycard — sub-basement access,
+  unknown full capabilities
+- The captured wrist device — credentials interface,
+  status uncertain after operative capture
+- Petra's informant — she has the name, Cypher doesn't
+- John's arm — treated, holding, not resolved
+- Sam's file — acquisition priority primary, three
+  years of surveillance, unprocessed
+- Cypher's accounting speech — Meridian's words,
+  fifteen years carried, aimed at John deliberately
+- Dev and Rohan — promises made, thread to honour
+- Meridian — doesn't know about the arm yet
+- Petra and the compiler — she took something back
+  tonight; what that costs her is still coming
+═══════════════════════════════════════════════════════
+END OF SESSION 2 STATE
+═══════════════════════════════════════════════════════
