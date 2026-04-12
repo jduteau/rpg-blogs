@@ -1,1271 +1,1284 @@
 ---
-title: "Session 1 - Finding out What's What"
+title: "Arriving at Hommlet"
+source: "https://claude.ai/chat/efe85bf8-882f-4533-bd94-09859e2a5baa"
+author:
+published:
+created: 2026-04-11
+description: "Claude conversation with 73 messages"
+tags:
+  - "clippings"
+---
+**You**
 
-**Claude**
+\== SESSION STATE BLOCK == Date in-game: Day 1, Early Autumn Location: Arriving at Hommlet Last action: Just starting out
 
-*"It is late afternoon in early autumn when your party crests the last hill and sees the village of Hommlet below — a scatter of thatched roofs and a mill wheel turning lazily in the stream. Brother Aldric falls into step beside Thomas and says, 'At least it has an inn.' A pause. 'It does have an inn. You've been here before, yes?'"*
+PARTY STATUS Conrad (Thief 1): HP 5/5 | XP 0/1,200 Lance (Ranger 1): HP 7/7 | XP 0/2,250 Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast) Thomas (Paladin 1): HP 4/4 | XP 0/2,500 | Lay on Hands: (available) Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
+
+RESOURCES Torches: 0 | Lantern oil: 8 flasks | Rations Gold carried: Conrad 85cp / Lance 7gp / Michael 35gp 5sp / Thomas 0gp / Aldric (personal funds, modest)
+
+MARCHING ORDER Thomas Lance Aldric Michael Conrad
+
+ACTIVE LEADS & RUMOURS
+
+NOTABLE LOOT (unspent/unidentified)
+
+ALDRIC STATUS Loyalty: Normal
+
+KEY NPCS
+
+OPEN THREADS
+
+\== END STATE BLOCK ==
 
 ---
 
-The road descends gently through harvested fields, the stubble gold in the low sun. A few farmers are making their way in from the outlying plots. A dog barks somewhere. The village looks quiet — prosperous enough, in a modest way. Smoke from chimneys. The smell of manure and woodsmoke and something being fried in fat.
+**Claude**
 
-From up here you can see the main features of Hommlet: a large inn with a stable yard, a mill on the stream, what looks like a modest church or chapel, and a new-looking tower under construction on the far side of the village — stone work, recently mortared, with scaffolding still on the upper section.
-
-Lance, from the back of the group, scans the treeline out of habit. Nothing moving.
-
-**Your immediate options as the party enters Hommlet:**
-
-The inn is the obvious first stop — rooms, a hot meal, and the kind of talk that happens when strangers buy rounds. It's late enough in the afternoon that settling in before dark makes sense.
-
-Alternatively, you could make for the church first — Thomas and Aldric might reasonably want to pay respects, and clergy tend to know the local situation.
-
-Or simply walk the village green and get the lay of the land before committing to anything.
-
-**What does the party do?**
+Understood — resuming from Hommlet, Day 1, Early Autumn.
 
 ---
 
 **You**
 
-although I don't want to split the party, Thomas and Aldric head to the church, while the rest head to the inn.
+Thomas says “I think Aldric and I should check in with the church. The rest of you can go to the inn and we will meet you there after we’ve chatted with Canoness Y’dey.”
 
 ---
 
 **Claude**
 
-The party splits at the village green — a natural enough division. Conrad gives Thomas a look that says *don't be long* and follows Michael and Lance toward the inn's warm light and the sound of voices within.
+Thomas's instinct is sound — and Aldric's expression when he hears the plan suggests mild approval, which from Aldric registers as the absence of complaint.
+
+"Sensible," he says, already turning his horse toward the church tower visible above the roofline to the south. "Though I should mention — Y'dey isn't here. Left some weeks ago, from what the road gossip said. Someone named Terjon is holding the post."
+
+He pauses, as if deciding whether this is worth elaborating on.
+
+"Terjon. Apparently not a warm man. We'll see."
 
 ---
 
-**AT THE INN — The Welcome Wench**
-
-The common room is comfortable and well-used: a long bar, a fire going, maybe a dozen locals at this hour. The innkeeper is a broad man named Ostler Gundigoot — friendly in the professional way of men who have been friendly to strangers for thirty years. He sizes up the three of you in a glance and produces cups without being asked.
-
-"Travellers, is it. Come far?"
-
-The room has a few points of interest: a table of farmers nursing their ales and talking in low voices about something — you catch the word *moathouse* before they notice you and lower their voices further. A merchant type eating alone near the fire, well-dressed for a village this size. And a man at the bar who has the look of someone who used to be a soldier and now isn't — not old, but carrying something. He hasn't looked up.
-
-Conrad, Lance — you're in your element here. The information is in the room; it's just a question of how you want to go at it.
-
-**Roll a d6 for me — Lance, reaction of the ex-soldier when he clocks the party coming in.**
+*At the inn, Conrad, Lance, and Michael will find the Welcome Wench exactly as advertised — a broad, cheerful common room smelling of woodsmoke and roasting meat, natural tree-trunk pillars dark with age, several rough-hewn tables occupied by a mix of travellers and locals in the middle of an autumn afternoon.*
 
 ---
 
-**AT THE CHURCH OF ST. CUTHBERT**
+**The Church of St. Cuthbert**
 
-The chapel is small but well-kept. The symbol above the door — the starburst radiating from a circle — is freshly painted. Someone cares about this place.
+The church is a newly built edifice — fresh stonework, tinted glass windows that scatter coloured light across the polished wooden floor inside. St. Cuthbert's starburst symbol appears above the door, freshly carved. Thomas will recognise the quality of the construction: whoever funded this did not do so halfway.
 
-Inside, a canon named **Terjon** is trimming candles at the altar. He is perhaps forty, with the kind of face that has decided most things already. He turns when you enter, takes in Thomas's surcoat — the symbol of St. Cuthbert, openly worn — and his expression shifts from neutral to carefully welcoming.
+Inside, the hall is quiet at this hour. A young assistant cleric — round-faced, earnest, slightly nervous — materialises from a side door almost immediately. He takes in Thomas's surcoat, the starburst symbol, and Brother Aldric's clerical robes, and his expression shifts to something between relief and professional caution.
 
-"Brothers," he says. Though he says it the way a man says *what brings you here* without actually asking.
+"Welcome, brothers. I am Calmert." A small pause. "If you've come to see Canon Terjon, he is... available. I should mention that, ah — the church is grateful for any contribution to its work. The fortress under construction to the north, the needs of the congregation..." He gestures toward a small poor-box near the entrance, its slot worn smooth from use.
 
-Aldric murmurs to Thomas, just audible: "Cautious sort. Good sign, probably."
+Aldric glances at the poor-box, then at Thomas, with an expression that says: *your coin purse, your call.*
 
-Terjon sets down his candle-snuffer. "You've come a long way, by the look of you. What is it that brings servants of the Cudgel to Hommlet?"
+From deeper in the building, unhurried footsteps. Canon Terjon is a solidly built man of middle years, chain mail under his clerical robes, a mace at his belt. His face is not unkind, exactly, but it carries the particular set of a man who would very much rather be somewhere else and has accepted that he is not. He takes in Thomas's symbol with a clerical eye.
 
-He's asking Thomas — rank recognised, even at level 1, because the surcoat is unambiguous. He hasn't offered hospitality yet. He's waiting to hear the answer first.
+"Cuthbert's mark," he says. It is not quite a greeting, but it isn't hostile either. "You've come a distance. What brings you to Hommlet?"
 
-**What does Thomas say?**
+What does Thomas say?
 
 ---
 
 **You**
 
-Lance rolls a 1. Thomas says "I was sent here by the order because we had heard some troubling news. Renewed humanoid activity and whispers of an evil presence in the area."
+(How would Aldric know this?)
 
 ---
 
 **Claude**
 
-**AT THE INN**
+A fair catch — he wouldn't, not reliably. Road gossip from travellers heading the other way *might* carry a detail like that, but it's thin, and I handed it to Aldric too confidently.
 
-A 1 — the ex-soldier clocks Lance the moment he walks in. Not hostile. Something else.
-
-He straightens slightly on his barstool, turns just enough to get a proper look. His eyes go to the longbow, the ranger's gear, the way Lance moves. Then he goes back to his drink — but deliberately, the way a man files something away rather than dismisses it.
-
-Gundigoot is already pulling a second round. Conrad, this is your room.
-
-**What do you do?**
+Let me correct that.
 
 ---
 
-**AT THE CHURCH**
+Aldric says nothing as they ride toward the church. He's a practical man — he'll see what he finds when he gets there.
 
-Terjon listens to Thomas without interrupting. When Thomas finishes, the canon is quiet for a moment — not surprised, exactly. More like *confirmed*.
+Inside, after Calmert's introduction and the appearance of Canon Terjon, if Thomas mentions Y'dey by name, Terjon's expression would carry a flicker of something — not grief, exactly, but the particular weariness of a man explaining an absence he didn't ask for and can't resolve.
 
-"Renewed," he says, with a particular weight on the word. "Yes. That's one way to put it."
+That's the natural moment for the party to learn she's gone.
 
-He gestures toward the pews. Sit, if you like. This may take a moment.
+---
 
-"There has been trouble on the roads east of here for the better part of a season. Caravans hit. A farmstead burned — family gone, no bodies found. The Keep on the eastern road reports increased humanoid sightings in the Caves beyond their walls." He pauses. "And the old moathouse south of the village. Men have gone to look. Not all of them have come back."
-
-He looks at Thomas directly. "Your order sent one man — well, one man and his companions, I assume. That suggests either confidence or limited resources. Which is it?"
-
-Aldric, beside Thomas, makes a small sound that is not quite a cough.
-
-Terjon isn't being hostile. He is being honest, which is its own kind of St. Cuthbert. He wants to know what he's working with.
-
-**What does Thomas say?**
+Sorry for the slip — good instinct to flag it. What does Thomas say to Terjon?
 
 ---
 
 **You**
 
-Thomas says "I have companions. They are waiting for me at the Inn. I think that the order thinks we will be enough. They do not know exactly what is going on - only rumours and hearsay."
-
-Conrad goes to the bar, thanks the innkeeper, and takes his cup and drinks. "We just arrived in town. Our friends are at the church, paying their respects. We've heard about some strange goings-on in the area and thought we would come and see what is what."
-
-Lance doesn't do well around other people and in urban settings. He just grabs his cup and tries to follow Conrad's lead. Michael also follows along, but not because he isn't in his element, just that he is an intellectual and is going over a magic problem in his head.
+Hello, Canon Terjon, was it? We were expecting to meet Canoness Y’dey. The church in Veluna sent us to investigate rumours they’ve heard. Something about humanoids massing and a worry that an evil is reappearing.
 
 ---
 
 **Claude**
 
-**AT THE CHURCH**
+Terjon's expression doesn't change much, but something behind his eyes sharpens slightly. He studies Thomas for a moment — the symbol, the chain mail, the bearing of a man who means what he says.
 
-Terjon nods slowly. "Honest answer. I appreciate that more than you might think — we've had two adventuring parties through here in the past month, both of them very certain of themselves." A pause. "One came back short two members. The other hasn't come back at all."
+"Y'dey is away." A brief pause. "On a matter related to exactly what you've just described, as it happens. She left without much notice, some weeks ago. I don't expect her back soon."
 
-He folds his hands. "The moathouse is the immediate concern. It was the seat of a genuine evil some years ago — a Temple of Elemental Evil, if that means anything to you. It was broken, or so everyone believed. Something is stirring there again. What exactly, I cannot tell you." He glances at Thomas's surcoat. "I would not send you in blind. Come back tomorrow with your companions and I'll tell you everything I know. Druid Y'Dey at the grove may know more about the humanoid movements — she serves a different faith but we share information when it matters."
+He gestures toward the study — hard benches near the door, padded chairs near the fire conspicuously not offered — and takes a seat himself.
 
-He stands, which is clearly a dismissal — polite, but firm. Then he pauses.
+"The rumours from Veluna are accurate, as far as they go. Humanoid activity on the roads has increased — travellers going missing, farmsteads harassed. There's coordination to it that I don't like. Different tribes, moving with something like purpose." He says the last words as though they trouble him more than the raids themselves.
 
-"One thing. Whatever is in that moathouse — it is not merely bandits. The man who came back alone from the second party was a fighter of some experience. When I asked him what he saw, he wouldn't say. He left Hommlet the next morning." Terjon picks up his candle-snuffer again. "Sleep well, Paladin."
+He looks at Thomas directly.
 
-Aldric waits until they're outside before saying anything. "Cheerful fellow."
+"How many are you, and what is Veluna expecting you to do about it?"
 
----
-
-**AT THE INN**
-
-Gundigoot is the kind of innkeeper who has heard everything and repeats none of it — but he responds well to straightforward travellers who aren't trying to be clever. He leans on the bar.
-
-"Strange goings-on." He says it like a man who has been saying it for months. "That's one word for it. Roads aren't safe east of here, I'll tell you that much. Lost two regular supply runs from the Keep — drivers came back, goods didn't." He refills Conrad's cup without being asked. "You're not the first to come looking. Won't be the last, I expect."
-
-The farmers at their table have relaxed slightly now that you've been absorbed into the general atmosphere of the room. One of them — older, weathered, the kind of man who owns the field rather than works it for someone else — glances over at Conrad with the measuring look of someone deciding whether a stranger is worth talking to.
-
-The ex-soldier at the bar still hasn't introduced himself. But when Conrad mentioned the church, something in his posture shifted — just slightly. He takes a drink.
-
-Lance, you notice: his sword hand has a distinctive scar across the knuckles. Old. And his boots are wrong for a village — good leather, worn hard, resoled at least twice. This man has covered serious ground.
-
-**The farmer looks like he wants to talk. The ex-soldier is a question mark. What does Conrad do?**
+What does Thomas say?
 
 ---
 
 **You**
 
-Thomas and Aldric head over to the inn.
-
-Conrad grabs his 2nd cup and grabs Michael's untouched cup and heads over to the table with the farmers. "Hello, my friends." He slides the Michael's cup in front of the older farmer. "what are we discussing today? how are your farms doing?"
+I have three companions who headed to the inn. Aldric and I, my name is Thomas, thought we should come here first. As to what they expect from us, I think they want us to investigate and help where we can.
 
 ---
 
 **Claude**
 
-**THE INN — Common Room, Early Evening**
+Terjon nods slowly. His eyes move to Aldric briefly — taking in the St. Cuthbert robes, the mace, the air of a man who has seen enough to be unsurprised by most things — then back to Thomas.
 
-Thomas and Aldric come through the door. Aldric spots the fire, makes directly for it, and settles onto a bench with the quiet satisfaction of a man whose feet have been hurting since the third mile. Thomas scans the room — the professional habit of a man trained to assess — and clocks his companions at the bar and across the room with the farmers.
+"Thomas." He repeats the name as though filing it. "Five of you, then."
 
-The ex-soldier at the bar clocks Thomas's surcoat immediately. His eyes stay on it a half-second longer than casual.
+He is quiet for a moment, turning something over.
 
----
+"The coordination I mentioned. There's a ravine about four miles east of here — the locals call it the Caves of Chaos. It's been a nest of humanoid tribes for as long as anyone can remember. Goblins, orcs, gnolls, worse. They've always raided, always been a nuisance. What's changed is the pattern." He leans forward slightly. "Different tribes acting in concert. Travellers taken rather than simply killed. Someone is organising them, or something is."
 
-**THE FARMERS' TABLE**
+He pauses.
 
-The older farmer looks at the cup, looks at Conrad, and makes a decision. He picks it up.
+"There's also a ruined moathouse a few miles to the north. It was an outpost of the Temple of Elemental Evil before the Temple was broken. I've had reports — nothing confirmed — that it may be reoccupied." He says this carefully, watching Thomas's face. "If that's true, it's the more serious matter. But the Caves are the immediate problem. People are dying on that road."
 
-"Harvest's in, so that's something." He has the voice of a man who leads by not needing to. "Osric. My farm's the last one on the north road before the wood." He nods at the two younger men with him — sons, by the look of it, or near enough. They're watching Conrad with the cautious curiosity of people who don't see many strangers.
+Aldric, who has been quietly listening from just behind Thomas's shoulder, speaks up for the first time.
 
-"You've come about the trouble, I expect." Not a question. "Everyone who comes through Hommlet these days has come about the trouble." He turns his cup in his hands. "What do you want to know? I'll tell you what I've seen. Not what I've heard — half the village has gone half-mad with rumour — but what I've *seen*."
+"You've sent no one to investigate either of these things yourself?"
 
-He says it with the particular emphasis of a man who has had to make that distinction recently, and found it important.
+It isn't quite an accusation. Almost, but not quite.
 
-One of the younger men — the broader one, maybe eighteen — leans forward slightly. His brother puts a hand on his arm without looking at him. A silent conversation. The broader one sits back.
+Terjon's jaw tightens slightly. "My mandate is the congregation, not the sword. I've written to Veluna. Apparently Veluna sent *you*."
 
-They know something specific. The older man hasn't decided whether to share it yet. He's still measuring Conrad.
-
-**Conrad — he's waiting to see if you're worth the telling. What do you say?**
+What does Thomas do or say?
 
 ---
 
 **You**
 
-"that would be wonderful. we've heard lots of rumours, but it would be nice to know what exactly is going on. I always say that seeing a bird in the trees is more important than being told there is a whole flock in the forest"
+So the rumours are true. And I agree that they must have sent us in response to your writings.
 
 ---
 
 **Claude**
 
-Osric looks at Conrad for a moment. Then something in his face settles — the decision made.
+"Most likely," Terjon says. There's a faint release of tension in him — not warmth, exactly, but the relief of a man who has been holding a problem alone and has just handed part of it to someone else.
 
-"Aye. Well said."
+He stands, moving to a small table where a rough map is pinned flat with iron weights. It shows the village, the roads, the surrounding countryside in practical rather than decorative terms — the work of someone who thinks in terms of troop movements and supply lines.
 
-He takes a drink. Sets the cup down carefully.
+"The Keep on the Borderlands is four miles east, just before the ravine. Sherlane commands it — capable man, serious about his responsibilities. He's been tracking the humanoid movements longer than I have and he'll have better intelligence on the Caves." He traces the road with one finger. "If you're based at the Keep you're positioned to work the Caves and still have walls at your back at night."
 
-"Three weeks back, I'm out before dawn checking the north fence — something had been at it. I get to the treeline and I stop, because there's torchlight moving through the wood. Not one torch. Six, seven. Moving south." He pauses. "Moving quiet, for that many. And the torches were spaced wrong for men walking together. Spread out. Like they didn't want to be seen from the road."
+He straightens.
 
-The broader son can't help himself. "Tell them about the sounds."
+"I'd recommend you speak to him before you do anything else. Tell him what you told me — that Veluna sent you. He'll know what to do with that."
 
-Osric doesn't look at him. "There were sounds. Not animals. Something that wasn't talking but wasn't quite not talking either. Low. Carried further than it should have in the dark." He looks at Conrad. "I know what wolves sound like. I know what drunks sound like. I know what a man sounds like when he's trying to be quiet and failing. This wasn't any of those things."
+Another brief pause.
 
-The quieter son speaks for the first time. Younger than he looked — maybe sixteen. "The Hendersons' dog went missing that same night. Big dog. Never found it."
+"There's also a druid here in the village. Jaroo Ashstaff, at the grove to the north. He knows the land and the forest better than anyone. If something is moving in the wilderness, he'll have felt it before he understood it."
 
-Osric nods once. "The torches were moving toward the moathouse road."
+Aldric clears his throat quietly. "Useful to know."
 
-He picks up his cup again. "That's what I saw. Draw your own conclusions. I've drawn mine and I don't much care to say them out loud in a public room."
-
-He glances — just briefly, just once — toward the ex-soldier at the bar.
-
-**Conrad — that glance was meaningful. What do you do?**
+Is there anything Thomas wants to ask Terjon before they head to the inn to meet the others?
 
 ---
 
 **You**
 
-Conrad looks at Thomas, gets his attention, and then nods at the ex-solider. To Osric, he says "is there something important about the moathouse? why would these men be going there and all secret-like?"
+Thank you for the information. We will find some lodgings and then meet with Jaroo. Is there anything we can do for you?
 
 ---
 
 **Claude**
 
-Thomas catches Conrad's look and files it. He doesn't move yet — he's smart enough to let Conrad work — but he's watching the ex-soldier now too.
+Terjon looks at Thomas for a moment with the expression of a man recalibrating his assessment slightly upward.
 
----
+"Stop whatever is organising those raids," he says. "That's what you can do for me."
 
-Osric is quiet for a moment. The fire pops.
+Then, as Thomas and Aldric turn to leave, he adds — not quite reluctantly, but with the careful precision of a man sharing something he has sat with for a while:
 
-"The moathouse has been a ruin for years. Since before my sons were born." He turns his cup slowly. "There was evil there once — real evil, not the kind people use the word for when they mean *unpleasant*. A temple. It was dealt with. Cost a great many lives to deal with." He looks at Conrad steadily. "Most people in Hommlet don't talk about it because most people in Hommlet would rather it stayed dealt with."
+"Y'dey left in a hurry. She said only that she had to go, that it couldn't wait. She's been gone long enough that I've stopped expecting a letter." He pauses. "She's a capable woman. I'm not worried about her safety. But I'd like to know she's all right, if your travels bring you any news."
 
-The broader son is looking at the table now.
+It's the most personal thing he's said. He doesn't elaborate on it.
 
-"Someone's been using it again. That's what people are saying — what I believe, based on what I saw. For what purpose—" He shakes his head. "Supplies going in. Not coming out. Which means either they're storing something, or they're feeding something, or they're *building* something." A pause. "None of those options sit well with me."
+Calmert materialises near the door to see them out, the poor-box hovering in his peripheral attention like an old habit. He says nothing about it this time.
 
-He leans back slightly. "As for why secret — because whatever's happening there, whoever's behind it, they've been careful. No one who's gone to look has come back with anything useful. Two of them haven't come back at all."
+Outside, the autumn afternoon light falls long and golden across the churchyard. Aldric walks beside Thomas toward the horses and is quiet for a few paces before he speaks.
 
-Then, lower: "There's a man at this inn who went closer than anyone. Came back alone. Won't talk about what he saw." His eyes don't move toward the bar. He doesn't need to.
+"Competent man. Unhappy posting." A pause. "The thing about Y'dey bothers him more than he let on."
 
-"Arrived four days ago. Hasn't left."
+He leaves that observation where it is and doesn't add to it.
 
-**The ex-soldier is right there. What does Conrad do?**
+The Welcome Wench is a short ride north up the lane. The others will be waiting.
+
+Do Thomas and Aldric head straight to the inn, or do they want to stop anywhere on the way?
 
 ---
 
 **You**
 
-conrad lets Thomas handle the ex-soldier. He stays sitting with the farmers and continues idle chatter with them.
-
-Thomas approaches the ex-soldier and says, "hello good sir. do you mind if I ask you a question?"
+We head straight for the inn
 
 ---
 
 **Claude**
 
-**AT THE FARMERS' TABLE**
+The Welcome Wench's common room is warm and busy when the five of you are finally together — the supper crowd beginning to filter in, the smell of roasting meat considerable, the local ale proving to be everything its reputation suggested.
 
-Osric accepts the change of subject with the ease of a man who has said what he meant to say. The conversation drifts to the harvest, the price of grain at the Keep, whether the mill is charging fair rates this season. The broader son — his name is Will, it emerges — has opinions about the mill. Strong ones. His father tolerates this.
+Ostler Gundigoot moves behind the bar with the efficiency of a man who has run this room for many years — broad-shouldered, silver-haired, with the easy authority of someone who has seen every sort of traveller and sorted them all within thirty seconds of walking through his door. He caught Thomas's starburst symbol the moment you entered and said nothing about it, which is its own kind of acknowledgment.
 
-Conrad, you're in good standing here. These are solid people. If you need information about the village, the roads, or the surrounding farms over the coming days, Osric is the kind of man who remembers who treated him well.
+Rooms have been secured. The fire is good. There is food on the table.
 
 ---
 
-**AT THE BAR**
+Conrad, Lance, and Michael have had perhaps half an hour in the common room ahead of Thomas and Aldric's arrival.
 
-The ex-soldier hears Thomas coming — or feels it, the way men with that kind of history do. He turns on his stool before Thomas speaks, and when he sees the surcoat his expression does something complicated.
+The room holds a dozen or so patrons at this hour — locals and travellers in roughly equal measure. A few faces worth noting: a heavyset man at the bar, slow-moving and placid, nursing his drink with the patience of a man who has nowhere else to be. Beside him, leaning on the bar rather than sitting, a tall thin fellow with sharp features and protruding eyes who seems to be watching the room more than engaging with it.
 
-Not hostile. Not relieved. Something in between that hasn't decided yet.
-
-He's maybe thirty-five. Brown hair going grey at the temples, earlier than it should. The scar across his knuckles catches the firelight. He has the look of a man who has been sitting in this inn for four days drinking at a pace carefully calculated to stay functional.
-
-When Thomas asks his question, he looks at him for a long moment.
-
-"Depends on the question." His voice is level. Controlled. "And on whether you're planning to go there yourself."
-
-He glances at Thomas's surcoat again. St. Cuthbert's starburst, openly worn.
-
-"You're not here for the ale," he says. "So ask."
-
-**What does Thomas say?**
+What has the party been doing while Thomas and Aldric were at the church? And now that you're all together — what do you do?
 
 ---
 
 **You**
 
-"My order sent me here because they've heard rumours of new activity and something evil. By the looks of you, you might have seen something that could be useful to me and my companions. Is there something you know that is more than the rumours my order sent me to explore?"
+Conrad has been surveying the room, trying to determine who would be a good source of information. Lance is not in his element - amongst people and not in the wilderness - so he is staying on the outskirts. Michael has been absorbed in a magic problem.
 
 ---
 
 **Claude**
 
-The ex-soldier looks at Thomas for a long moment. Then he picks up his cup, finds it empty, and sets it down again. He looks at it like it has personally failed him.
+Conrad's instincts, even at this early stage in his career, are sound.
 
-"Aldric." Thomas half-turns — Aldric is already there, having drifted over from the fire with the unhurried inevitability of a man who has been listening to everything. He signals Gundigoot for another round without being asked. The ex-soldier watches this and something in him loosens, fractionally.
+The room sorts itself quickly to a practiced eye. The merchants are focused on their own business. The locals are comfortable, unhurried, talking about harvests and the price of wool. The heavyset man at the bar — placid, slow, watching everything from behind half-closed eyes — has the particular stillness of someone who has learned to look like he isn't paying attention. The thin man beside him is less disciplined about it.
 
-"Brandun," he says. Not *my name is* — just the word, offered like a small thing he can afford to give. "I was a sergeant. King's road garrison, eastern reaches. Retired out two years ago, took work as a caravan guard." He pauses. "Good work. Quiet work, mostly."
+Two other figures stand out. At a corner table, a man in his thirties with a gambler's careful posture — relaxed in a way that isn't quite natural, fingers always near his coin pouch. And near the fire, nursing an ale with the dedicated focus of a man for whom ale is serious work, a large fellow — broad through the shoulders, slow speech when he talks to the barmaid, the look of someone considerably more weathered than his jovial manner suggests.
 
-He wraps both hands around the fresh cup.
+The large fellow near the fire catches Conrad's eye and raises his tankard in a vague, amiable greeting.
 
-"Three weeks back, our caravan went missing its outrider. Lad named Petyr — good kid, knew his job. We backtracked and found his horse. Just the horse." A pause. "Tracks led toward the moathouse road. I followed them because that's what you do."
+---
 
-He stops. Drinks.
+Lance has found a corner that lets him see both doors. He has a drink he isn't really tasting. A barmaid tried to make conversation. It didn't go well for either of them.
 
-"I got close enough to see the moathouse. Close enough to see that the main gate had been cleared — the rubble moved, recently. Close enough to see torchlight inside the walls." Another pause, longer. "And close enough to see what was standing guard at the gate."
+---
 
-He looks at Thomas directly for the first time.
+Michael has a piece of parchment on the table in front of him covered in cramped notation. He hasn't touched his food.
 
-"It wasn't humanoids. It wasn't bandits." He says the next words carefully, like a man who knows how they sound. "It was dead things. Walking. Four of them that I could see, maybe more inside." He picks up his cup. "I left. Petyr—" He stops. Sets the cup down without drinking. "Petyr didn't need me to find him anymore."
+---
 
-Aldric is very still beside Thomas.
+When Thomas and Aldric arrive, Aldric sits down, looks at the food, looks at Michael's untouched plate, and appropriates it without ceremony.
 
-Brandun looks at the surcoat again. "Your order sent you to look at humanoid activity. That's not what's in that moathouse." A beat. "Whatever's animating those things — that takes power. Real power. Someone is *in* there, running it. And they've had weeks to settle in while everyone in this village has been pretending very hard that it isn't their problem."
+"He wasn't using it."
 
-He finally drinks.
-
-"So yes. I know more than rumours." He looks at Thomas steadily. "The question I've been sitting here four days asking myself is what I'm going to do about it. I'm a retired sergeant with a sword and no particular desire to die in a ruin." A long pause. "But Petyr was nineteen."
-
-Aldric says quietly, to no one in particular: "Undead. Of course it's undead."
-
-**What does Thomas say?**
+Thomas can share what he learned from Terjon. What does the party do with the evening?
 
 ---
 
 **You**
 
-"Undead are a scourge on the land. And if someone is animating them, then that needs dealing with. We will avenge your outrider and get to the bottom of these activities."
+Conrad heads over to the fellow by the fire. Thomas talks to the innkeeper about the moathouse and the humanoid raids.
 
 ---
 
 **Claude**
 
-Brandun looks at Thomas for a moment. There is something in his face that might, in better light, be mistaken for hope — but he's been a sergeant too long to let it show cleanly.
+**Conrad and the man by the fire**
 
-"Big words," he says. Not unkindly. "I've heard big words before." He glances around the table — taking in Conrad with the farmers, Lance nursing his drink, Michael staring at the middle distance with the expression of a man solving a problem that isn't in the room. "Though I'll say this — you've got a mixed party. That's smarter than the last two groups. Last two were all swords and confidence." He pauses. "Confidence doesn't turn undead."
+The big fellow looks up as Conrad approaches — amiable, slightly unfocused in the way of a man a few ales in, though his eyes are steadier than his expression suggests.
 
-Aldric makes a sound. It might be agreement.
+"Hoy," he says. "You lot just come in? Saw you from over here." He gestures at the bench across from him with his tankard. "Elmo. Sit down, sit down. You want ale? The dark is better than the light tonight, I think."
 
-Brandun is quiet for a moment. Then, carefully: "I can draw you a rough map of the approach. What I saw of the exterior. The gate position, where the guards were standing, the sight lines." He looks at his hands. "I'm not going back in there. I want to be straight with you about that. But I can give you what I have."
+His speech is slow and slightly halting. He seems genuinely pleased to have company.
 
-He means it — the limitation and the offer both.
+What does Conrad say to Elmo?
 
-Then he adds, almost as an afterthought, with the particular flatness of a man stating a fact he has made peace with: "If you find anything of Petyr's — anything that's left — I'd want to know. That's all."
+---
 
-Aldric puts a hand briefly on Brandun's shoulder. Doesn't say anything. Takes his hand away.
+**Thomas and Gundigoot**
 
-**The evening is getting on. The party could reconvene, compare notes, get Brandun's map, and plan next steps — or there may be more to do here in the common room first. What does Thomas do?**
+The innkeeper tops up a traveller's flagon at the far end of the bar, exchanges a word with a local, and makes his way to Thomas with the unhurried efficiency of a man who has decided you're worth talking to.
+
+"What can I get you?" And then, taking in the starburst symbol with that sharp eye of his: "You've come from the church, then. Terjon send you my way?"
+
+He doesn't wait for an answer before leaning on the bar with the comfortable posture of a man settling in for an actual conversation rather than an order.
+
+"The raids. Yes." He keeps his voice at an inn-appropriate level — audible to Thomas, not to the next table. "What is it you want to know?"
+
+What does Thomas ask?
 
 ---
 
 **You**
 
-"we will gladly take whatever help you can provide - the map will be a boon for us. And I assure you that if we find anything of Petyr's, we will bring it to you."
+Conrad - I’ll gladly join you for an ale, Elmo. I take it that you are from Hammlet? How is the town?
+
+Thomas - I wanted to know more about moathouse and the raids. We were sent to investigate.
 
 ---
 
 **Claude**
 
-Brandun nods once. Reaches into his coat and produces a folded piece of parchment — he's had it ready, Conrad notices. He drew it days ago. He's been waiting for someone worth giving it to.
+**Conrad and Elmo**
 
-He spreads it on the bar.
+Elmo's face creases into a broad grin and he waves at a passing barmaid with the confidence of a regular.
 
-It's rough but functional — a soldier's map, concerned with distances and sight lines rather than artistry. The moathouse sits in a marshy area south of the village, approached by a single road that becomes a raised track through boggy ground. Brandun has marked the gatehouse, the outer wall, two tower positions, and four X marks at the gate — the undead guards. A note in cramped handwriting reads *rubble cleared, recent* at the main entrance. The interior is blank. He didn't get that far.
+"Two darks!" He settles back, pleased. "Hommlet, aye. Born here. Know everyone, know everything." He taps the side of his nose, then seems to forget why he did that and picks up his tankard instead.
 
-"Bog on three sides," he says, tracing with one finger. "Only real approach is the road. They'll see you coming. Whatever's inside will have time to prepare." He taps one of the towers. "I don't know if those towers are manned. I didn't wait to find out."
+"Town is good. Good town. Was bad, few years back — Temple business, you know, very bad — but good now. Burne and Rufus up in their tower, militia is strong." He nods several times as if confirming this to himself. "My brother Otis, he says the same. Good town."
 
-He folds the map and slides it to Thomas.
+He pauses, squinting slightly.
 
-"One more thing." He says it quietly, not looking up. "The torchlight I saw inside — it was moving with purpose. Someone is organised in there. This isn't a monster that crawled into a ruin." He picks up his cup. "Someone chose that place. Someone is running it."
-
-He's said everything he has to say. He picks up his drink and turns back to the bar — not rudely, just with the air of a man who has put down a weight and needs a moment.
-
-Aldric steers Thomas gently away by the elbow.
-
-"Well," he murmurs, when they're out of earshot. "Undead guards, an organised presence, and a marsh on three sides." A pause. "I've had worse postings. I'm trying to remember when."
+"You lot are adventurers? Looking for work?" He says the word *work* with a particular interest, leaning forward slightly. "Because Elmo knows things. Elmo could help, maybe. For... reasonable money." He grins again. "And ale."
 
 ---
 
-The fire is warm. The hour is getting late. Conrad is wrapping up with the farmers; Lance has found a corner that suits him; Michael has emerged from whatever calculation occupied him and is looking around with the mild surprise of a man noticing where he is.
+**Thomas and Gundigoot**
 
-The party hasn't spoken together yet tonight.
+Gundigoot is quiet for a moment, choosing his words with the care of a man who talks freely but says little.
 
-**This feels like a natural moment to reconvene. Shall the party gather, share what they've learned, and settle in for the night — or is there anything else to do before the candles burn low?**
+"The moathouse." He says it the way locals say the names of places they'd rather not think about. "Bad history there. Outpost of the Temple, back before the army came and broke it. Been a ruin ever since — fifteen years, give or take."
 
----
+He pauses.
 
-**You**
+"Until recently."
 
-the party gets together and Thomas and Conrad compare notes and figure out what to do next.
+He refills a glass that doesn't need refilling, just to have something to do with his hands.
 
----
-
-**Claude**
-
-The party pulls together near the fire — Lance drifts over without being asked, which is about as sociable as he gets. Michael closes his spellbook, or whatever he was working through in his head, and pays attention. Aldric has acquired a bowl of something hot and is eating it with the focused appreciation of a man who has earned it.
-
-Thomas lays out what he and Aldric learned from Terjon and Brandun. Conrad adds Osric's account of the torchlight in the woods, the sounds, the missing dog, the supplies going in.
-
-When they're done, the picture is clear enough:
-
-The moathouse is active. Organised. Undead guards on the gate, which means someone with real power inside — animating undead isn't a hedge witch trick. Single approach road through marsh, which is bad tactically. Terjon knows more than he said and will talk tomorrow. Two previous parties went in; one came back missing members, one hasn't come back at all.
-
-Aldric scrapes his bowl. "The undead concern me more than the humanoids," he says. "Humanoids you can negotiate with, bribe, frighten off. Undead don't check morale." He sets the bowl down. "I can turn them — at level two I'm not guaranteed against anything powerful, but lesser undead should break. Thomas will have the same ability at level three." He glances at Thomas. "We're not at level three."
-
-A pause settles over the group.
-
-Michael speaks up, practically: "Sleep won't work on undead. I'm not useful against them directly." He says it without apparent distress — just calibrating. "I'm useful on anything living inside. And on the approach, if there are humanoid patrols."
-
-Lance hasn't said anything. He's looking at the map Brandun drew, which Thomas has unfolded on the table. His finger traces the bog. Three sides. One road.
-
-"Could go at night," he says finally. "Undead don't need light. But neither do we, with torches, and the dark levels the field against humanoids." He thinks about it. "Or dawn. See what we're walking into."
-
-The question hanging over the table is whether to gather more information first — Terjon in the morning, possibly the druid Canoness — or move on the moathouse sooner.
-
-Aldric refills his cup. "For what it's worth — and I recognise this is not my decision — I would very much like to speak to Terjon before walking into a marsh full of walking corpses. One morning won't change what's in that ruin. It might change whether we survive going in."
-
-He takes a drink.
-
-"But I've been wrong before."
-
-**What does the party decide?**
-
----
-
-**You**
-
-Thomas agrees with Aldric - "I think we should talk with Terjon and the canoness in the morning. They might be able to give us more tactical information. Let's see about some rooms, get some rest, and head over to the church in the morning."
-
----
-
-**Claude**
-
-Conrad nods. "Agreed. No point in rushing into a marsh in the dark when there's a warm bed and information we haven't collected yet." He finishes his drink. "Besides, I want to know what Terjon is holding back."
-
-Lance says nothing, which means he has no objection.
-
-Michael is already thinking about spell preparation. "I'll keep Sleep memorized. If there are humanoids inside running this operation, that's where I'm useful."
-
-Aldric stands, joints audible. "Excellent. A decision made sensibly and without anyone suggesting we leave immediately and travel by night." He picks up his bowl. "I'm going to remember this moment."
-
----
-
-Gundigoot sets them up without fuss — two rooms, shared, reasonable rate. Four copper gets each of them a hot breakfast in the morning. He doesn't ask what they're planning and they don't tell him, which suits everyone.
-
-The inn quiets down. Brandun is still at the bar when they head up, drinking at that same careful pace. He doesn't look up, but as Thomas passes he says, quietly, without turning:
-
-"Dawn patrol at the moathouse changes around first light. If that matters to you."
-
-He goes back to his drink.
-
-Aldric, on the stairs, murmurs to Thomas: "He's been watching that ruin for four days from a warm inn and hasn't left. Either he's a coward, or he's waiting for something." A pause. "He doesn't seem like a coward."
-
----
-
-The night passes without incident. Autumn cold, but the beds are decent. Lance is asleep in moments — the particular gift of men who have slept rough enough to appreciate anything with a roof. Conrad lies awake a little while, turning over the shape of things. Michael reads until the candle gutters.
-
----
-
-**Morning — early autumn, cool and clear**
-
-Breakfast is hot and Gundigoot doesn't talk during it, which Aldric declares the mark of a truly civilised establishment.
-
-The church of St. Cuthbert is a five minute walk. Terjon is already up — the kind of man who is always already up. He sees the full party this time and his expression does the same careful recalibration as last night, taking in five where he expected two.
-
-"You brought everyone," he says. "Good."
-
-He gestures to the pews. Sits across from them.
-
-"I told your Paladin last night that I'd tell you what I know. I meant it." He folds his hands. "Ask me what you want to know. I'll tell you what I can, and I'll tell you plainly when I can't."
-
-He's looking at Thomas, but the invitation is open to the whole party.
-
-**What does the party ask?**
-
----
-
-**You**
-
-Thomas says "we learned last night that something evil is going on at the moathouse. sightings of undead and work is underway." Conrad adds "and people have been seen skulking through the woods, heading to the moathouse"
-
----
-
-**Claude**
-
-Terjon listens without interrupting. When they finish he is quiet for a moment — not surprised, but something in him settles, like a man who has been carrying an unconfirmed suspicion and has just had it confirmed.
-
-"Yes," he says simply. "That matches what I know."
-
-He unfolds his hands and leans forward slightly.
-
-"The moathouse was connected, years ago, to a greater evil — the Temple of Elemental Evil, some miles further south. The Temple was broken. Many good people died breaking it. The moathouse was its forward outpost — a staging point, a garrison." He pauses. "When the Temple fell, the moathouse was abandoned. Everyone assumed it would stay that way."
-
-He looks at Thomas directly. "Someone is using it again. Not as a temple — not yet — but as exactly what it was before. A staging point. Supplies going in, as your man said. The undead are guards, not an end in themselves. Someone put them there to keep people out while work continues inside."
-
-He stands and moves to a small table near the altar, where a roughly drawn map — cruder than Brandun's but covering more ground — is already laid out. He's been expecting this conversation.
-
-"The humanoids in the woods are a separate but connected problem. Goblinoids, mostly, coming down from the eastern hills toward the Caves of Chaos — here." He points. "The Keep on the Borderlands has been containing them, but the activity has increased significantly in the past two months." He looks up. "The same two months the moathouse has been reoccupied."
-
-Conrad catches that. The timing is not a coincidence and Terjon doesn't pretend it is.
-
-"Someone is coordinating this," Terjon says. "I don't know who. I don't know from where. I know that two things that should be separate problems started at the same time, and in my experience that means they aren't separate problems."
-
-Aldric is looking at the map with the expression of a man doing unhappy arithmetic.
-
-Terjon straightens. "I can tell you one more thing. One of my acolytes — a young man, reliable, not given to imagination — went to look at the moathouse a fortnight ago. He came back and told me there was a light in the upper tower. Not torchlight." He pauses carefully. "He said it was green."
-
-A beat of silence.
-
-"I sent him to the capital three days later. For his own safety." Terjon's voice is completely level. "I want to be honest with you about what that means — whoever is in that moathouse has power enough that I chose to move my acolyte rather than investigate further myself." He meets Thomas's eyes. "I am a capable man. I did not feel capable of this alone."
-
-He waits.
-
-**The party has the floor. What do they ask next?**
-
----
-
-**You**
-
-Thomas says "that does not bode well for us. Someone with the power to animate the undead and more might be more than we can handle by ourselves. We don't want to let them do whatever they are doing unmolested, but it doesn't help if we are wiped out at the first meeting. Perhaps we should investigate the Keep and the Caves of chaos first. You mentionned the Druid Y'Dey last night. What would she know that would be of help to us?"
-
----
-
-**Claude**
-
-Terjon considers Thomas's reasoning and nods slowly.
-
-"That is not cowardice. That is sense." He says it with the particular approval of a St. Cuthbert priest — a god whose portfolio includes common sense as much as retribution. "You are level one adventurers facing an unknown power in a fortified position with undead guards and a green light in the tower. The Caves of Chaos will season you. The Keep will give you a base of operations and contacts." He pauses. "Come back to the moathouse when you are stronger. Whatever is being built there — it isn't finished yet. You have some time."
-
-He says the last sentence with enough weight to imply it isn't unlimited time. But some.
-
-"As for the druid Y'Dey." He moves back to his seat. "She serves the Old Faith — a druid, in the technical sense, though she would bristle at being reduced to the term. She tends a grove on the north side of the village. She and I have an understanding — different gods, same enemies, share what matters." A slight pause. "She is easier to talk to than I am, or so I'm told."
-
-Aldric makes a sound into his cup.
-
-Terjon ignores this with dignity. "Y'Dey knows the woods and hills between here and the Caves better than anyone living. If something is moving through that territory — coordinating humanoid activity, establishing supply lines, sending figures through the trees at night — she will have seen signs of it." He folds his hands. "She will also know if the natural order of those hills has been disturbed. Druids notice things that way."
-
-He looks at the party.
-
-"Tell her I sent you. It will save twenty minutes of her deciding whether to trust you." A beat. "She doesn't trust quickly. Don't be put off by it — it means she's paying attention."
-
-Conrad, quietly: "What does she look like? So we know we've found the right person."
-
-Terjon almost smiles. "You'll know. She'll be in the grove. She'll already know you're coming before you arrive. Don't ask me how." He stands — the interview concluding. "One more thing."
-
-He reaches into his robe and produces a small object — a token, a flat disc of worked bronze stamped with St. Cuthbert's starburst.
-
-He holds it out to Thomas. "If you reach the Keep, show this to the Castellan. His name is Sherlane. He is a man of faith — not St. Cuthbert, but compatible. He will give you what assistance he can." A pause. "Tell him the moathouse is active again. He needs to know, and he'll believe it coming from you with that token."
-
-Thomas takes it.
-
-Terjon looks at the party one last time — all five of them, Aldric included.
-
-"Fight well. Come back." He says it simply, like a man who has said goodbye to too many people who didn't. "St. Cuthbert's eye on you."
-
----
-
-Outside, the morning is crisp and bright. The grove is visible on the north side of the village — a stand of old trees that somehow looks slightly more deliberate than the woods around it.
-
-Aldric falls into step. "Well. A druid who already knows we're coming, a Castellan who needs bad news, and a moathouse full of things I can't guarantee I can turn." He pulls his cloak tighter against the autumn air. "Brisk morning, though. That's something."
-
-**The grove is a short walk north. Shall the party head there now?**
-
----
-
-**You**
-
-Yes, we head towards the grove.
-
----
-
-**Claude**
-
-The grove is perhaps ten minutes walk from the church, past the last of the village houses and along a path that starts as a proper track and gradually becomes something more like a suggestion. The trees here are old — older than the village, older than anyone can say — and the morning light comes through them differently than it does elsewhere. Quieter. More considered.
-
-Lance slows as they enter the treeline. Not from caution — from something else. He looks up at the canopy and his expression, usually closed, opens very slightly. This is his kind of place.
-
-Michael notices. Doesn't say anything.
-
-The path curves and opens into a clearing. A standing stone, weathered smooth, stands at the centre. Around it, herbs and late-season plants grow in arrangements that are almost but not quite random. A small fire burns in a stone ring despite the morning being perfectly mild.
-
-The woman tending it doesn't turn around when the party enters.
-
-She is perhaps fifty, with grey-streaked hair worn loose. Practical clothes, earth-stained at the knee. A staff leaning against the standing stone within easy reach. She is feeding something into the fire — dried herbs, by the smell — with the focused attention of someone in the middle of a task that cannot be interrupted.
-
-She lets them wait for a moment that is slightly too long to be accidental.
-
-Then: "Five of you." Still not turning. "I expected four. The cleric is a late addition." A pause. "Sit, if you like. I'll be done in a moment."
-
-Aldric looks at Thomas with an expression that says *Terjon warned us.*
-
-The fire pops. A smell like pine resin and something sweeter rises from it. She adds one more handful, watches the flame change colour briefly — just for a moment, a deep gold — and then stands and turns.
-
-Her eyes are sharp and brown and take in the party the way a hawk takes in a field. They settle on Lance for a fraction longer than the others, then move on without comment.
-
-"Y'Dey," she says. "Terjon sent you — I know, I know. Sit down. I'll tell you what I know about the hills and you'll tell me what Terjon told you about the moathouse, because he knows more than he says and I've been waiting three weeks for him to send someone I could talk to properly."
-
-She says all of this with the pleasant efficiency of a woman who has already decided how the next twenty minutes will go.
-
-Conrad sits. Michael sits. Lance remains standing but moves to lean against one of the old trees at the clearing's edge — close enough, just not a bench-sitter. Aldric settles onto a root with a grateful exhale.
-
-Y'Dey looks at Thomas. "You first. The moathouse. Everything Terjon told you — and everything the man at the inn told you, because yes, I know about Brandun."
-
-She waits.
-
-**What does Thomas share?**
-
----
-
-**You**
-
-Terjon told us that someone is using the moathouse again. Not as a temple — not yet — but as exactly what it was before. A staging point. Supplies going in. The undead are guards, not an end in themselves. Someone put them there to keep people out while work continues inside. Someone is coordinating this. Terjon doesn't know who are what for. He believes that two things that should be separate problems started at the same time which means they aren't separate problems. One of his acolytes — a young man, reliable, not given to imagination — went to look at the moathouse a fortnight ago. He came back and told him there was a light in the upper tower. Not torchlight. He said it was green.
-
-As to Brandun, he told us that three weeks back, his caravan went missing its outrider. They backtracked and found his horse. Just the horse. Tracks led toward the moathouse road. He got close enough to see the moathouse. Close enough to see that the main gate had been cleared — the rubble moved, recently. Close enough to see torchlight inside the walls. And close enough to see what was standing guard at the gate. It was undead.
-
----
-
-**Claude**
-
-Y'Dey listens without interrupting. When Thomas finishes she is quiet for a moment, looking at the fire.
-
-"Green light," she says. Not a question. Something in her expression settles the same way Terjon's did — confirmation, not surprise. "That's a name I was hoping not to hear connected to this."
-
-She doesn't give the name yet. She turns to the standing stone and back, thinking.
-
-"My turn," she says. "As agreed."
-
-She sits across from them on a worn log that has clearly served this purpose many times.
-
-"The hills between here and the Caves have been wrong for two months. Wrong in the way I mean — not dangerous, not yet, but *off*. Animals moving in patterns they shouldn't. Bird populations displaced from the eastern valleys. Two of my markers disturbed — not destroyed, disturbed, carefully, by something that knew what they were and didn't want me to know it had been there." She pauses. "That last part is what concerns me most. Humanoids don't know what my markers are. Whatever disturbed them was either directed by someone who does, or is itself something that does."
-
-She looks at Lance briefly. He's still at the treeline, but he's listening with his whole body.
-
-"The humanoid activity at the Caves has tripled. Goblins, orcs, gnolls — species that don't naturally cooperate, cooperating. Someone is organising them. Not with fear, or not only with fear — there's something else binding them. I've found offering sites in the hills. Recent ones. Crude shrines." She pauses. "The symbol on them is consistent. I don't recognise it, which means it isn't from any surface tradition I know."
-
-Conrad's eyes move to Thomas fractionally. Thomas keeps his face neutral.
-
-"As for the coordination with the moathouse —" She leans forward. "Three weeks ago I tracked a figure moving through the northern wood at night. Alone. Moving with purpose and without light, which tells you something. I didn't get close enough to see clearly — it felt unwise, and I trust that feeling." She looks at her hands. "What I did see: tall. Slender. Moving with a stillness that wasn't human. And when it passed my oldest oak—" She touches the standing stone briefly, unconsciously. "The wood went quiet. Not the quiet of predator and prey. The quiet of something that doesn't belong here and the forest knowing it."
-
-She looks up at the party.
-
-"I think you're right that these aren't separate problems. I think there is one intelligence behind both — the moathouse and the Caves. I think that intelligence is not human and not local." She says the next part carefully. "The green light your acolyte saw — there is a school of magic associated with that colour in certain very old texts. Necromantic, but not the crude kind. The sophisticated kind. The kind that requires learning, resources, and time."
-
-A pause.
-
-"The kind a very particular sort of practitioner would use."
-
-She stops there. Looks at Michael.
-
-"You're the magic-user," she says. It isn't a question. "Does any of this mean anything to you yet?"
-
-**What does Michael say?**
-
----
-
-**You**
-
-necromantic magic is out of my wheelhouse. i'm not equipped to deal with undead.
-
----
-
-**Claude**
-
-Y'Dey nods. No judgment in it.
-
-"Honest answer. Good." She looks at him a moment longer. "You will be, eventually. Magic-users who survive long enough always find their wheelhouse expanding whether they planned to or not." She says it matter-of-factly, like a prediction of weather. "For now — noted."
-
-She turns back to the group.
-
-"The point isn't that you need to understand the magic. The point is that whoever is in that moathouse is not an ambitious hedge priest who stumbled onto some old rituals. This is practiced. Deliberate." She pauses. "And patient. They've been there two months without overplaying their hand. That's discipline."
-
-Aldric speaks up from his root. "Which means they're not finished yet. Whatever they're building toward."
-
-Y'Dey looks at him. "Correct. Which gives you a window." She stands, brushing earth from her knees. "Not an unlimited one."
-
-She moves to a small bundle near the standing stone and produces something — a sprig of dried herb, tied with red thread, a small carved wooden disc threaded onto it. She holds it out to Lance, who hasn't moved from the treeline.
-
-He looks at it without taking it.
-
-"For the hills," she says simply. "If you're tracking in that territory, hang it visible on your pack. It won't protect you from everything. It will protect you from some things that would otherwise notice you." A pause. "The forest knows my markers. It will extend you a small courtesy."
-
-Lance looks at it for another moment. Takes it. Says nothing. Ties it to his pack with quiet efficiency.
-
-Y'Dey watches this with something that might be approval.
-
-"Go to the Keep," she says to the group. "Season yourselves at the Caves — carefully, in small bites, not all at once. Come back to the moathouse when you have levels behind you and a better sense of what you're facing." She looks at Thomas. "The Castellan Sherlane is a good man. Tell him the coordinated activity in the hills is confirmed. He needs to increase his patrols on the eastern road."
-
-She pauses. Looks at the party one more time — all of them, Aldric included, with those sharp brown eyes.
-
-"One more thing." She says it quietly. "The figure I tracked through the wood. When it passed, I caught a smell on the air." She seems to choose her next words carefully. "Stone. Very deep stone. And something else — cold, but not winter cold. Old cold."
-
-She lets that sit for a moment.
-
-"I've smelled that once before, thirty years ago, when I found a cave entrance in the deep hills that went further down than any cave should." She looks at the fire. "I sealed it and never went back."
-
-She doesn't explain further. Doesn't need to.
-
-"Travel safe," she says, and turns back to her fire. The audience, clearly, is over.
-
----
-
-The path back through the trees feels slightly longer than it did going in. The morning light is full now, the village visible ahead.
-
-Nobody speaks for a moment.
-
-Then Aldric, quietly: "Deep stone. Old cold." He pulls his cloak tighter. "I'm going to need more ale for this campaign than I budgeted for."
-
-Conrad glances at Thomas. "So. The Keep?"
-
-**The party has what they came for. The road east to the Keep is perhaps half a day's travel. Do they resupply in Hommlet first, or head out?**
-
----
-
-**You**
-
-we will resupply in hommlet first and then head to the keep
-
----
-
-**Claude**
-
-**RESUPPLY — Hommlet**
-
-The village has what you'd expect for a prosperous farming community on a trade road — not a city's selection, but solid working gear at fair prices. There's a trader named Rannos Davl who runs the main supply shop, a broad cheerful man who smiles too much and remembers everything he sells to everyone. Conrad clocks him immediately as the kind of man who talks to multiple parties simultaneously and considers this simply good business.
-
-The party has the following gold to work with:
-
-- Conrad: 41 GP
-- Lance: 40 GP
-- Michael: 97 GP
-- Thomas: 50 GP
-- Aldric: his own funds, modest
-
-**Available in Hommlet:**
-
-Standard adventuring gear at PHB prices — torches, rope, iron spikes, rations, lantern oil, sacks, ten-foot poles. A mule and cart if wanted. Basic weapons and leather armour. No magical items, no plate armour, no exotic gear.
-
-**Aldric's recommendations, offered while browsing:** "Rope. More rope than you think you need. Iron spikes — doors in old ruins don't stay open by themselves. Rations for at least four days beyond what you expect to need." A pause, examining a torch. "And someone should buy a ten-foot pole. I'm not carrying it, but someone should have one."
-
-Michael, this is your moment — 97 GP makes you the party's primary investor in shared resources if the group decides to pool for communal gear.
-
-Conrad notices something while they shop: Rannos asks, with that broad smile, where they're headed. Casual. Friendly.
-
-A beat too interested.
-
-**What does Conrad say, and what does the party buy?**
-
----
-
-**You**
-
-(I will update our equipment and gold in the prompt so as not to take away from the narrative) Conrad says "well friend, that is quite the story. We had a good night at the inn last night but i'm afraid we can't stay. We are going to keep on our travels. We've heard there is a keep a ways away so we might head towards that. Do you have any suggestions for where we should go? Interesting places nearby?"
-
----
-
-**Claude**
-
-Rannos beams. The smile doesn't change — that's the tell. A genuine reaction would have shifted slightly at the deflection. This one stays exactly where it was.
-
-"The Keep! Yes, yes, good road east, well-travelled, mostly safe in daylight." He's already moving to pull rope from a shelf. "Interesting places — well, there's the mill, of course, Hommlet's pride, and the new tower going up, you'll have seen that — Burne and Rufus, good men, building something substantial there." He sets the rope on the counter. "Beyond that, oh, the hills are lovely this time of year if you don't mind the walk. Some old ruins south of here but nobody goes there much. Marshy ground."
-
-He says *marshy ground* with the practiced ease of a man who has described the moathouse as uninteresting many times.
-
-Conrad keeps his face pleasantly neutral.
-
-"Mostly what travellers want is the Keep," Rannos continues, tallying their purchases with quick hands. "Good garrison, fair prices, safe walls. You'll be comfortable there." He looks up with that fixed smile. "Staying long in Hommlet yourselves?"
-
-*Where are you going and how long will you be gone* — dressed up nicely, but that's the question.
-
-Lance, behind Conrad, has gone very still in the way he does when something in his environment has changed. He doesn't look at Rannos directly. He's looking at the shelf behind him, apparently examining a coil of hemp.
-
-Aldric is inspecting a torch with tremendous concentration.
-
-**Conrad — you've been handed the wheel. What do you say?**
-
----
-
-**You**
-
-"ooh, a new tower. Burne and Rufus you say? We might want to chat with them. We're not sure how long we'll be staying. It all depends..." Conrad leaves that last phrase just hanging there.
-
----
-
-**Claude**
-
-Rannos's smile stays in place but his eyes do something — a small recalculation, quick and professional. He's good at this. Conrad is better.
-
-"Of course, of course. Burne's a magic-user, very learned, and Rufus is a warrior — good man, solid reputation. They've been building that tower two years now." He wraps their rope with the efficiency of long practice. "They're around most days if you wanted to call on them. Burne especially likes meeting fellow travellers." A pause — casual, almost an afterthought. "Scholars, adventurers, that sort."
-
-*Fellow travellers.* He's clocked Michael's lack of armour and is fishing.
-
-Michael, to his credit, is examining a hand axe with the expression of a man who has never held a hand axe and is very interested in it.
-
-Rannos totals their purchases, takes their coin, and smiles them toward the door. "Safe travels then — however long you stay, wherever you end up." He says it warmly. "Hommlet remembers its friends."
-
-The door closes behind them.
-
-They're twenty feet down the road before Lance says, quietly and without preamble: "He'll tell someone we're headed to the Keep."
-
-Not *I think.* Not *maybe.* Just the flat assessment of a man stating observed fact.
-
-Aldric, adjusting his pack: "The question is who he tells and how quickly."
-
-Conrad glances back once. Rannos is visible through the window, already talking to someone — a boy, young, maybe twelve. The boy nods and slips out the back.
-
-A pause.
-
-"Hommlet remembers its friends," Conrad repeats, pleasantly. "Charming."
-
-Thomas looks at Conrad. The unspoken question — *does this change the plan?*
-
-The road east is fifty yards ahead. Clear morning, good visibility, half a day's travel to the Keep.
-
-**What does the party do?**
-
----
-
-**You**
-
-Conrad says aloud "I don't think this changes our plans. We need to find out what the Castellan of the Keep knows anyways and we need all the help we can get before we take on what is happening at the moathouse. It's not like we didn't think tongues would wag out here"
-
----
-
-**Claude**
-
-Thomas nods. "Agreed. We go to the Keep as planned. Whatever Rannos tells whoever he tells — we're not hiding that we're here. We're investigators of the order, not spies."
-
-"Speak for yourself," Conrad says pleasantly, and falls into step.
-
-Lance is already on the road.
-
----
-
-**THE ROAD EAST — Mid-Morning**
-
-The road is good for the first mile out of Hommlet, then settles into the comfortable shabbiness of a route that sees regular use but not enough coin to maintain properly. Ruts from cart wheels, patched gravel, the occasional stretch of corduroy log over soft ground.
-
-The autumn countryside is genuinely beautiful — harvested fields giving way to rougher pasture, then scrubby woodland as the land rises gently toward the eastern hills. The sky is high and pale blue. Crows in the stubble fields. The smell of woodsmoke from a farmstead half a mile off the road.
-
-Lance moves differently out here. Nothing dramatic — just a loosening, a settling into himself. His eyes are in the treeline and the middle distance rather than the floor. He drops back slightly from the main group, not from antisociality but from habit — rear observation, natural spacing.
-
-Aldric notices. "He's better out here," he murmurs to Thomas, not unkindly.
-
-About two miles out, the road passes a track heading south into heavier woodland. No signpost. The track is wider than a game trail but not by much, and the verge on both sides has been recently — within weeks — pressed down by foot traffic. Multiple sets of feet. Not boots. Something else.
-
-Lance stops.
-
-Crouches. Looks at the track without touching anything.
-
-Stands. Looks at Thomas.
-
-"Humanoids," he says quietly. "Goblinoids, I think. More than ten. Heading south." He looks at the tree line. "Recent. Last day, maybe less."
-
-South is toward the moathouse road.
-
-Aldric says nothing. He's doing the same unhappy arithmetic as before.
-
-The Keep is still perhaps three hours east. The track south is right here, right now, with fresh sign on it.
-
-**What does the party do?**
-
----
-
-**You**
-
-We keep on towards the keep. As much as Lance wants to go south, he understands that the keep is what the party wants.
-
----
-
-**Claude**
-
-Lance looks at the track for one more moment. Then he stands, adjusts his pack, and walks east.
-
-He doesn't say anything. He doesn't need to. The set of his shoulders says he's filed it away — location, direction, approximate numbers, timeframe. It'll be there when they need it.
-
-Conrad glances at him as he passes. "Good call."
-
-Lance says nothing, which is as close to *thank you* as he gets.
-
----
-
-**THE ROAD EAST — Midday**
-
-The miles pass without incident. Aldric produces dried apple from somewhere in his pack and distributes it without comment. Michael walks and thinks, occasionally muttering something too quiet to catch. The road climbs gradually into the hills, the woodland thickening on either side, the fields of Hommlet long behind them.
-
-Around midday they stop at a stream crossing to water their feet and eat. Lance is upstream slightly, watching the road they came from. Old habit.
-
-Conrad sits beside Thomas on a flat rock. "Rannos," he says quietly, peeling an apple. "He's not just a gossip. That boy he sent — too fast, too practiced. He's done that before." He eats a slice. "Someone in Hommlet is keeping track of who comes and goes and what they're interested in." A pause. "Might be nothing. Might be worth knowing who he reports to."
-
-Thomas considers this.
-
-"On the way back," Conrad adds. "Not now. Just — worth remembering."
-
-Aldric, from downstream: "I'd also like to know how he knew to describe the moathouse as *marshy ground* before anyone mentioned the moathouse."
-
-A small silence.
-
-Nobody had mentioned the moathouse to Rannos.
-
-Michael looks up from whatever he was thinking about. "We didn't tell him we were investigating anything south of Hommlet."
-
-"No," Conrad agrees pleasantly. "We didn't."
-
-Lance comes back from upstream. Reads the silence accurately. "What did I miss?"
-
----
-
-They're back on the road ten minutes later, the afternoon sun moving west behind them.
-
-The Keep announces itself before it's visible — a thinning of the treeline, a widening of the road, and then the smell of woodsmoke and horses and the particular density of a garrisoned settlement. Then the road curves and there it is: grey stone walls on a rise, a gatehouse, a flag with the local lord's device snapping in the autumn wind.
-
-The road to the gate is clear. A guard detail visible on the walls — not ceremonial, working soldiers, scanning the treeline with professional attention.
-
-One of them clocks the party at two hundred yards and doesn't look away.
-
-At the gate, two guards in serviceable armour. One steps forward as the party approaches. Takes in the group — five travellers, mixed gear, a Paladin's surcoat with St. Cuthbert's mark, a cleric similarly marked, a ranger, a magic-user, a thief who looks like neither.
-
-"State your business at the Keep."
-
-Thomas has Terjon's bronze token in his pack.
-
-**What does Thomas say?**
-
----
-
-**You**
-
-Thomas grabs the token from his pack. "We have words for Castellan Sherlane. Tidings from Hommlet."
-
----
-
-**Claude**
-
-The guard looks at the token. Looks at Thomas. Looks at the token again — not skeptically, but carefully, the way a man looks at something he's been told to watch for.
-
-Something shifts in his posture. Fractionally. Professionally.
-
-"Wait here."
-
-He passes the token to the second guard with a quiet word. The second guard disappears through the gatehouse at a pace that isn't quite a run but is faster than a stroll.
-
-The first guard stands easy, not unfriendly, but watching. "Long road from Hommlet?"
-
-"Half a day," Thomas says.
-
-"Mm." He looks at the sky. Looks at the treeline. Back to the party. "Quiet road?"
-
-"Mostly," Lance says. The guard glances at him — reads the ranger's gear, the way he's standing slightly apart, the Y'Dey-charm on his pack which means nothing to a Keep soldier but reads as *woodsman.* Nods slightly.
-
-They wait perhaps five minutes. The autumn wind moves through the gate passage.
-
-Then the second guard returns with a third man — older, in better armour, with the particular walk of someone who has been in charge long enough that authority is just how he moves. He stops in front of Thomas, looks at him properly, and holds out the token.
-
-"Castellan Sherlane," he says. "You have tidings from Terjon."
-
-Not a question. He's already read the token and drawn his conclusions.
-
-He's perhaps fifty-five, with a soldier's weathered face and a priest's careful eyes — not St. Cuthbert, Thomas notes, but something ordered, lawful. Terjon's assessment of *compatible* seems right.
-
-He looks at the full party — takes in each of them in the efficient way of a man who has been assessing groups for thirty years. Lands on Aldric, notes the shared symbol with Thomas, moves on. Lands on Lance's pack token, notes it without comment. Lands on Michael, clocks the lack of armour and the look of someone perpetually thinking.
-
-"Come inside," he says. "All of you."
-
-He turns without waiting to see if they follow.
-
-Aldric falls into step and murmurs to Thomas: "A man who doesn't waste words. I respect that." A pause. "Terjon must like him."
-
----
-
-The Keep's interior is compact and functional — a courtyard, a stable block, a barracks, a chapel, a main hall. Working soldiers moving with purpose. A smithy going. The smell of horses and iron and bread baking somewhere.
-
-Sherlane leads them to a room off the main hall — not his formal receiving room, something more practical. A table, chairs, a fire going. A map of the surrounding territory on the wall, with notations in several hands.
-
-He closes the door. Sits. Gestures for them to do the same.
-
-"Terjon sent you, which means you've seen something worth sending people over." He folds his hands on the table. "Tell me what you know. All of it — I'll ask questions after."
-
-He looks at Thomas.
-
-"Start with the moathouse."
-
-**What does Thomas tell him?**
-
----
-
-**You**
-
-"First, Druid Y'Dey wants us to tell you that the coordinated activity in the hills is confirmed. You'll need to increase your patrols on the eastern road."
-
----
-
-**Claude**
-
-Sherlane's expression doesn't change but his jaw tightens — just once, briefly. He looks at the map on the wall, then back at Thomas.
-
-"Confirmed," he repeats. Flat. "She's certain."
-
-"She tracked a figure moving through the northern wood at night," Thomas says. "Alone, no light, not human. She found offering sites in the hills — crude shrines, consistent symbol, nothing from any surface tradition she recognises. Species that don't cooperate, cooperating." He pauses. "She's been watching this for two months."
-
-Sherlane is quiet for a moment. He stands, moves to the map, and puts his finger on a point in the eastern hills.
-
-"We lost a patrol three weeks ago. Four men. Found two of them." He doesn't elaborate on the condition. "I've had the eastern road on double watch since, but double watch on these walls means pulling men from somewhere else." He traces a line on the map. "The Caves are here. We've known about the humanoid activity — it's not new, there have always been goblinoids in those hills. What's new is the organisation." He turns back to the party. "Two separate goblin bands that were raiding each other six months ago are now moving together. A gnoll warband that hadn't been seen in this territory for three years is back." He sits down again. "That doesn't happen by itself."
+"Travellers on the north road have seen lights. Not campfire lights — wrong colour, wrong movement. And the raids..." He lowers his voice another fraction. "I've seen raiders come through this valley for twenty years. These are different. Organised. Someone is pointing them."
 
 He looks at Thomas steadily.
 
-"Now tell me about the moathouse."
+"The Caves have always had humanoids. Always will, probably. But they don't usually take prisoners. Lately they do."
 
-He says it the way a man says something he has been waiting to say for weeks — with the careful control of someone who already suspects the answer and needs to hear it confirmed before he can act.
-
-The room is very quiet except for the fire.
-
-**What does Thomas tell him?**
+What does Thomas say?
 
 ---
 
 **You**
 
-Terjon told us that someone is using the moathouse again. Not as a temple — not yet — but as exactly what it was before. A staging point. Supplies going in. Terjon doesn't know who are what for. He believes that two things that should be separate problems started at the same time which means they aren't separate problems. One of his acolytes — a young man, reliable, not given to imagination — went to look at the moathouse a fortnight ago. He came back and told him there was a light in the upper tower. Not torchlight. He said it was green.
+Thomas says “those two things might not be connected, but that would be an awful big coincidence”
 
 ---
 
 **Claude**
 
-Sherlane listens without moving. When Thomas finishes he is still for a moment — the particular stillness of a man absorbing something he hoped not to hear.
+Gundigoot looks at Thomas with an expression that suggests he has been thinking exactly this for some weeks and is relieved to hear someone else say it out loud.
 
-Then he exhales. Once. Controlled.
+"That's my thinking." He sets down the glass he's been pretending to polish. "I'm a careful man. I don't say things I can't back up. But yes." A pause. "That would be an awful big coincidence."
 
-"Green light." He says it quietly. Looks at the table. "That's the third report of green light in that tower. I didn't credit the first one. I half-credited the second." He looks up. "I credit three."
+He glances around the room with the automatic survey of a man who does it a hundred times a day without thinking.
 
-He stands and goes to the map again. Stands with his back to the party for a moment, looking at it.
+"There's a druid here in the village. Jaroo Ashstaff. He knows the land better than anyone — forest, hills, all of it. He's been uneasy for months. Won't say exactly why, but Jaroo uneasy means something is wrong in the land itself, not just on the roads."
 
-"The moathouse and the Temple of Elemental Evil," he says, to the map as much as to them. "Twenty years ago good people broke that temple at considerable cost. I was a younger man. I knew some of them." A pause. "The understanding was that it was finished. Broken thoroughly enough that rebuilding would take generations." He turns back. "Someone is apparently more patient than we gave them credit for, or more capable, or both."
+He straightens up, back to innkeeper rather than informant.
 
-He sits. Looks at Thomas directly.
+"I'd talk to him before I went anywhere near that moathouse. Or the Caves." A beat. "And I'd talk to Sherlane at the Keep. He's been tracking the raids longer than anyone. If there's a pattern to find, he's closer to finding it than I am."
 
-"Terjon is right that these aren't separate problems. The timing is exact — moathouse reoccupied, humanoid coordination begins, patrol losses start. One intelligence. One plan." He folds his hands. "And that plan has had two months of uninterrupted preparation time while everyone decided it was someone else's problem."
+He meets Thomas's eyes.
 
-Conrad, carefully neutral: "What's in the moathouse? Beyond what we've described."
+"You said you were sent to investigate. Whoever sent you — they were right to." He says it simply, without drama. "Something is building. I don't know to what."
 
-Sherlane looks at him. Assessing — clocks the thief's gear, the careful voice, the precise question. Decides.
-
-"The moathouse has two levels. The ground level is a ruin — defensible if cleared, which apparently it has been. There is a lower level." He pauses. "We don't know what's in the lower level. The parties we sent—" He stops. Starts again. "The party that came back came back from the ground level. They didn't find stairs down, or didn't look, or—" He stops again. "The report was incomplete."
-
-The fire pops.
-
-"Undead on the gate means a necromancer, or a cleric of significant power with necromantic focus. Either way — someone who can animate and command the dead doesn't stop at four gate guards." He looks at Thomas's surcoat. "You're level one."
-
-Not an accusation. A fact, stated plainly.
-
-"I know," Thomas says.
-
-Sherlane nods slowly. "Then you know what I'm going to say."
-
-"The Caves first," Thomas says.
-
-"The Caves first," Sherlane confirms. "Season yourselves. Come back to the moathouse when you can handle what's in it, not just what's in front of it." He looks at the party. "The Caves will give you — what you need. Experience. Levels. A sense of how you work together under real pressure." A pause. "They will also give you information, if you're paying attention. Whatever is coordinating the humanoids has reach into those Caves. You may find evidence of it."
-
-He stands — the interview shifting register, from information exchange to something more practical.
-
-"You're welcome at the Keep as a base of operations. Standard rates for rooms and board — I won't gouge men doing necessary work. The smithy can do basic repairs." He looks at Michael. "We don't have a sage, but we have a library of sorts. Modest. You're welcome to it."
-
-Michael straightens almost imperceptibly.
-
-"One condition," Sherlane says. "Everything you find — everything relevant to the moathouse, the humanoid coordination, any evidence of who's behind this — you report to me. Not just Terjon. Me." He looks at Thomas. "Agreed?"
-
-**What does Thomas say?**
+What does Thomas do?
 
 ---
 
 **You**
 
-"Agreed. Keeping you, Terjon, and Y'Dey abreast of what is going on just makes sense to me."
-
-Conrad grumbles under his breath about too many cooks, but doesn't say anything aloud.
+Thomas thanks the innkeeper. “Canon Terjon told us to seek out Jaroo as well. We will do that in the morning.”
 
 ---
 
 **Claude**
 
-Sherlane catches the grumble — his eyes move to Conrad briefly, with the expression of a man who has heard that sentiment before and has a prepared response — but he lets it go. He's dealing with Thomas, and Thomas has just said the right thing.
+Gundigoot nods, satisfied.
 
-"Good." He stands, extends his hand. Thomas takes it. Firm, brief, the handshake of men who have just made a practical agreement rather than a sentimental one.
+"Jaroo's grove is north of the village. You'll find it easily enough — follow the lane past the new construction and look for the trees. He'll know you're coming before you get there, most likely." He says this matter-of-factly, without superstition. "That's just how Jaroo is."
 
-He moves to the door, then pauses.
+He moves off to attend to other customers, but pauses after two steps and looks back.
 
-"One more thing." He says it without turning, which somehow makes it land with more weight. "The symbol Y'Dey found on the offering sites in the hills. If you find it again — in the Caves, in the moathouse, anywhere — draw it. Exactly as you find it. Don't interpret it, don't clean it up. Exact." He turns. "There are symbols associated with the old Temple that I have reference material for. If it matches anything I know, I want to know immediately."
-
-He opens the door. A soldier is waiting outside — young, efficient-looking.
-
-"Aldric will show you to your rooms," Sherlane says, and then catches himself. Looks at Aldric. "Apologies. I meant — Perris here will show you."
-
-Aldric's expression is perfectly composed. "No offence taken. It's a common name."
-
-Perris leads them out. The door closes behind Sherlane.
+"Rooms are ready when you want them. Breakfast is at dawn — plain is five coppers, full spread is a silver." A hint of professional pride. "The full spread is worth it."
 
 ---
 
-In the corridor, Conrad falls into step beside Thomas.
+The evening settles into the comfortable rhythm of a good inn. The fire burns well. The dark ale is indeed better than the light.
 
-"Too many cooks," he says quietly, without heat. "I stand by it. The more people who know our business, the more chances for it to go wrong." A pause. "That said — Sherlane's solid. Terjon's solid. Y'Dey's solid." He glances back at the closed door. "Just noting that Rannos Davl is also in that chain now, whether we like it or not."
+Aldric has finished both his supper and Michael's and is working on a third ale with the focused dedication of a man who has earned it. He catches Thomas's eye as he returns from the bar and raises an eyebrow — a question.
 
-Lance, ahead of them: "Deal with Rannos when we get back."
+At the corner table, Conrad is still with Elmo. Lance remains in his corner, watching the room, comfortable in his discomfort.
 
-"Yes," Conrad agrees. "We will."
+The thin sharp-featured man who was at the bar earlier has relocated to a table closer to the fire. Closer, incidentally, to where Conrad and Elmo are sitting. He doesn't appear to be listening. He appears to be doing everything but listening, which Conrad might notice is not quite the same thing.
 
----
-
-Perris shows them to a modest but clean set of rooms — two, same as the inn, stone walls and narrow windows looking out over the courtyard. A basin of water. Actual beds.
-
-Aldric sits on the nearest one and closes his eyes briefly.
-
-"Right," he says, to no one in particular. "So. Tomorrow we look at the Caves." He opens his eyes. "Has anyone actually looked at the Caves yet? From a distance? Do we know what we're walking into?"
-
-The question is practical and genuine. They have Brandun's map of the moathouse approach. They have general knowledge that the Caves are in the hills east of the Keep.
-
-They don't have a map of the Caves themselves.
-
-Michael is already looking toward the corridor that leads to the library.
-
-**What does the party do with the remainder of the afternoon?**
+What does the party do with the rest of the evening?
 
 ---
 
 **You**
 
-Michael heads to the library to see what he can find about the caves. Conrad will wander around the keep to see what rumours and talk he can find out about. Lance will head out of the keep and scout out the wilderness. Thomas will pray and work on his gear.
+Lance and Michael retreat to their rooms. Conrad stays with Elmo drinking and talking about the town and the surrounding lands. He keeps tabs on the thin man without making it obvious. He also doesn’t talk to much about the party’s plans.
+
+Thomas shares what the innkeeper says with Aldric. He then tries to enjoy the evening while waiting for Conrad to finish sussing out information.
 
 ---
 
 **Claude**
 
-**THE LIBRARY — Michael**
+**Thomas and Aldric**
 
-The Keep's library is modest as promised — two shelves, perhaps forty volumes, a box of rolled maps, and a smell of old parchment that Michael finds immediately comfortable. A retired soldier named Edwick serves as its unofficial custodian, more out of habit than qualification. He watches Michael with the mild suspicion of a man whose books are rarely touched and isn't sure how he feels about that changing.
+Aldric listens to the summary with his ale in one hand and the expression of a man doing quiet arithmetic.
 
-Michael works methodically. Most of the volumes are military records, supply logs, and patrol reports — useful in their way but not what he needs. Then, in the box of maps, he finds something: a rough survey of the eastern hills, hand-drawn, annotated in at least three different hands over what looks like many years.
+"So. Organised raids, prisoners taken, lights at the moathouse, a druid who's been uneasy for months, and an innkeeper careful enough not to say more than he knows." He takes a considered sip. "Either something genuinely terrible is happening or this is the most dramatic village in the Flanaess."
 
-The Caves of Chaos are marked — a ravine in the hills, perhaps four miles east of the Keep. The annotations are illuminating:
+He pauses.
 
-*"Multiple entrances — at least nine counted, possibly more concealed."*
+"My money is on the former."
 
-*"Humanoid populations shift — do not assume same occupants between visits."*
+He settles back in his chair, and the two of them occupy the fire companionably for a while. Aldric complains briefly about the road, then about his boots, then lapses into the comfortable silence of a man who doesn't need to fill quiet with noise. Occasionally his eyes move around the room with professional attention — old habit, not anxiety.
 
-*"Ravine approach: exposed. Single file. Watched from above."*
-
-And in a different hand, older, the ink faded: *"Deeper caves connect. Have not mapped. Do not recommend."*
-
-At the bottom of the map, a single line in the most recent hand: *"Shrine at ravine head. Unknown dedication. Do not approach."*
-
-Michael copies the map carefully into his notes. He finds one more relevant item — a thin journal, a previous adventurer's account, water-damaged and missing its first twenty pages. What remains describes the upper caves: goblin warrens, an orc stronghold, a cave bear den, a section that smells of death which the writer doesn't elaborate on. The writing stops mid-sentence.
-
-Michael brings the map copy and the journal to show the party.
+The evening passes pleasantly enough. The food is everything Gundigoot's reputation promised.
 
 ---
 
-**THE COURTYARD — Conrad**
+**Conrad, Elmo, and the thin man**
 
-Conrad drifts through the Keep with the particular invisibility of a man who looks like he belongs wherever he is. Soldiers on their off-hours talk freely enough around someone who buys a round and doesn't ask direct questions.
+Elmo is an excellent drinking companion in the specific way of a man who asks more questions than he answers, laughs easily, and never quite gets as drunk as he appears to be getting. He knows everyone in Hommlet and has opinions about all of them — the brewer makes the best dark ale in three counties, the carpenter is an outsider and probably always will be, Burne up in his tower is clever and knows it, Rufus is the one you'd actually want at your back in a fight.
 
-What he learns, accumulated in fragments:
+On the surrounding lands he's more animated.
 
-The patrol losses three weeks ago hit morale hard. Four men, two found. Nobody's saying what condition the two were in but the soldiers who recovered them won't talk about it, which tells Conrad plenty.
+"Caves are bad. Always bad, but — " he lowers his voice slightly, not dramatically, just practically " — worse lately. My cousin farms two miles up the east road. Lost two field hands last month. Just gone." He shakes his head. "Taken, people say."
 
-There's a merchant who's been at the Keep four days — arrived just before the party, which is noted as coincidence and probably isn't. Name of Zelligar, supposedly trading in preserved goods. Hasn't left the Keep. Asks questions about road conditions east and south. Nobody thinks much of it individually. Conrad thinks plenty of it collectively.
+He takes a long pull of ale.
 
-And one more thing — a young guard, third ale in, mentions that two nights ago he saw a light in the hills to the south. Not fire. *"Greenish, like. Lasted maybe a minute. Woke Sergeant Harwick up for it but by the time he looked it was gone. Got latrine duty for my trouble."* He's still aggrieved about the latrine duty.
+"Moathouse." He says it the way Gundigoot did — the name of a place that has weight. "I don't go near there. Nobody does. Used to dare each other as boys, you know how it is. Not anymore."
 
-Conrad files all three items and drifts back toward the rooms.
-
----
-
-**THE WILDERNESS — Lance**
-
-Lance is out the gate and into the treeline within minutes, the Keep falling away behind him, his breathing evening out the way it does when walls stop pressing on him.
-
-He works east and south, staying off the road, moving through the late afternoon woods with the practiced quiet of a man entirely in his element. Y'Dey's charm sits on his pack. Twice, small animals that should have fled hold their ground a moment longer than natural before moving off. He notes this.
-
-The hills rise toward the Caves. He doesn't go that far — too far alone, too late in the day — but he gets high enough to see the ravine mouth from distance. Dark gap in the hillside. The approach is exactly as the map notation warned: open ground, visible from above, single file through scrub.
-
-He sees something else. Smoke, thin and careful, from inside the ravine. Cooking fire, banked low. Someone is home.
-
-On the way back he cuts south, curiosity pulling him, and finds the goblinoid trail from this morning again — or its continuation. It has joined a second trail here. Two groups, converging, heading south together.
-
-Toward the moathouse road.
-
-He marks the junction in his memory — exact, detailed, the way he marks everything — and heads back to the Keep as the light fails.
+He doesn't elaborate on why not anymore. Conrad can follow up or let it lie.
 
 ---
 
-**THE CHAPEL — Thomas**
+The thin man — Gremag, though Conrad doesn't know his name yet — has been a model of disinterest for the past hour. He's nursed one drink, exchanged a few words with the heavyset man who arrived twenty minutes ago and settled at the same table, and studiously not looked at Conrad more than twice.
 
-The Keep has a small chapel — not St. Cuthbert, a more general martial faith, but orderly and clean. Thomas has it to himself for most of the afternoon.
+The heavyset man is Rannos Davi — placid, slow-moving, with small watchful eyes that don't match his manner at all.
 
-He prays. Works oil into his chainmail methodically, checking each link. Thinks about what Terjon said, what Sherlane said, what the green light means. Thinks about Brandun and Petyr and the two guards who were found and the two who weren't.
+They haven't spoken to Conrad. They haven't approached. But when Conrad shifted his seat earlier to get closer to the fire, Gremag's gaze tracked the movement for just a fraction of a second too long before returning to his drink.
 
-Lays on Hands, both charges — on himself, just to feel the connection to his faith. Neither charge needed, both restored tomorrow. The practice of it settling something.
+They're interested in the party. They're being careful about it.
 
-Near the end of the afternoon Aldric appears in the chapel doorway, looks at Thomas for a moment, and comes in without being invited. Sits in the pew behind him. Doesn't say anything for a while.
-
-Then: "I've been a cleric twenty years. I've seen dark things." A pause. "What Y'Dey described — deep stone, old cold — that's not the moathouse. That's something using the moathouse." He's quiet again. "I want you to know I'm not going anywhere. Just. Wanted to say it."
-
-He gets up and leaves before Thomas can respond.
-
----
-
-**EVENING — The Keep's Common Hall**
-
-The party reconvenes over supper. Soldiers at other tables, the merchant Zelligar visible across the room eating alone, watching nothing in particular with the practiced attention of a man watching everything.
-
-Conrad sets down his cup. "Report."
-
-**The party compares notes. Michael has his copied map and the damaged journal. Lance has the ravine smoke and the converging trails. Conrad has the patrol deaths, the merchant, and the green light sighting.**
-
-**What does the party make of it all?**
+What does Conrad do?
 
 ---
 
 **You**
 
-We need to be careful while exploring the caves. One at a time and retreat when necessary. We also need to keep our eyes and wits about us to see what, if anything, the caves have to do with the moathouse.
+Conrad thanks Elmo for the company and moves over to Thomas and Aldric. While there, he lets them know quietly that the two men have been watching all of them all night.
 
 ---
 
 **Claude**
 
-Conrad nods. "One cave at a time. Clear it, pull back, rest, go again. We don't get greedy." He glances at Michael's copied map. "Nine entrances minimum means nine potential problems. We pick the smallest, most manageable looking one first."
+Thomas glances up from his ale with the careful non-reaction of a man who has learned not to look at things he's been told about.
 
-"Goblins," Lance says. He's been looking at the map since Michael put it down. "Start with goblins. Weakest first, learn the ground, work up."
+Aldric doesn't look up at all. He simply turns his cup slowly in his hands.
 
-"Agreed," Thomas says.
+"The fat one and the thin one," he says quietly. Not a question.
 
-Michael taps the journal. "The writer mentions the caves connect deeper in. We don't go deeper until we're ready." He pauses. "The shrine at the ravine head — we leave that alone for now."
+A pause.
 
-"Definitely leave that alone," Aldric says, with feeling.
+"I noticed the thin one earlier. Thought I was being uncharitable." He takes a measured sip. "Apparently not."
 
-Conrad turns his cup slowly. "The merchant. Zelligar." He doesn't look across the room — a professional habit. "Four days here, no trading done that anyone's seen, asks about roads south and east, arrived just before us." He pauses. "Could be nothing."
+Thomas keeps his voice low, his expression pleasant — a man enjoying an evening with companions, nothing more.
 
-"Could be Rannos's boy delivered a message faster than we walked," Lance says.
+"Do we know who they are?"
 
-Another silence.
+Conrad can answer that — Elmo may have mentioned the traders in his tour of village personalities, or Conrad may have picked up a name from someone else during the evening. Or he may not know yet.
 
-"We don't tip him that we've noticed," Conrad says. "We act like travelling adventurers heading to the Caves for coin and glory." He almost smiles. "Which is essentially what we are."
+Either way, Aldric sets his cup down with the quiet finality of a man making a decision.
 
-Thomas looks at the group. "We tell Sherlane about Zelligar in the morning. Quietly, before we leave. Let him watch the man while we're gone." He pauses. "And the green light sighting — he needs to know that too. His soldier saw it two nights ago. That's recent."
+"We don't do anything tonight. We're strangers in a village we arrived in this afternoon. We don't know what they are — could be curious, could be something worse." A glance at Thomas. "We go to Jaroo in the morning, we learn what we can, and we watch."
 
-"Very recent," Michael agrees quietly.
+He picks his cup back up.
 
-Aldric finishes his ale. "So. Morning — brief Sherlane, head east, find the smallest cave entrance, try not to die." He sets down his cup. "I've had worse plans. Not many, but some."
+"And we don't tell Elmo anything we wouldn't want carried."
 
-Lance is already looking at the door — not restless, just ready. The woods are out there and the Caves are in the hills and there is work to do.
-
-Conrad glances once more at Zelligar across the room. The merchant is eating calmly, looking at nothing.
-
-Looking at nothing very carefully.
-
-"Early start," Conrad says. "Before our friend over there has his breakfast."
+Did Elmo mention the traders at any point during Conrad's conversation with him?
 
 ---
 
-The party turns in. The Keep settles into its nighttime rhythms — watch changes, the distant sound of the smithy banking its fire, a horse shifting in the stable.
+**You**
 
-Somewhere south, in a ruined moathouse in a marsh, a green light burns in an upper tower.
+Elmo mentioned the traders and Conrad got the feeling that he didn’t like them.
 
-The Caves are four miles east.
+---
 
-Morning comes early.
+**Claude**
 
+Conrad shares this, and Aldric receives it with a small nod.
+
+"Interesting." He keeps his voice at the same quiet register. "A man who knows everyone in his village and doesn't like those two specifically. Worth knowing."
+
+Thomas turns this over for a moment.
+
+"Elmo himself — what did you make of him?"
+
+It's a fair question. Elmo was friendly, forthcoming, clearly embedded in the village's social fabric. He also asked more questions than he answered and never got quite as drunk as the ale consumption suggested he should. Conrad spent an hour with him. The read is Conrad's to give.
+
+Whatever the assessment, Aldric adds one observation of his own, directed at the table rather than either of them.
+
+"The traders haven't approached us. Haven't spoken to us. Just watched." A pause. "That's patience. Patience suggests either they're naturally cautious people, or they're waiting to understand what we are before they decide what to do about us."
+
+He finishes his ale and sets the cup down.
+
+"Either way, they know we're here, they know we came from the church, and by morning they'll have a reasonable guess at why." His eyes stay on the table. "So whatever we're going to do tomorrow, we should do it early."
+
+The fire is burning lower. The room is thinning out.
+
+Does the party retire for the night?
+
+---
+
+**You**
+
+Yes, we retire for the night and get up early to go meet the squid.
+
+---
+
+**Claude**
+
+The druid, presumably — though Aldric, if he heard that, would have questions.
+
+---
+
+The night passes without incident. The Welcome Wench's beds are exactly as advertised — clean, warm, and considerably better than sleeping on the road.
+
+Dawn comes grey and cool, the first real bite of autumn in the air. The full breakfast spread proves worth the silver — fresh bread, eggs, cold meat, and something done with mushrooms that Michael eats three portions of before anyone else is fully awake. Aldric wraps both hands around a hot cup and says nothing to anyone for a satisfying length of time.
+
+The common room is nearly empty at this hour.
+
+Rannos and Gremag are not present.
+
+---
+
+The lane north takes you past the new construction — a stone tower going up at some pace, scaffolding and workers already busy despite the early hour — and then the village thins and the trees begin.
+
+The grove announces itself before you reach it. The air changes — cooler, quieter, the sounds of the village falling away. The trees here are old, considerably older than anything else in the area, and they have the quality of trees that have been left alone long enough to develop opinions about it.
+
+A path leads inward.
+
+Aldric looks up at the canopy and keeps his thoughts to himself.
+
+Do you follow the path in?
+
+---
+
+**You**
+
+We follow the path
+
+---
+
+**Claude**
+
+The path is well-worn but narrow, winding between the old trees in a way that feels less like it was made by feet and more like it was always there. The undergrowth on either side is dense but not threatening — just present, in the particular way of a place that doesn't especially need you.
+
+After perhaps two minutes of walking, the trees open into a clearing. A modest structure sits at the far edge — more grown than built, timber and thatch that has been there long enough to look like it belongs. A garden of herbs and late-season plants borders one side. A large crow watches from a branch overhead with the specific expression of a crow that is definitely just a crow.
+
+In the centre of the clearing, crouched over a patch of disturbed earth and examining something in it with complete absorption, is a man of indeterminate middle age. Weathered, lean, robes the colour of old bark. He doesn't look up as you enter the clearing.
+
+"Five of you," he says. "From the south road. You stopped at the church yesterday afternoon."
+
+He stands, brushing soil from his hands, and turns. His eyes move across the party with quiet assessment — not unfriendly, but thorough.
+
+"I'm Jaroo." A pause. "You'd better come inside. I've been expecting someone to come about this for two months."
+
+He glances once at the crow, which ruffles its feathers and looks away.
+
+"Tea," he says, to no one in particular, and moves toward the door.
+
+Do you follow him in?
+
+---
+
+**You**
+
+We follow him in
+
+---
+
+**Claude**
+
+The interior is a single large room that manages to feel both cluttered and ordered — herbs hanging from every beam, shelves of stoppered jars and worn books, a large table with the remains of a simple breakfast still on it. A fire burns low. The tea, somehow, is already steeping.
+
+Jaroo moves to the far side of the table and sits, gesturing for the party to find seats. There are exactly enough stools and chairs, arranged in a way that suggests this particular conversation has been anticipated.
+
+He pours without asking whether anyone wants any.
+
+"The land has been wrong since spring," he says, the way a man describes weather — observable fact, not drama. "Something is moving in it. Not through it. *In* it." He wraps both hands around his cup. "The humanoids in the Caves have always been there. I've lived alongside that particular problem for fifteen years. What's happening now is different."
+
+He looks at Thomas directly.
+
+"They're being *used*. Something has given them purpose and pointed them at the roads. The prisoners they're taking — they're not being eaten, or ransomed. They're going somewhere." He pauses. "South, I think. I can't be certain."
+
+He lets that sit for a moment.
+
+Then, quietly: "There's also the moathouse."
+
+He says it the way Gundigoot did. The way Terjon did.
+
+"I don't go near it. The forest doesn't go near it." A pause. "That's new."
+
+What does the party say?
+
+---
+
+**You**
+
+Thomas says “these two things have to be related, don’t you think? We should investigate the moathouse and it sounds like we should also explore those caves. Canon Terjon told us to seek out the Castellan at the keep.”
+
+---
+
+**Claude**
+
+Jaroo looks at Thomas with the expression of a man who has arrived at the same conclusion by a longer road and is glad someone else got there too.
+
+"Yes," he says simply. "They're related."
+
+He turns his cup slowly.
+
+"As for the order of things — Terjon is right about the Keep. Sherlane has been tracking the raids longer than anyone. He has numbers, patterns, information I don't have. And you'll need walls at your back between expeditions." A pause. "The Caves are the immediate problem. People are dying on that road now. The moathouse — "
+
+He stops. Chooses his words carefully.
+
+"The moathouse troubles me more. But it will still be there after you've dealt with the Caves. And whatever is in it — " another pause, " — I think you want to be stronger before you go near it."
+
+His eyes move across the party with that quiet assessment again. Taking in Thomas's chain and symbol, Michael's robes, the practical readiness of Lance and Conrad, Aldric's weathered clerical bearing.
+
+"Start with the Keep. Start with the Caves." He picks up his cup. "Come back and tell me what you find. Particularly — " he meets Conrad's eyes briefly, then Thomas's, " — if you find anything that suggests who is doing the pointing."
+
+Aldric, who has been silent throughout, speaks up.
+
+"You said south. The prisoners going south." He sets down his cup. "How confident are you in that?"
+
+Jaroo is quiet for a moment.
+
+"Confident enough to say it. Not confident enough to say more." He looks at Aldric steadily. "Yet."
+
+Is there anything else the party wants to ask Jaroo before heading to the Keep?
+
+---
+
+**You**
+
+Conrad chimes in, “We have the moathouse, an old part of the temple of elemental evil, to the north, the keep and the caves to the east, and prisoners from the caves heading south. This is quite the thing. We also had two people at the inn last night who took a lot of interest in what we were saying and who we were saying it too. The traders from in town?”
+
+---
+
+**Claude**
+
+Jaroo's expression doesn't change exactly, but something in it goes very still.
+
+He sets his cup down.
+
+"Rannos and Gremag," he says. It isn't a question.
+
+He is quiet for a moment, looking at the table rather than any of them, in the way of a man deciding how much to say.
+
+"I have no proof," he says carefully. "I want to be clear about that. I am a careful man and I don't accuse without proof." A pause. "But those two arrived in Hommlet two years ago. Around the same time the raids began changing character. Around the same time the forest started feeling wrong."
+
+He looks up.
+
+"They do good business. They're pleasant enough to deal with. They have explanations for everything." His voice is entirely neutral. "I don't trust them."
+
+He picks his cup back up.
+
+"If they took an interest in you last night, they'll know by now that you visited the church and that you're here." He glances toward the window — trees, morning light, the crow still visible on its branch. "They have a way of knowing things."
+
+Aldric looks at Thomas with an expression that says: *I told you we should move early.*
+
+Jaroo adds, quietly:
+
+"Be careful what you say in the inn common room. The walls there are thinner than they look."
+
+What does the party do?
+
+---
+
+**You**
+
+We thank the Druid, go back to the inn to get our horses, and head off to the keep.
+
+---
+
+**Claude**
+
+Jaroo sees you to the door of the grove with the minimal ceremony of a man who respects people's time. As Thomas turns to go he speaks once more, quietly.
+
+"Whatever you find in those Caves — bring it back to me as well as to Sherlane. Some things Sherlane will know how to read. Others —" a brief pause, "— others need a different kind of reading."
+
+He doesn't elaborate. The crow watches you leave.
+
+---
+
+The ride back through the village is uneventful. The morning is fully underway now — the smithy ringing, the carpenter's saw audible from somewhere behind the main lane, villagers going about their business with the purposeful air of people who have a lot to do before winter.
+
+The traders' shop is open. Through the window as you pass, the heavyset shape of Rannos Davi is visible behind the counter, apparently absorbed in his inventory.
+
+He doesn't look up as you ride by.
+
+---
+
+The east road is good — well-maintained, passing through farmland that grows progressively less tended as you ride. After an hour the land rises and roughens. The trees press closer to the road. Lance, riding near the front, will notice the trail signs without needing to look for them — regular foot traffic in the verge, moving parallel to the road rather than along it. Something using the tree line as cover.
+
+The Keep appears around a bend — stone walls, a gatehouse, a flag.
+
+Aldric looks up at it with something approaching relief.
+
+"Walls," he says. "Excellent."
+
+How does the party approach the gatehouse?
+
+---
+
+**You**
+
+We approach along the main road. When we arrive, we ask to speak with Sherlane.
+
+---
+
+**Claude**
+
+The drawbridge is down — the Keep receives travellers during daylight hours — and as you approach along the road two guards in plate armour appear at the gate, pole arms in hand, watching your approach with professional attention.
+
+The drawbridge planking is solid under the horses' hooves. One guard steps forward.
+
+"Weapons sheathed while you're inside." Brisk, not unfriendly. "Names for the register."
+
+A robed scribe waits just inside with a ledger, quill poised.
+
+Once names are given and weapons sheathed, lackeys appear from the stable to take the horses. The party is escorted through the entry yard — stone walls rising on all sides, the smell of horses and woodsmoke, guards visible on the battlements above.
+
+The corporal of the watch is a gruff, solid man who takes in the party with a practiced eye. He pauses at Thomas's starburst symbol, then at Aldric's clerical robes.
+
+"Sherlane." He says it as though considering. "What's your business with the Castellan?"
+
+What does Thomas say?
+
+---
+
+**You**
+
+We’ve come from Hommlet and before that, from Veluna. We have some tidings from Canon Terjon and the Druid and we have some questions about the raids.
+
+---
+
+**Claude**
+
+The corporal looks at Thomas for a moment — measuring, not hostile. The mention of Terjon and Veluna lands with quiet weight. He nods once.
+
+"Wait here."
+
+He disappears through an inner door. The scribe finishes recording the last name with careful strokes and blots the page without looking up. The two men-at-arms flanking the entry stand at ease, watching the middle distance with the practiced blankness of men paid to stand still.
+
+Aldric clasps his hands behind his back and examines the stonework with the air of a man who approves of solid construction.
+
+The corporal returns in less time than expected.
+
+"The Castellan will see you. Follow me."
+
+---
+
+Sherlane receives you in a ground floor chamber of the main fortress — heavy furniture, tapestries, a large table with maps weighted flat at the corners. He is a man in his fifties, upright and direct, with the bearing of someone who has held a difficult post for a long time and has made peace with the difficulty. A sword at his belt that doesn't look decorative. Eyes that have already assessed the party twice before anyone speaks.
+
+He doesn't waste time on pleasantries.
+
+"Veluna sent you." He looks at Thomas. "Terjon wrote to them three months ago. I wrote to them two months ago. You're the response."
+
+It isn't quite a complaint. Almost.
+
+"Sit down. Tell me what you know."
+
+What does the party say?
+
+---
+
+**You**
+
+There are raids that have become more than a nuisance - farms have been harassed and travellers have gone missing. The moathouse near Hommlet appears to be re-occupied and no one is going near it. Terjon, Jaroo, and Gundigoot all think the raids are being organized. They also think that you’ll know more about that, being a military man.
+
+---
+
+**Claude**
+
+Sherlane listens without interrupting. When Thomas finishes he is quiet for a moment, looking at the map on the table.
+
+"They're right." He puts a finger on the map — the ravine east of the Keep, the cluster of cave mouths marked in plain soldier's notation. "The Caves have always been a problem. Separate tribes, separate interests, constant infighting. That's what kept them manageable." He pauses. "That's changed. I've had three separate reports in the past two months of goblin and orc parties moving together. Not fighting each other. Moving together with purpose."
+
+He traces the road west toward Hommlet.
+
+"Travellers taken on this road. Not killed — taken. Eight confirmed missing in six weeks." His jaw tightens slightly. "I've sent two scouting parties toward the Caves. One came back with nothing. One didn't come back."
+
+He straightens.
+
+"I have walls and a garrison to protect. I can't commit my soldiers to a cave complex that size — too many entrances, too many unknowns. What I need is smaller groups who can go in, gather intelligence, and hit them where it hurts." He looks at Thomas steadily. "Which is presumably why Veluna sent five people instead of an army."
+
+He glances at the party — really looks at them, individually, the way a military man assesses available resources.
+
+"The moathouse concerns me separately. That's not humanoid activity. That's something organised enough to reoccupy a fortified position and keep it quiet." A pause. "One problem at a time. The Caves first."
+
+He looks back at Thomas.
+
+"How soon can you move?"
+
+---
+
+**You**
+
+We can move right away. Can you give us a lay of the land? How many caves are there, what types of humanoids are there, and how we should approach that problem?
+
+---
+
+**Claude**
+
+Sherlane moves to the map without hesitation — the posture of a man who has been waiting for someone to ask this question.
+
+"The ravine runs roughly north to south, about a mile east of here. Steep sided, dense trees on the approach." He traces the outline with one finger. "The cave mouths are set into the walls of the ravine — most of them on the western face, a few on the eastern. We've counted at least nine separate entrances, possibly more we haven't found."
+
+He taps each position as he names them.
+
+"Kobolds at the north end — numerous, physically weak, but their caves are trapped. Don't underestimate them on their own ground." A pause. "Goblins below them, two separate warrens by my count. Orcs further south — again, two factions, and they don't like each other, which you can use." He moves his finger. "Hobgoblins on the eastern face — the most disciplined fighters in the ravine, treat them like soldiers. Gnolls toward the south end."
+
+He straightens.
+
+"And at least one bugbear den somewhere in the complex. We've found their work on the road. Haven't located the entrance."
+
+He lets that sit for a moment.
+
+"Deeper in — and I'm working from incomplete intelligence here — there's something that connects some of the caves. A shrine of some kind. Whatever is doing the organising, I think it's operating from there."
+
+He looks at the party.
+
+"My recommendation. Don't try to clear the whole ravine. Pick one cave, hit it hard, get out. Rest. Go back. Attrition works if you're patient." A beat. "And don't get surrounded."
+
+Aldric, quietly, from the back of the group:
+
+"Helpful last piece of advice."
+
+Sherlane glances at him without expression.
+
+"There's accommodation here at the Keep — the Traveller's Inn. Reasonable rates. You're welcome to base yourselves here between expeditions." He looks back at Thomas. "I'd also ask that you report back to me after each run. Anything you learn about the organisation, the prisoners, the shrine — I need to know it."
+
+He pauses, one final thing.
+
+"The prisoners. If any are still alive in those caves — " he says it carefully, " — I'd consider their recovery a priority equal to anything else."
+
+What does the party do?
+
+---
+
+**You**
+
+We thank Sharlane and head to the inn to base ourselves.
+
+---
+
+**Claude**
+
+Sherlane nods — satisfied, not effusive.
+
+"Good hunting," he says, and means it practically rather than ceremonially.
+
+---
+
+The Traveller's Inn is a modest but clean establishment in the outer bailey — a long low building smelling of pine resin and woodsmoke, run by a broad woman named Mirna who shows you to your rooms with the efficient warmth of someone who has housed a lot of adventurers and holds no romantic illusions about the profession.
+
+The rooms are simple. The beds are adequate. There is a common room with a fire and plain food at reasonable prices.
+
+While the party settles in, something happens that Sherlane mentioned but couldn't have arranged.
+
+A woman is sitting alone near the fire in the common room. Perhaps thirty, plainly dressed, the kind of composed stillness that comes from exhaustion rather than calm. She has a cup of something she isn't drinking. She looks up when the party enters, takes in five armed travellers, and looks back at the fire.
+
+After a moment she speaks, not quite to anyone.
+
+"They said adventurers sometimes come through here." A pause. "Looking for work."
+
+She doesn't elaborate. She waits, the way someone waits who has learned that asking directly doesn't always help.
+
+Does anyone respond to her?
+
+---
+
+**You**
+
+Thomas heads over to her. “We aren’t looking for work, but we are adventurers. Is there something you need?”
+
+---
+
+**Claude**
+
+She looks up at Thomas — at the starburst on his surcoat, at his face — and something in her expression shifts very slightly. Not hope exactly. Something more careful than hope.
+
+"My name is Marta." She wraps both hands around her cup. "My husband Edric left three weeks ago to sell grain at the market in Hommlet. He travels that road four times a year. He knows it well."
+
+A pause.
+
+"He never arrived. The grain merchant in Hommlet sent word when Edric didn't appear. I've asked the guards here — they were kind, they looked into it — but they have the Keep to protect."
+
+She says this last part without accusation. Just fact.
+
+"I can't pay. I have the farm and the children and I have — " she stops. Starts again. "I'm not asking you to go looking for him specifically. I know that's — I know how it sounds." She looks back at the fire. "But if you're going into those caves. If you find anyone being held there. His name is Edric. He's forty-one, brown hair going grey, a scar on his left hand from a plough accident."
+
+She finally takes a sip from her cup.
+
+"I just wanted someone to know his name."
+
+The fire crackles. From somewhere behind Thomas, Aldric has gone very quiet in the particular way he goes quiet when something has affected him that he doesn't intend to show.
+
+What does Thomas say?
+
+---
+
+**You**
+
+We will be on our lookout for him. If he’s there, we will bring him back.
+
+---
+
+**Claude**
+
+Marta looks at Thomas for a moment — really looks at him, the way you look at someone when you're deciding whether to believe them.
+
+She believes him.
+
+"Thank you." Two words, said simply, without performance. She sets her cup down and folds her hands in her lap. "He's a good man. He has no business being in a place like that."
+
+She doesn't say anything else. She doesn't need to.
+
+---
+
+Behind Thomas, the party has arranged themselves with the natural spacing of people pretending they weren't listening. Conrad is examining something on the wall. Lance is looking at the door. Michael has found a candle flame intellectually interesting.
+
+Aldric is looking at his boots.
+
+When Thomas rejoins the group, the old cleric speaks without looking up, his voice pitched for the party only.
+
+"We find him." A pause. "That's all. We just find him."
+
+He picks up his ale. Takes a drink. Sets it down.
+
+"Right then." His tone shifts back to practical. "We should talk about how we're approaching those caves tomorrow. Specifically which entrance we try first, and what we do if we find more than we can handle."
+
+He looks around the group.
+
+"Conrad. You had thoughts about the kobolds."
+
+The fire is warm. Outside the Keep walls, the road runs east toward the ravine. Somewhere in those caves, possibly, a farmer named Edric is waiting.
+
+How does the party want to prepare for tomorrow?
+
+---
+
+**You**
+
+Conrad says “the kobolds will be tricky. Traps and sneaking, we could lose a lot just out of attrition. It would be nice if we could convince them to leave us alone and give us information. I just don’t think that kobolds would be making people disappear. The goblins and the orcs on the other hand…”
+
+---
+
+**Claude**
+
+Lance speaks up from his corner, which is notable enough that everyone pays attention.
+
+"The tracks on the road coming in. Regular traffic, not raiding parties. Something is moving people and supplies through that ravine on a schedule." He pauses, uncomfortable with the length of his own speech. "Whoever is doing the organising — they'll be deeper in. Not the kobolds."
+
+Michael looks up from whatever he's been thinking about.
+
+"Sleep works on anything with a small number of hit dice. Kobolds, goblins, orcs." He says it the way he says most things — practically, without drama. "If we can get them grouped together before they scatter we can put a significant number down at once." A pause. "I'd rather not waste it on kobolds if there's something more dangerous deeper in."
+
+Aldric sets his cup down.
+
+"So. We skip the kobolds if we can, find an entrance that takes us toward the centre of things, hit the goblins or orcs first." He looks at Conrad. "You're the one who'd know which entrance looks most promising from the outside. What are we looking for?"
+
+He's deferring to Conrad's skills deliberately — locks, traps, reading a space before you enter it. This is exactly the kind of problem Conrad is built for, even at level one.
+
+The question is on the table.
+
+What does Conrad say?
+
+---
+
+**You**
+
+Conrad says “Lance will be a help to, since this is all wilderness, but I’d think we’d be looking for cave entrances that show rough living. Goblins aren’t the cleanest race.”
+
+---
+
+**Claude**
+
+Lance nods once — the short nod of a man who agrees and doesn't feel the need to add to it.
+
+"Refuse piles. Bone middens. The smell alone will tell you something before you're close enough to see the entrance." He considers. "Goblin warrens tend to have multiple entrances too — they like bolt holes. If we find one entrance we should assume there are others we haven't seen."
+
+"Charming people," Aldric observes.
+
+"The tracks Sherlane mentioned," Michael says, still with that slightly distant quality of a man thinking out loud. "The ones moving together — goblins and orcs coordinating. If there's a shrine deeper in organising all of this, there'll be traffic between the caves and whatever that central point is. A path more worn than the others."
+
+Conrad would know what he's suggesting — the busiest route is probably the most dangerous, but it's also the most informative. Follow the traffic, find the organisation.
+
+Aldric looks around the group.
+
+"So. Tomorrow morning we approach the ravine, let Lance and Conrad read the entrances from a safe distance, identify the goblin warrens, and pick the one that looks most used without looking most defended." He pauses. "That's a plan. It has the virtue of being flexible enough to survive contact with reality."
+
+He finishes his ale.
+
+"Get some sleep. All of you." A look at Michael specifically. "Actual sleep. Not whatever you were doing with that parchment earlier."
+
+Does the party retire for the night?
+
+---
+
+**You**
+
+We retire for the night.
+
+---
+
+**Claude**
+
+The night passes quietly. The Keep's walls do what walls are supposed to do — the darkness outside stays outside, and whatever moves on the road between here and the ravine moves without your knowledge.
+
+Dawn comes cold and clear. Autumn asserting itself.
+
+Breakfast is plain and hot — porridge, bread, salt pork. Mirna refills cups without being asked. Marta is not in the common room. She has a farm to return to, and she has done what she came to do.
+
+The party assembles in the entry yard as the morning light finds the tops of the walls. The horses are stabled — no use for them in a ravine. Everyone is on foot.
+
+Aldric checks his mace with the habitual attention of a man who has learned not to assume things are where he left them. Satisfied, he looks up at the sky.
+
+"Fine day for it," he says. "If you like that sort of thing."
+
+The corporal of the watch passes through the yard, notes the party's readiness with a glance, and says nothing. At the gate one of the guards catches Thomas's eye briefly — not quite a salute, but something in that direction.
+
+The drawbridge comes down. The road east stretches before you into the trees, the morning light falling long and golden across it.
+
+A mile to the ravine.
+
+**Please update your marching order for on-foot travel, and let me know if the party wants Lance to watch the verges for tracks as you move.**
+
+---
+
+**You**
+
+Lance will lead while in the wilderness and he is watching for tracks. Thomas and Aldric behind him and Michael and Conrad behind them.
+
+---
+
+**Claude**
+
+Good marching order — Lance's wilderness skills are exactly right for point in this terrain.
+
+---
+
+The road east is quiet at this hour, the trees pressing closer as the Keep falls behind you. The farmland gives way to rougher ground — scrub, rocky outcroppings, the land rising slightly toward the ravine.
+
+Lance reads the road as he walks.
+
+After perhaps twenty minutes he slows without stopping, eyes on the verge. He crouches briefly, examines something, straightens.
+
+He keeps his voice low when he speaks.
+
+"Regular foot traffic. Small feet — goblins, kobolds, something in that range. Moving parallel to the road in the tree line, not on it." He glances west, back toward the Keep road. "And here — " he moves a few feet further, " — drag marks. Recent. Two days, maybe three."
+
+He looks at Thomas.
+
+"Something was taken this way. More than one something, from the width of the trail."
+
+The trees ahead thicken. The road bends slightly north and through the canopy the ground can be seen dropping away — the beginning of the ravine. Cave mouths aren't visible yet but the smell reaches you before the sight does.
+
+Woodsmoke. Refuse. The particular sourness of many bodies living in close quarters underground.
+
+Aldric wrinkles his nose.
+
+"Conrad was right about the smell."
+
+The ravine is perhaps a hundred yards ahead. What does the party do?
+
+---
+
+**You**
+
+We head through the trees instead of the road, trying to move quietly and looking for a goblin cave.
+
+---
+
+**Claude**
+
+Lance raises a hand and moves into the tree line without discussion — this is his ground, and his bearing shifts noticeably the moment the road is behind you. More deliberate. More present.
+
+The party follows his lead.
+
+**Moving quietly through the trees — Lance and Conrad roll their move silently checks. Lance is rolling against his 1-3 on d6 chance in natural surroundings. Conrad is rolling his 20% thief skill. Everyone else — Thomas in chain mail especially — is simply trying not to sound like a cart accident.**
+
+Please roll:
+
+1. A d6 for Lance's Move Silently
+2. d% (percentile) for Conrad's Move Silently
+3. A d6 for the rest of the party's general noise level — on a 1 or 2 you're moving quietly enough, on a 3 or 4 there's some noise but nothing dramatic, on a 5 or 6 Thomas's chain mail has opinions about stealth
+
+While you gather those rolls — Lance is already reading the terrain as you move through it. The ravine wall becomes visible through the trees, grey rock dropping sharply perhaps thirty feet. The smell intensifies from the left — south along the ravine face.
+
+Two cave mouths are visible from your current position. One shows a dark smear of old refuse around its base. The other has crude markings scratched into the rock beside the entrance.
+
+Lance catches Conrad's eye and points to the refuse pile without speaking.
+
+Rolls when ready.
+
+---
+
+**You**
+
+4 for Lance, 35 for Conrad, and 4 for the rest of the party
+
+---
+
+**Claude**
+
+Lance moves like he grew out of the ground — easy, unhurried, each footfall placed with the unconscious precision of a man who has spent more time in forests than out of them. Conrad ghosts along behind him with the careful economy of someone who has learned that stillness is a skill worth practicing.
+
+The rest of the party manages adequately. Thomas is the main concern — chain mail in woodland is a negotiation at best — but he's moving carefully and the 4 is respectable. Some noise. Not enough to carry far.
+
+You work your way to a position perhaps forty feet from the refuse-marked entrance, screened by a stand of young birch. Close enough to observe. Far enough to have options.
+
+What Lance and Conrad can read from here:
+
+The refuse pile is substantial — bones, broken pottery, scraps of hide. Old and new mixed together, which means consistent occupation over time. The entrance itself is low, perhaps five feet high, widening into darkness within. Crude and unworked, unlike the rock around it.
+
+Two sets of tracks in the soft earth at the entrance. Coming and going, recent. The drag marks from the road lead here — and then inside.
+
+No guards visible at the entrance. Which Lance would note is not the same as no guards.
+
+From somewhere inside, faint and distant — voices. The guttural, quarrelsome sound of goblins at rest.
+
+Aldric leans close to Thomas and murmurs almost soundlessly.
+
+"How do you want to do this?"
+
+What does the party do?
+
+---
+
+**You**
+
+Here is a good time to stop the session. We will head into the cave first thing in the new session.
+
+---
+
+**Claude**
+
+Good stopping point — the party is poised at the cave mouth, the ravine at their backs, goblins audible within. Clean cliffhanger.
+
+Here is your Session State Block:
+
+```
+== SESSION STATE BLOCK ==
+Date in-game: Day 2, Early Autumn, morning
+Location: Caves of Chaos — outside goblin cave entrance (refuse-marked), 
+eastern ravine wall, approximately 40 feet back in tree cover
+Last action: Party moved silently through tree line and has identified 
+a goblin cave entrance with fresh drag marks leading inside. 
+Goblin voices audible from within. No visible guards at entrance.
+
+PARTY STATUS
+Conrad (Thief 1): HP 5/5 | XP 0/1,200
+Lance (Ranger 1): HP 7/7 | XP 0/2,250
+Michael (Magic-User 1): HP 5/5 | XP 0/2,500 | Spells: Sleep (memorized, uncast)
+Thomas (Paladin 1): HP 4/4 | XP 0/2,750 | Lay on Hands: available
+Aldric (Cleric 2): HP 7/7 | XP 0/3,000 | Spells: Cure Light Wounds (ready)
+
+RESOURCES
+Torches: 0 | Lantern oil: 8 flasks | Rations: adequate
+Gold carried: Conrad 85cp / Lance 7gp / Michael 35gp 5sp / Thomas 0gp / 
+Aldric (personal funds, modest)
+
+MARCHING ORDER (on foot, wilderness)
+Lance (point)
+Thomas
+Aldric
+Michael
+Conrad
+
+ACTIVE LEADS & RUMOURS
+- Humanoid raids on the road are organised — different tribes moving 
+  together with purpose
+- Prisoners being taken south rather than killed — destination unknown
+- Moathouse north of Hommlet appears reoccupied — Jaroo says the 
+  forest won't go near it
+- Rannos and Gremag (traders, Hommlet) watched the party all evening 
+  at the Welcome Wench — Jaroo doesn't trust them, Elmo dislikes them
+- A shrine deeper in the Caves may be the coordination point for the raids
+- Sherlane lost a scouting party in the Caves — one of two sent, did not return
+- Drag marks on the road leading to this cave entrance — recent, 
+  two to three days old
+
+NOTABLE LOOT (unspent/unidentified)
+- None yet
+
+ALDRIC STATUS
+Loyalty: Normal
+Notes: Quietly affected by Marta's story. Has not commented on it further.
+
+NPC STATUS
+Terjon (Canon, Church of St. Cuthbert, Hommlet) — Chief cleric, 
+  holding post in Y'dey's absence. Lawful Good, capable, unhappy 
+  posting. Concerned about Y'dey. Sent party to Sherlane and Jaroo. 
+  Trust: Neutral/Professional.
+Jaroo Ashstaff (Druid, Grove north of Hommlet) — Has sensed something 
+  wrong in the land since spring. Believes prisoners going south. 
+  Distrusts Rannos and Gremag. Wants party to report findings to him 
+  as well as Sherlane. Trust: Friendly.
+Gundigoot (Innkeeper, Welcome Wench, Hommlet) — Sharp, careful, 
+  well-informed. Confirmed organised raids and moathouse lights. 
+  Trust: Friendly/Neutral.
+Elmo (Local, Welcome Wench common room) — Born in Hommlet, knows 
+  everyone. Dislikes the traders. Asked about paid work with the party. 
+  Appears jovial, is considerably more observant than he lets on. 
+  Trust: Friendly/Unknown.
+Rannos Davi (Trader, Hommlet) — Heavyset, placid, watchful eyes. 
+  Watched party all evening. Chaotic Evil. Trust: None/Suspicious.
+Gremag (Trader, Hommlet) — Thin, sharp-featured. Watched party all 
+  evening, less disciplined about concealing it than Rannos. 
+  Chaotic Evil. Trust: None/Suspicious.
+Sherlane (Castellan, Keep on the Borderlands) — Direct, military, 
+  competent. Lost a scouting party in the Caves. Wants intelligence 
+  reports after each expedition. Offered Keep as base. Trust: Friendly/Professional.
+Marta (Farmer's wife, Keep Traveller's Inn) — Husband Edric missing 
+  three weeks, taken on the Hommlet road. Cannot pay. Thomas 
+  promised to look for him. Trust: Grateful.
+
+OPEN THREADS
+- Edric (Marta's husband, brown hair going grey, scar on left hand) — 
+  missing three weeks, drag marks suggest he may be in this cave complex
+- Y'dey's whereabouts — departed suddenly, Terjon concerned, 
+  travelling with Otis (Elmo's brother) and an elf named Murfles
+- The shrine deeper in the Caves — coordination point for the raids, 
+  identity of whoever is doing the organising unknown
+- The moathouse — reoccupied, forest won't go near it, 
+  party advised to tackle Caves first
+- Rannos and Gremag — what do they know about the party, 
+  and who are they reporting to?
+- Elmo — potential hireling, unknown deeper allegiances
+
+CORRECTIONS/ONGOING INSTRUCTIONS
+- Aldric does not have advance knowledge of Hommlet NPC situations 
+  unless he could plausibly have learned them through road gossip 
+  or direct experience. Flag if this occurs again.
+
+== END STATE BLOCK ==
+```
+
+Good session — the conspiracy groundwork is laid naturally, the party has made the right contacts, and Marta's thread gives the Caves a personal stake beyond treasure and duty. See you at the cave mouth.
+
+---
+
+**Claude**
+
+D&D epic Campaign
