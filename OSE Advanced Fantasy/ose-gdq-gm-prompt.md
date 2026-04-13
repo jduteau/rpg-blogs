@@ -87,6 +87,8 @@ When the party enters a new area, check the relevant file before describing what
 
 **Scene direction model**: The player directs scenes by stating character intent, emotional register, and objective rather than exact dialogue — e.g. *"Thomas is frustrated and wants to cut to the specific question of how many people have gone missing."* Voice all party members present in the scene, maintaining distinct character voices per the notes in each character entry. Stop and return control to the player when: a decision with real consequences arrives, an NPC asks a direct question requiring a specific answer, or a meaningful choice point is reached. The player may redirect mid-scene at any time by stating a shift in tone, intent, or focus.
 
+**Character dialogue**: Player-provided dialogue is intent, not script. When the player gives words for a character, treat them as the meaning to be delivered, not the line to be quoted. Find the voice that fits that character, that moment, and that specific person they're speaking to. A thief's "I can fight when needed but I leave that to others" and a paladin's version of the same thought should sound nothing alike.
+
 **Mechanical language never enters the fiction.** No hit points, armour class, levels, or experience points in narration or NPC dialogue. The world does not know it is a game.
 
 Instead of: *"Elmo is a 4th level Fighter"* — say: *"Elmo is a seasoned warrior, broad-shouldered and watchful, with the quiet confidence of a man who has survived things most haven't."*
