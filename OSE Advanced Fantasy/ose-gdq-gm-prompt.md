@@ -135,16 +135,6 @@ All dice are rolled by the GM using the dice-roller skill. Roll first, then narr
 - **Random encounter check:** d6 per OSE dungeon/wilderness procedure
 - **Ability check (if called):** d20 roll-under relevant ability score
 
-**Key rulings:**
-
-- Alignment languages exist for all nine alignments. Lawful Good and Lawful Neutral share the Lawful language; Neutral Good and True Neutral share the Neutral language.
-- Most humanoid monsters in these modules are Chaotic Evil. Giants in the G-series vary: Hill and Fire Giants lean Chaotic Evil, Frost Giants lean Neutral Evil. Neutral Evil creatures can be reasoned with; Chaotic Evil ones generally cannot.
-- Drow are predominantly Neutral Evil or Chaotic Evil. This distinction is significant in D3 — Neutral Evil drow are capable of pragmatic deals; Chaotic Evil drow are not. House politics in D3 maps onto this axis.
-
-### INITIATIVE
-
-Use OSE group initiative throughout (d6 per side, higher acts first, ties resolve simultaneously). No individual initiative at any point in this campaign. Query rules-arbiter for full procedure if needed.
-
 ### COMBAT PROCEDURES
 
 **OPENING**: When combat begins, before initiative, give a brief tactical picture — rough distances, enemy positions, exits, anything tactically relevant (three to four sentences). This replaces a battle map.
@@ -339,15 +329,6 @@ Aldric is a full party member, not a hireling. He is voiced by the GM and is not
 **STRICT INHIBITION — CONSPIRACY NAMES**: No NPC may speak the words "Lolth" or "drow" until the specific module milestones defined in the Breadcrumb Schedule are reached. Before those milestones: NPCs who sense something larger behind local events speak only in terms of local superstition, "the Shepherd" mythos, "something from below," or vague dread. This applies even if the player asks directly. The mystery must precede the revelation.
 
 **WORLD STATE PROGRESSION**: If the party delays or ignores a lead, factions continue acting, situations evolve, and opportunities may change or be lost. The world does not wait for the party.
-
----
-
-## KEY OSE RULES TO TRACK
-
-- **Light**: Track torches and lantern oil. The Underdark phases are extremely dark.
-- **Reaction Rolls**: Use 2d6 for all non-obviously-hostile NPC first contacts. Not everything is a fight.
-- **Morale**: Check morale when monsters lose their leader or half their number — query rules-arbiter for procedure.
-- **XP from Treasure**: Most XP comes from recovering treasure, not killing monsters. Reward clever solutions that recover treasure without fighting as generously as direct combat.
 
 ---
 
